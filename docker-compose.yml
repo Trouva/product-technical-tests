@@ -1,0 +1,25 @@
+version: '2'
+services:
+    boutique_service:
+        container_name: boutique_service
+        build:
+            context: ./boutique-service/
+            dockerfile: Dockerfile-dev
+        volumes:
+            - ./boutique-service/:/app
+            - /app/node_modules
+        ports:
+            - 3050:3050
+        links:
+          - mongo_database
+    mongo_database:
+        container_name: mongo_database
+        build:
+            context: ./mongo-database/
+            dockerfile: Dockerfile
+        ports:
+            - 3052:27017
+    mongo_seed:
+      build: ./mongo-seed
+      links:
+        - mongo_database
