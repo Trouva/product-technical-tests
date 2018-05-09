@@ -6,7 +6,7 @@ In your briefing you will have been given a link to a specific challenge, though
 
 ### Product Engineer
 
-- [Create a nearby boutiques endpoint](./challenges/Engineer.API_development_test.lvl1)
+- [Create a nearby boutiques endpoint](./challenges/Engineer.API_development_test.lvl1.md)
 
 ## Pre-requisite Setup
 
