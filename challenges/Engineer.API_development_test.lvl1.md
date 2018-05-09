@@ -32,5 +32,3 @@ HTTP/1.1 200 OK
 ```
 
 The basic route has been setup already in [./boutique-service/src/httpApi/v1/routes.js](routes.js) and a stub handler for the api request in [./boutique-service/src/httpApi/v1/handlers/boutiquesNear.js](boutiquesNear.js).
-
-## What we have given you
