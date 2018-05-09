@@ -12,6 +12,8 @@ services:
             - 3050:3050
         links:
           - mongo_database
+        environment:
+          MONGO_CONNECTION_STRING: 'mongodb://mongo_database/test'
     mongo_database:
         container_name: mongo_database
         build:

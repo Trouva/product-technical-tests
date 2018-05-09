@@ -26,8 +26,8 @@ function initHttpApi(){
     });
 }
 
-export default function boot(){
-    return connectToMongo(mongoose, 'mongodb://mongo_database/test')
+export default function boot({mongoConnectionString}){
+    return connectToMongo(mongoose, mongoConnectionString)
         .then(initHttpApi)
         .then(api => {
             return {api};

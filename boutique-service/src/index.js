@@ -1,7 +1,8 @@
 import boot from './boot';
 
 boot({
-    environment: process.env.NODE_ENV || 'development'
+    environment: process.env.NODE_ENV || 'development',
+    mongoConnectionString: process.env.MONGO_CONNECTION_STRING
 }).then(outputs => {
     const port = process.env.PORT || 3050;
     outputs.api.listen(port);
