@@ -1,5 +1,1 @@
-import boutiques from './boutiques';
-
-export default {
-    boutiques
-};
+export {default as boutiques} from './boutiques';

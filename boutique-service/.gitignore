@@ -35,7 +35,7 @@ node_modules
 .DS_Store
 .env
 dist
-docs
+.nyc_output
 
 # Sublime project
 *.sublime-project

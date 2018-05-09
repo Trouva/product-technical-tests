@@ -1,10 +1,8 @@
-import Boutique from '../../../models/boutique';
-
-export default function boutiques(req, res, next) {
+export default function boutiques({models}, req, res, next) {
+    const Boutique = models.boutique;
     Boutique.find({})
-        .lean()
         .then(boutiques => {
             res.send(boutiques);
         })
-        .catch(next)
+        .catch(next);
 }

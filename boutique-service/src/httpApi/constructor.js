@@ -1,6 +1,7 @@
 import compression from 'compression';
 import _ from 'lodash';
 import cors from 'cors';
+import * as models from '../models';
 
 export default function buildAPI(express, routes) {
     // Build express app
@@ -31,11 +32,12 @@ export default function buildAPI(express, routes) {
         res.send('pong');
     });
 
+    app.use('/docs/', express.static('../../docs'));
+
     _.each(routes, config => {
         const router = express();
 
-        router.use(express.static(`docs/${config.namespace}`));
-        config.routes({router, handlers: config.handlers});
+        config.routes({models, router, handlers: config.handlers});
         router.use(config.error);
 
         app.use(`/${config.namespace}`, router);
@@ -44,8 +46,8 @@ export default function buildAPI(express, routes) {
     // General error handler
     app.use((err, req, res, next) => {
         console.error(err.stack);
-
-        res.status(500).send(err.message);
+        res.setStatus(500);
+        res.send(err.message);
     });
 
     return app;

@@ -1,0 +1,3 @@
+./test/**/*.test.js
+--require babel-register
+--ui bdd

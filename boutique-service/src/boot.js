@@ -4,8 +4,8 @@ import mongoose from 'mongoose';
 import apiConstructor from './httpApi/constructor';
 import v1api from './httpApi/v1';
 
-function connectToMongo(){
-    mongoose.connect('mongodb://mongo_database/test');
+export function connectToMongo(mongoose, dbConnectionString){
+    mongoose.connect(dbConnectionString);
 
     return new Bluebird((resolve, reject) => {
         const db = mongoose.connection;
@@ -23,13 +23,11 @@ function initHttpApi(){
         } catch (err) {
             return reject(err);
         }
-    })
-
-    return Bluebird.resolve();
+    });
 }
 
-export default function boot(config){
-    return connectToMongo()
+export default function boot(){
+    return connectToMongo(mongoose, 'mongodb://mongo_database/test')
         .then(initHttpApi)
         .then(api => {
             return {api};

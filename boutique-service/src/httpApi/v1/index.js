@@ -1,5 +1,5 @@
 import routes from './routes';
-import handlers from './handlers';
+import * as handlers from './handlers';
 import errorHandler from './error';
 
 export default {
