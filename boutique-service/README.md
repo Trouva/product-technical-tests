@@ -17,7 +17,7 @@ If you want to run outside of Docker then you will need to configure your own in
 
 There is a simple HTTP API that returns a list of Trouva boutiques. This is currently a very simple API that will return all of the boutiques within the database without anything like pagination or filtering.
 
-Full API docs can be found in (./docs/index.html)[./docs/index.html].
+Full API docs can be found in [./docs/index.html](./docs/index.html).
 
 ## Architecture
 
