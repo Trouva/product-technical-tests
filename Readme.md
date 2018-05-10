@@ -31,3 +31,7 @@ Once it is all built you can visit `http://localhost:3050/ping` in your browser 
 We can't answer every problem. If you feel really uncomfortable diving into Docker, then don't worry we can teach you later. It is possible to run all of the parts outside of Docker, have a poke around and if you get stuck just drop us an email.
 
 But if you are just stuck on a small things, we have put together some [Docker Tips](./docker-tips.md).
+
+### Communicate change
+
+If you feel the need to communicate your approach, mindset, changes, additions etc. feel free to spin up a new markdown file and outline your thoughts in there. 
