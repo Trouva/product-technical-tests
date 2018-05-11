@@ -39,3 +39,12 @@ HTTP/1.1 200 OK
 ```
 
 The basic route has been setup already in [routes.js](./boutique-service/src/httpApi/v1/routes.js) and a stub handler for the api request in [boutiquesNear.js](./boutique-service/src/httpApi/v1/handlers/boutiquesNear.js).
+
+## Submitting the challenge
+
+Please clone/fork this repo to your personal computer and create a branch to hold your work, committing to Git as you go.
+
+Once you are ready to submit, we would like you to create a zip file of your branch and email it over to us.
+
+1. To create a Zip archive of your branch use: `git archive -o ./trouva-test.zip <your_branch_name>`
+2. Then please email it to george@trouva.com
