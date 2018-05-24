@@ -4,7 +4,7 @@
   "description": "An API to provide information on Trouva boutiques",
   "main": "src/index.js",
   "scripts": {
-    "test": "nyc mocha",
+    "test": "nyc mocha --timeout 5000",
     "docs": "./node_modules/.bin/apidoc -i src/httpApi -o docs",
     "start": "babel-node src/index"
   },
