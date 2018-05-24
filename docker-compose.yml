@@ -13,7 +13,7 @@ services:
         links:
           - mongo_database
         environment:
-          MONGO_CONNECTION_STRING: 'mongodb://mongo_database/test'
+          MONGO_CONNECTION_STRING: 'mongodb://mongo_database/project'
     mongo_database:
         container_name: mongo_database
         build:
