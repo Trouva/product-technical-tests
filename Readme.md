@@ -8,6 +8,9 @@ In your briefing you will have been given a link to a specific challenge, though
 
 - [Create a nearby boutiques endpoint](./challenges/Engineer.API_development_test.lvl1.md)
 
+### Data Engineer
+- [Sizes & Variants](./challenges/Data.Size_manipulation.md)
+
 ## Pre-requisite Setup
 
 Within this repo you should have everything you need to complete the challenge. There are some skeleton services setup, with example code to get you started and databases pre-filled with data.
@@ -34,4 +37,4 @@ But if you are just stuck on a small things, we have put together some [Docker T
 
 ### Communicate change
 
-If you feel the need to communicate your approach, mindset, changes, additions etc. feel free to spin up a new markdown file and outline your thoughts in there. 
+If you feel the need to communicate your approach, mindset, changes, additions etc. feel free to spin up a new markdown file and outline your thoughts in there.
