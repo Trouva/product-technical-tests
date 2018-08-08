@@ -11,16 +11,7 @@ export default function buildAPI(express, routes) {
     app.enable('trust proxy');
 
     app.use(compression());
-    app.use(cors({
-        origin: function(origin, next) {
-            const whitelist = [
-                'http://localhost:3051'
-            ];
-
-            next(null, _.includes(whitelist, origin));
-        },
-        credentials: true
-    }));
+    app.use(cors());
 
     app.use((req, res, next) => {
         res.header('Cache-Control', 'no-cache');

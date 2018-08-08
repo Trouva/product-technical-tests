@@ -7,6 +7,7 @@ In your briefing you will have been given a link to a specific challenge, though
 ### Product Engineer
 
 - [Create a nearby boutiques endpoint](./challenges/Engineer.API_development_test.lvl1.md)
+- [Create a nearby boutiques web app](./challenges/Engineer.front_end.lvl1.md)
 
 ### Data Engineer
 - [Sizes & Variants](./challenges/Data.Size_manipulation.md)
