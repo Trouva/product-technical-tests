@@ -50,4 +50,4 @@ Please clone/fork this repo to your personal computer and create a branch to hol
 Once you are ready to submit, we would like you to create a zip file of your branch and email it over to us.
 
 1. To create a Zip archive of your branch use: `git archive -o ./trouva-test.zip <your_branch_name>`
-2. Then please email it to george@trouva.com
+2. Then please email it to emma.karydi@trouva.com
