@@ -18,7 +18,9 @@ Each boutique should have a Google Places ID (if it exists)
 
 We've received notice, that we've got a new partner who is about to send us a list of 25,000 physical shops in the UK. We need to go through each of them manually, to sort out which shops meet our criteria (quality, brands, location, offline presence etc.).
 
-To help the Discovery Team who'll be handling the manual process, your squad has decided to build an experience that centralises as much information as possible in one UI so that they can take decisions quickly. Given that every second counts, you're starting to build out a new capability in the boutique-service which stores the Google Places ID of the boutique to reduce the calls required on the client.
+To help the Discovery Team who'll be handling the manual process, your squad has decided to build an experience that centralises as much information as possible in one interface so that they can take decisions quickly. Given that every second counts, you're starting to build out a new capability in the boutique-service which stores the Google Places ID of the boutique to reduce the calls required on the client.
+
+You've taken on the responsibility to retrieve & store the Google Places ID in the `boutique-service` for new & existing boutiques so that the response to the client is as fast as possible. 
 
 ## The requirements
 
