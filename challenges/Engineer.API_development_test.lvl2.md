@@ -32,6 +32,8 @@ We know that we need to account for:
 1. In some cases the result may be negative, meaning there is no Google Place for a boutique
 2. We need this information to be stored both for existing and new boutiques, as well as refreshed when a boutique is updated
 
+Reminder: During the setup of this project, your local db is seeded with a list of existing boutiques
+
 ## Submitting the challenge
 
 Please clone/fork this repo to your personal computer and create a branch to hold your work, committing to Git as you go.
