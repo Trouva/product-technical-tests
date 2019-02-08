@@ -26,7 +26,6 @@ We have agreed to extend the Schema with a new field:
 
 ```
 google_places_id
-
 ```
 
 We know that we need to account for:
