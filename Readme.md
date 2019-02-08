@@ -8,7 +8,7 @@ In your briefing you will have been given a link to a specific challenge, though
 
 Backend / Fullstack:
 - [Create a nearby boutiques endpoint](./challenges/Engineer.API_development_test.lvl1.md)
-- [Integrate Google Places ID](./challenges/Engineer.API_Development.lvl2.md)
+- [Integrate Google Places ID](./challenges/Engineer.API_development_test.lvl2.md)
 
 Frontend:
 - [Create a nearby boutiques web app](./challenges/Engineer.front_end.lvl1.md)
