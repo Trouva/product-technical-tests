@@ -37,7 +37,7 @@ We know that we need to account for:
 Reminder: During the setup of this project, your local db is seeded with a list of existing boutiques
 
 ## Deliverables
-You've determined with the squad that you have 2 deliverables:
+You've determined with the squad that you have the following deliverables:
 1. Populate all existing boutiques in the database with their Google Places ID 
 2. Whenever a new boutique is create or updated, you need to retrieve and store the Google Places ID
 3. Return the Google Places ID as part of the API response
