@@ -1,0 +1,36 @@
+Test 1: Start sentence with word
+PASS: 
+XS
+PASS: 
+xs
+
+
+Test 2: Start sentence with word and a symbol/space
+PASS:
+XS other things!
+PASS:
+XS-
+PASS:
+XS/
+PASS: 
+XS something
+
+FAIL:
+XS?
+FAIL:
+XS.
+FAIL:
+XStest
+FAIL:
+Xsmall and other
+
+Test 3: Mid of sentence with space and word
+PASS: She wears XS and
+PASS: She wears XS
+FAIL: She wears somehtingXSsomething
+FAIL: She wears somethingXS
+FAIL: She wears XSsomething
+
+Test 4: Mid of sentence with dash or / and word
+PASS: She wears -XS
+PASS: She wears /XS
