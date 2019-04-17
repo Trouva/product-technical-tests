@@ -14,17 +14,23 @@ def readJson(filename):
 
 
 
-
 data = readJson('../mongo-seed/sizes.json');
 
 # Convert to DataFrame
-data_DF = pd.DataFrame.from_records(data);
-data_DF['_id_Str'] = data_DF['_id'].astype(str);
+data_original = pd.DataFrame.from_records(data);
+# Add an ID string
+data_original['_id_Str'] = data_original['_id'].astype(str);
 
 
+#==========MATCH TO FILTER
 
+#Debugging tracking things
+changeTracker = [];
+classified_Total = 0;
+
+#Regex
 regexString = r'(^(MATCHSTR)$)|(^(MATCHSTR)[-\/\\h])|([-\/\\h](MATCHSTR)[-\/\\h])|([-\/\\h](MATCHSTR)$)|([-\/\\h](MATCHSTR)[-\/\\h])';
-regexArr = [
+regex_Filters = [
 			{"matchStr": "xxs", "filterStr": "XXS"},
 			{"matchStr": "xxsmall", "filterStr": "xs"},
 			{"matchStr": "xs", "filterStr": "XS"},
@@ -41,67 +47,74 @@ regexArr = [
 			{"matchStr": "l", "filterStr": "L"}
 			];
 
-changeTracker = [];
-classified_Count = 0;
-for regex in regexArr:
-	data_NoFilterLabel = data_DF.query('filter_label!=filter_label')
+data_current = data_original
 
+for regex in regex_Filters:
+	#Get all rows where there is no filters already assigned
+	data_noFilter = data_current.query('filter_label!=filter_label')
+
+	#Get current string + filter
 	curr_MatchStr = regex.get("matchStr","");
 	curr_FilterStr = regex.get("filterStr","");
 
 
 	# Filter based off regex 
 	currentRegex = regexString.replace("MATCHSTR", curr_MatchStr);
-	data_result = data_NoFilterLabel[data_NoFilterLabel['label'].str.contains(currentRegex, flags=re.IGNORECASE, regex=True)];
+	data_result = data_noFilter[data_noFilter['label'].str.contains(currentRegex, flags=re.IGNORECASE, regex=True)];
 
-	# Set filter to a string
+	# Assign all rows that fit the regex to the filter
 	data_result.filter_label = curr_FilterStr;
 
-	#Output Filter files
+	# Append data_result (with new filters) to current data, and drop duplicates via ID
+	data_current = pd.concat([data_current,data_result]).drop_duplicates('_id_Str',keep='last');
+
+
+	####### DEBUGGING
+
+	# Write all matches to a filter file to analyse
 	print("Write " + curr_MatchStr + " filter to file");
-	data_json = json.loads(data_result.to_json(orient='records'));
+	data_debug = json.loads(data_result.to_json(orient='records'));
 
 	with open('debugFiles/' + curr_MatchStr+'.json', 'w') as outfile:
-		json.dump(data_json, outfile, indent=4, sort_keys=True);
+		json.dump(data_debug, outfile, indent=4, sort_keys=True);
 
-
-	# Track rows changed
+	# Update counts to the overall results count file
 	noOfClassified = len(data_result)
 	changeTracker.append({"matchStr": curr_MatchStr, "filterStr": curr_FilterStr, "count":noOfClassified});
-	classified_Count = classified_Count + noOfClassified;
+	classified_Total = classified_Total + noOfClassified;
 
-	# Update the whole schema
-	data_DF = pd.concat([data_DF,data_result]).drop_duplicates('_id_Str',keep='last');
-
+	####### END DEBUGGING
 
 
-	
+
+######### OUTPUT TO FILE
 
 
 # Convert from DF to json
-data_DF.drop(columns=['_id_Str']);
-data_json = json.loads(data_DF.to_json(orient='records'));
-
+data_current.drop(columns=['_id_Str']);
+data_JSONoutput = json.loads(data_current.to_json(orient='records'));
 
 
 # Save to file
 with open('data_cleanse.json', 'w') as outfile:
-    json.dump(data_json, outfile, indent=4, sort_keys=True);
+    json.dump(data_JSONoutput, outfile, indent=4, sort_keys=True);
 
+
+####### DEBUGGING
 
 # Save unclassified to file
-data_unclassified = data_DF.query('filter_label!=filter_label');
-data_json = json.loads(data_DF.to_json(orient='records'));
+data_unclassified = data_current.query('filter_label!=filter_label');
+data_JSONunclassified = json.loads(data_unclassified.to_json(orient='records'));
 with open('debugFiles/' + 'data_unclassified.json', 'w') as outfile:
-    json.dump(data_json, outfile, indent=4, sort_keys=True);
+    json.dump(data_JSONunclassified, outfile, indent=4, sort_keys=True);
 
-
+# Append remaining data to results count file
 changeTracker.append({"matchStr": 'unclassified', "filterStr": 'na', "count":len(data_unclassified)});
-changeTracker.append({"matchStr": 'total classified', "filterStr": 'na', "count":classified_Count });
+changeTracker.append({"matchStr": 'total classified', "filterStr": 'na', "count":classified_Total });
 
 # print results to file
 print(changeTracker);
-with open('debugFiles/' + 'results.json', 'w') as outfile:
-    json.dump(data_json, outfile, indent=4, sort_keys=True);
+with open('debugFiles/' + 'ResultCounts.json', 'w') as outfile:
+    json.dump(changeTracker, outfile, indent=4, sort_keys=True);
 
 
