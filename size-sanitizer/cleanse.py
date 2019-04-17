@@ -29,7 +29,7 @@ changeTracker = [];
 classified_Total = 0;
 
 #Regex
-regexString = r'(^(MATCHSTR)$)|(^(MATCHSTR)[-\/\\h])|([-\/\\h](MATCHSTR)[-\/\\h])|([-\/\\h](MATCHSTR)$)|([-\/\\h](MATCHSTR)[-\/\\h])';
+regexString = r'(^(MATCHSTR)$)|(^(MATCHSTR)[-\/\\ ])|([-\/\\ ](MATCHSTR)[-\/\\ ])|([-\/\\ ](MATCHSTR)$)|([-\/\\ ](MATCHSTR)[-\/\\ ])';
 regex_Filters = [
 			{"matchStr": "xxs", "filterStr": "XXS"},
 			{"matchStr": "xxsmall", "filterStr": "xs"},
