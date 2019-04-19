@@ -1,0 +1,594 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58e870cb972abb04000e65d3"
+        },
+        "_id_Str": "{'$oid': '58e870cb972abb04000e65d3'}",
+        "created_at": {
+            "$date": "2017-04-08T05:10:35.863Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / white",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-08T05:10:35.879Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec643b89aca50400609fe4"
+        },
+        "_id_Str": "{'$oid': '58ec643b89aca50400609fe4'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:03.048Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:03.049Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec643bff39450400bb6a8c"
+        },
+        "_id_Str": "{'$oid': '58ec643bff39450400bb6a8c'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:03.089Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Stone",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:03.093Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec64076bc54f04006929e8"
+        },
+        "_id_Str": "{'$oid': '58ec64076bc54f04006929e8'}",
+        "created_at": {
+            "$date": "2017-04-11T05:05:11.582Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:05:11.584Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec6438ff39450400bb6a72"
+        },
+        "_id_Str": "{'$oid': '58ec6438ff39450400bb6a72'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:00.992Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Light Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:00.992Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec643ae3916e040062b36c"
+        },
+        "_id_Str": "{'$oid': '58ec643ae3916e040062b36c'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:02.311Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:02.314Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec6407ff39450400bb69f8"
+        },
+        "_id_Str": "{'$oid': '58ec6407ff39450400bb69f8'}",
+        "created_at": {
+            "$date": "2017-04-11T05:05:11.815Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:05:11.817Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec64516bc54f0400692b64"
+        },
+        "_id_Str": "{'$oid': '58ec64516bc54f0400692b64'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:25.200Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Cerulean",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:25.202Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec645089aca5040060a0f7"
+        },
+        "_id_Str": "{'$oid': '58ec645089aca5040060a0f7'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:24.901Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Mint",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:24.902Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec644fe3916e040062b4ab"
+        },
+        "_id_Str": "{'$oid': '58ec644fe3916e040062b4ab'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:23.861Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Indigo",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:23.869Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec6450297f9b0400c439da"
+        },
+        "_id_Str": "{'$oid': '58ec6450297f9b0400c439da'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:24.879Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Grey Marl",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:24.881Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec644ee3916e040062b48c"
+        },
+        "_id_Str": "{'$oid': '58ec644ee3916e040062b48c'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:22.598Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Vicuna",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:22.608Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec6450ff39450400bb6b6c"
+        },
+        "_id_Str": "{'$oid': '58ec6450ff39450400bb6b6c'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:24.954Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Coral",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:24.957Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ec64506bc54f0400692b52"
+        },
+        "_id_Str": "{'$oid': '58ec64506bc54f0400692b52'}",
+        "created_at": {
+            "$date": "2017-04-11T05:06:24.284Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Turquoise",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-11T05:06:24.284Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59212893ede41a04002adbc8"
+        },
+        "_id_Str": "{'$oid': '59212893ede41a04002adbc8'}",
+        "created_at": {
+            "$date": "2017-05-21T05:41:39.382Z"
+        },
+        "filter_label": "XXXL",
+        "label": "Xxxl",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-05-21T05:41:39.382Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "598744fb1977f604008ebe08"
+        },
+        "_id_Str": "{'$oid': '598744fb1977f604008ebe08'}",
+        "created_at": {
+            "$date": "2017-08-06T16:34:03.571Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL  / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-06T16:34:03.572Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59967d500ab2fa04007a1430"
+        },
+        "_id_Str": "{'$oid': '59967d500ab2fa04007a1430'}",
+        "created_at": {
+            "$date": "2017-08-18T05:38:24.930Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Military Green",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T05:38:24.931Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59967d4d89a87d040010487e"
+        },
+        "_id_Str": "{'$oid': '59967d4d89a87d040010487e'}",
+        "created_at": {
+            "$date": "2017-08-18T05:38:21.796Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Lime",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T05:38:21.802Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59967d520d58140400f3644a"
+        },
+        "_id_Str": "{'$oid': '59967d520d58140400f3644a'}",
+        "created_at": {
+            "$date": "2017-08-18T05:38:26.400Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T05:38:26.402Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599e67b0257fe404001978d7"
+        },
+        "_id_Str": "{'$oid': '599e67b0257fe404001978d7'}",
+        "created_at": {
+            "$date": "2017-08-24T05:44:16.613Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / VICUNA",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-24T05:44:16.614Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59af8aabe457f9040025d5a2"
+        },
+        "_id_Str": "{'$oid': '59af8aabe457f9040025d5a2'}",
+        "created_at": {
+            "$date": "2017-09-06T05:42:03.880Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-06T05:42:03.882Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59ba129be9d40b04002d775e"
+        },
+        "_id_Str": "{'$oid': '59ba129be9d40b04002d775e'}",
+        "created_at": {
+            "$date": "2017-09-14T05:24:43.040Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Bordeaux",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-14T05:24:43.042Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59ba129f0475d4040081d78a"
+        },
+        "_id_Str": "{'$oid': '59ba129f0475d4040081d78a'}",
+        "created_at": {
+            "$date": "2017-09-14T05:24:47.158Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-14T05:24:47.160Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59d50f346403c30400c8bc5b"
+        },
+        "_id_Str": "{'$oid': '59d50f346403c30400c8bc5b'}",
+        "created_at": {
+            "$date": "2017-10-04T16:41:24.390Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / BLACK",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-04T16:41:24.390Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa5643c1a0bb204008785fc"
+        },
+        "_id_Str": "{'$oid': '5aa5643c1a0bb204008785fc'}",
+        "created_at": {
+            "$date": "2018-03-11T17:15:40.550Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / WHITE",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-11T17:15:40.551Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa5646cbf9f080400615e45"
+        },
+        "_id_Str": "{'$oid': '5aa5646cbf9f080400615e45'}",
+        "created_at": {
+            "$date": "2018-03-11T17:16:28.858Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / NAVY",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-11T17:16:28.859Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa564701a0bb20400878635"
+        },
+        "_id_Str": "{'$oid': '5aa564701a0bb20400878635'}",
+        "created_at": {
+            "$date": "2018-03-11T17:16:32.435Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / BEIGE",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-11T17:16:32.436Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa5644514c63204001ca18a"
+        },
+        "_id_Str": "{'$oid': '5aa5644514c63204001ca18a'}",
+        "created_at": {
+            "$date": "2018-03-11T17:15:49.221Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / AQUA GREEN",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-11T17:15:49.224Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa56440bf9f080400615ded"
+        },
+        "_id_Str": "{'$oid': '5aa56440bf9f080400615ded'}",
+        "created_at": {
+            "$date": "2018-03-11T17:15:44.696Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / BLUE",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-11T17:15:44.697Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aab54dc4300860400d5ff88"
+        },
+        "_id_Str": "{'$oid': '5aab54dc4300860400d5ff88'}",
+        "created_at": {
+            "$date": "2018-03-16T05:23:40.853Z"
+        },
+        "filter_label": "XXXL",
+        "label": "EU 60 / UK XXXL",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-16T05:23:40.854Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab143624e8a0f04008a48b5"
+        },
+        "_id_Str": "{'$oid': '5ab143624e8a0f04008a48b5'}",
+        "created_at": {
+            "$date": "2018-03-20T17:22:42.853Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-20T17:22:42.854Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab28c65a2d49d0400f07827"
+        },
+        "_id_Str": "{'$oid': '5ab28c65a2d49d0400f07827'}",
+        "created_at": {
+            "$date": "2018-03-21T16:46:29.974Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / SKY BLUE",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-21T16:46:29.975Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab28c546845ca0400d46044"
+        },
+        "_id_Str": "{'$oid': '5ab28c546845ca0400d46044'}",
+        "created_at": {
+            "$date": "2018-03-21T16:46:12.016Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL / VICUNa",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-21T16:46:12.026Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad8df875f77a404003cf762"
+        },
+        "_id_Str": "{'$oid': '5ad8df875f77a404003cf762'}",
+        "created_at": {
+            "$date": "2018-04-19T18:27:19.353Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL  / BLUE",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-19T18:27:19.354Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae1767b5733df0400e6b0dd"
+        },
+        "_id_Str": "{'$oid': '5ae1767b5733df0400e6b0dd'}",
+        "created_at": {
+            "$date": "2018-04-26T06:49:31.228Z"
+        },
+        "filter_label": "XXXL",
+        "label": "EU 60 /  UK XXXL",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-26T06:49:31.230Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5afa76b207f1dc0400018296"
+        },
+        "_id_Str": "{'$oid': '5afa76b207f1dc0400018296'}",
+        "created_at": {
+            "$date": "2018-05-15T05:57:06.530Z"
+        },
+        "filter_label": "XXXL",
+        "label": "XXXL  / Vicuna",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-15T05:57:06.531Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b1587007028d30400d00b00"
+        },
+        "_id_Str": "{'$oid': '5b1587007028d30400d00b00'}",
+        "created_at": {
+            "$date": "2018-06-04T18:37:52.868Z"
+        },
+        "filter_label": "XXXL",
+        "label": "EU  60 / UK XXXL",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-04T18:37:52.869Z"
+        }
+    }
+]

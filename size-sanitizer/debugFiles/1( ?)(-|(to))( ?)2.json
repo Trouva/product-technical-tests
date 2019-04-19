@@ -1,0 +1,1362 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5714f67278bc4a0300bfb4d4"
+        },
+        "_id_Str": "{'$oid': '5714f67278bc4a0300bfb4d4'}",
+        "created_at": {
+            "$date": "2016-04-18T15:00:02.693Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-04-18T15:00:02.693Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "571a04b7b7bf950300f43a15"
+        },
+        "_id_Str": "{'$oid': '571a04b7b7bf950300f43a15'}",
+        "created_at": {
+            "$date": "2016-04-22T11:02:15.028Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "Grey 1-2 years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-04-22T11:02:15.028Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57959fde9811d203002bc66a"
+        },
+        "_id_Str": "{'$oid': '57959fde9811d203002bc66a'}",
+        "created_at": {
+            "$date": "2016-07-25T05:13:02.364Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2  years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-07-25T05:13:02.366Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57bb0885ec9a250300510b03"
+        },
+        "_id_Str": "{'$oid': '57bb0885ec9a250300510b03'}",
+        "created_at": {
+            "$date": "2016-08-22T14:13:25.056Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 years / Plum",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-08-22T14:13:25.057Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57bb0885ec9a250300510b02"
+        },
+        "_id_Str": "{'$oid': '57bb0885ec9a250300510b02'}",
+        "created_at": {
+            "$date": "2016-08-22T14:13:25.056Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 years / Duck Egg Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-08-22T14:13:25.057Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5816d6255a527403007481bc"
+        },
+        "_id_Str": "{'$oid': '5816d6255a527403007481bc'}",
+        "created_at": {
+            "$date": "2016-10-31T05:27:01.642Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 Years / Multi Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-31T05:27:01.644Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5816d626cda71c03002e47aa"
+        },
+        "_id_Str": "{'$oid': '5816d626cda71c03002e47aa'}",
+        "created_at": {
+            "$date": "2016-10-31T05:27:02.386Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 Years / Red/Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-31T05:27:02.388Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5818296df651da03002143eb"
+        },
+        "_id_Str": "{'$oid': '5818296df651da03002143eb'}",
+        "created_at": {
+            "$date": "2016-11-01T05:34:37.692Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "2 / 1-2 years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-01T05:34:37.693Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5834750cdf833404007314a7"
+        },
+        "_id_Str": "{'$oid': '5834750cdf833404007314a7'}",
+        "created_at": {
+            "$date": "2016-11-22T16:40:44.236Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "80 / 1-2 years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-22T16:40:44.238Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "587d0fcf1981a30400a7b57d"
+        },
+        "_id_Str": "{'$oid': '587d0fcf1981a30400a7b57d'}",
+        "created_at": {
+            "$date": "2017-01-16T18:24:15.389Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 Years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-01-16T18:24:15.390Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ca1feb0363050400a43365"
+        },
+        "_id_Str": "{'$oid': '58ca1feb0363050400a43365'}",
+        "created_at": {
+            "$date": "2017-03-16T05:17:31.156Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2  Years / Multi Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-03-16T05:17:31.157Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5911e66d7d4e6d040074ae4c"
+        },
+        "_id_Str": "{'$oid': '5911e66d7d4e6d040074ae4c'}",
+        "created_at": {
+            "$date": "2017-05-09T15:55:25.643Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "2 / 1-2  years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-05-09T15:55:25.645Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "593f72050fc8200400e181d3"
+        },
+        "_id_Str": "{'$oid': '593f72050fc8200400e181d3'}",
+        "created_at": {
+            "$date": "2017-06-13T05:03:01.238Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "medium: 1-2 years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-06-13T05:03:01.239Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "594a60b522e3910400f348e1"
+        },
+        "_id_Str": "{'$oid': '594a60b522e3910400f348e1'}",
+        "created_at": {
+            "$date": "2017-06-21T12:04:05.954Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-06-21T12:04:05.957Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd651c6aa60400bcbb01"
+        },
+        "_id_Str": "{'$oid': '5996bd651c6aa60400bcbb01'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:49.641Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "50 (1 - 2 Years) / Beige",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:49.641Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd6c0d58140400f38563"
+        },
+        "_id_Str": "{'$oid': '5996bd6c0d58140400f38563'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:56.144Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "50 (1 - 2 Years) / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:56.145Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd5e0d58140400f38506"
+        },
+        "_id_Str": "{'$oid': '5996bd5e0d58140400f38506'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:42.213Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "50 (1 - 2 Years) / Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:42.214Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd70f8082c0400382c8a"
+        },
+        "_id_Str": "{'$oid': '5996bd70f8082c0400382c8a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:00.394Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "50 (1 - 2 Years) / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:00.395Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd6b1c6aa60400bcbbad"
+        },
+        "_id_Str": "{'$oid': '5996bd6b1c6aa60400bcbbad'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:55.523Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2 Years) / Light Blue & White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:55.526Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd6be233b804004468b8"
+        },
+        "_id_Str": "{'$oid': '5996bd6be233b804004468b8'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:55.464Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2 Years) / Pink & White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:55.467Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd5e94295d040052a57c"
+        },
+        "_id_Str": "{'$oid': '5996bd5e94295d040052a57c'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:42.564Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "50 (1 - 2 Years) / Ivory",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:42.565Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd691c6aa60400bcbb74"
+        },
+        "_id_Str": "{'$oid': '5996bd691c6aa60400bcbb74'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:53.693Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2 Years) / Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:53.701Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd60f8082c0400382c68"
+        },
+        "_id_Str": "{'$oid': '5996bd60f8082c0400382c68'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:44.348Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "50 (1 - 2 Years) / Natural",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:44.350Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd671c6aa60400bcbb3b"
+        },
+        "_id_Str": "{'$oid': '5996bd671c6aa60400bcbb3b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:51.081Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2 Years) / Ivory Floral",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:51.083Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd941c6aa60400bcbc9f"
+        },
+        "_id_Str": "{'$oid': '5996bd941c6aa60400bcbc9f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:36.017Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:36.018Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd971c6aa60400bcbcd6"
+        },
+        "_id_Str": "{'$oid': '5996bd971c6aa60400bcbcd6'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:39.150Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years / Navy Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:39.152Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd97e233b80400446a77"
+        },
+        "_id_Str": "{'$oid': '5996bd97e233b80400446a77'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:39.173Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years / Sky Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:39.173Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd9b0d58140400f386ea"
+        },
+        "_id_Str": "{'$oid': '5996bd9b0d58140400f386ea'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:43.837Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years / Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:43.837Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd94e233b80400446a43"
+        },
+        "_id_Str": "{'$oid': '5996bd94e233b80400446a43'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:36.507Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years / Light Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:36.508Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd8fe233b80400446a15"
+        },
+        "_id_Str": "{'$oid': '5996bd8fe233b80400446a15'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:31.250Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:31.256Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd9ff8082c0400382dd0"
+        },
+        "_id_Str": "{'$oid': '5996bd9ff8082c0400382dd0'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:47.227Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:47.240Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be6494295d040052aef1"
+        },
+        "_id_Str": "{'$oid': '5996be6494295d040052aef1'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:04.243Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years / Navy Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:04.244Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be631c6aa60400bcc706"
+        },
+        "_id_Str": "{'$oid': '5996be631c6aa60400bcc706'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:03.992Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years / Grey Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:03.996Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be64f8082c04003835e3"
+        },
+        "_id_Str": "{'$oid': '5996be64f8082c04003835e3'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:04.247Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(22-25) 1 To 2 Years / Silver Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:04.249Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be651c6aa60400bcc726"
+        },
+        "_id_Str": "{'$oid': '5996be651c6aa60400bcc726'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:05.569Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years / Camouflage",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:05.571Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beb71c6aa60400bccc64"
+        },
+        "_id_Str": "{'$oid': '5996beb71c6aa60400bccc64'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:27.250Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(22-25) 1 To 2 Years / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:27.253Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf8ee233b80400448293"
+        },
+        "_id_Str": "{'$oid': '5996bf8ee233b80400448293'}",
+        "created_at": {
+            "$date": "2017-08-18T10:21:02.446Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2 Years) / Blue With Navy Trim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:21:02.448Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bfe6e233b8040044876b"
+        },
+        "_id_Str": "{'$oid': '5996bfe6e233b8040044876b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:22:30.515Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years / Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:22:30.516Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bfe6e233b8040044876c"
+        },
+        "_id_Str": "{'$oid': '5996bfe6e233b8040044876c'}",
+        "created_at": {
+            "$date": "2017-08-18T10:22:30.515Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years / Brown",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:22:30.517Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bfe6e233b8040044876d"
+        },
+        "_id_Str": "{'$oid': '5996bfe6e233b8040044876d'}",
+        "created_at": {
+            "$date": "2017-08-18T10:22:30.518Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:22:30.519Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59c3fc6241446204000f0749"
+        },
+        "_id_Str": "{'$oid': '59c3fc6241446204000f0749'}",
+        "created_at": {
+            "$date": "2017-09-21T17:52:34.101Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "86/92 (1-2 Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-21T17:52:34.102Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59c356c1743d1d0400598bba"
+        },
+        "_id_Str": "{'$oid': '59c356c1743d1d0400598bba'}",
+        "created_at": {
+            "$date": "2017-09-21T06:05:53.504Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years /  Light Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-21T06:05:53.505Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59f0c4868851730300dcd5e6"
+        },
+        "_id_Str": "{'$oid': '59f0c4868851730300dcd5e6'}",
+        "created_at": {
+            "$date": "2017-10-25T17:06:14.279Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "86/92  (1-2 Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-25T17:06:14.279Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59fbfec49cd66704005d8ad1"
+        },
+        "_id_Str": "{'$oid': '59fbfec49cd66704005d8ad1'}",
+        "created_at": {
+            "$date": "2017-11-03T05:29:40.414Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years / Baby Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-03T05:29:40.414Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59fbfebd6549650400988f63"
+        },
+        "_id_Str": "{'$oid': '59fbfebd6549650400988f63'}",
+        "created_at": {
+            "$date": "2017-11-03T05:29:33.311Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years / Ivory",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-03T05:29:33.312Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59fd50fbb495c2040091be57"
+        },
+        "_id_Str": "{'$oid': '59fd50fbb495c2040091be57'}",
+        "created_at": {
+            "$date": "2017-11-04T05:32:43.862Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2 Years) / Light Blue &  White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-04T05:32:43.864Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a049537fa51aa04006795db"
+        },
+        "_id_Str": "{'$oid': '5a049537fa51aa04006795db'}",
+        "created_at": {
+            "$date": "2017-11-09T17:49:43.396Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2  Years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-09T17:49:43.398Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a19a1264eee7804002d64b0"
+        },
+        "_id_Str": "{'$oid': '5a19a1264eee7804002d64b0'}",
+        "created_at": {
+            "$date": "2017-11-25T16:58:14.883Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "50  (1 - 2 Years) / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-25T16:58:14.885Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3415e81f1b050400c1ac15"
+        },
+        "_id_Str": "{'$oid': '5a3415e81f1b050400c1ac15'}",
+        "created_at": {
+            "$date": "2017-12-15T18:35:20.288Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 year",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:35:20.290Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a34164f921103040018f9b3"
+        },
+        "_id_Str": "{'$oid': '5a34164f921103040018f9b3'}",
+        "created_at": {
+            "$date": "2017-12-15T18:37:03.913Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 year / stripe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:37:03.918Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3414b4bec6d20400c06c46"
+        },
+        "_id_Str": "{'$oid': '5a3414b4bec6d20400c06c46'}",
+        "created_at": {
+            "$date": "2017-12-15T18:30:12.325Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 years (EU 19-22)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:30:12.326Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a34164f921103040018f9b2"
+        },
+        "_id_Str": "{'$oid': '5a34164f921103040018f9b2'}",
+        "created_at": {
+            "$date": "2017-12-15T18:37:03.912Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 year / black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:37:03.917Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a34164f921103040018f9b4"
+        },
+        "_id_Str": "{'$oid': '5a34164f921103040018f9b4'}",
+        "created_at": {
+            "$date": "2017-12-15T18:37:03.914Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 year / dot",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:37:03.919Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a341654495a15040007bcf8"
+        },
+        "_id_Str": "{'$oid': '5a341654495a15040007bcf8'}",
+        "created_at": {
+            "$date": "2017-12-15T18:37:08.218Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 year / Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:37:08.222Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a341654495a15040007bcf7"
+        },
+        "_id_Str": "{'$oid': '5a341654495a15040007bcf7'}",
+        "created_at": {
+            "$date": "2017-12-15T18:37:08.217Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 year / Stripe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:37:08.221Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4131f5bb897604008e840b"
+        },
+        "_id_Str": "{'$oid': '5a4131f5bb897604008e840b'}",
+        "created_at": {
+            "$date": "2017-12-25T17:14:29.851Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "86/92 (1-2  Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-25T17:14:29.856Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a5257024969b10400179b07"
+        },
+        "_id_Str": "{'$oid': '5a5257024969b10400179b07'}",
+        "created_at": {
+            "$date": "2018-01-07T17:21:06.807Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2 Years) /  Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-07T17:21:06.809Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a681c669f12300400b6d2af"
+        },
+        "_id_Str": "{'$oid': '5a681c669f12300400b6d2af'}",
+        "created_at": {
+            "$date": "2018-01-24T05:40:54.273Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years /  Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-24T05:40:54.274Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6c08e3fa89a40400358364"
+        },
+        "_id_Str": "{'$oid': '5a6c08e3fa89a40400358364'}",
+        "created_at": {
+            "$date": "2018-01-27T05:06:43.941Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 years  (86/92)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-27T05:06:43.942Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6b634d48b140040035bf6d"
+        },
+        "_id_Str": "{'$oid': '5a6b634d48b140040035bf6d'}",
+        "created_at": {
+            "$date": "2018-01-26T17:20:13.279Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 years (86/92)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-26T17:20:13.280Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a72aaeb429cdf0400d8d156"
+        },
+        "_id_Str": "{'$oid': '5a72aaeb429cdf0400d8d156'}",
+        "created_at": {
+            "$date": "2018-02-01T05:51:39.966Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(22-25)  1 To 2 Years / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-01T05:51:39.968Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7c890e738e380400512c8f"
+        },
+        "_id_Str": "{'$oid': '5a7c890e738e380400512c8f'}",
+        "created_at": {
+            "$date": "2018-02-08T17:29:50.124Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "22/24 (1-2 Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T17:29:50.131Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a8273d952107a0400f28560"
+        },
+        "_id_Str": "{'$oid': '5a8273d952107a0400f28560'}",
+        "created_at": {
+            "$date": "2018-02-13T05:12:57.196Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2 yrs",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-13T05:12:57.196Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a8316a7c4b64904009caa39"
+        },
+        "_id_Str": "{'$oid': '5a8316a7c4b64904009caa39'}",
+        "created_at": {
+            "$date": "2018-02-13T16:47:35.840Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2 Years) / Pink &  White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-13T16:47:35.842Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a98dc4cf23e9004002cf9e3"
+        },
+        "_id_Str": "{'$oid': '5a98dc4cf23e9004002cf9e3'}",
+        "created_at": {
+            "$date": "2018-03-02T05:08:28.345Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23)  1 To 2 Years / Navy Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-02T05:08:28.347Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa0c81cc6579e040014edaa"
+        },
+        "_id_Str": "{'$oid': '5aa0c81cc6579e040014edaa'}",
+        "created_at": {
+            "$date": "2018-03-08T05:20:28.891Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2  yrs",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-08T05:20:28.892Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aacaa4593c8c60400248677"
+        },
+        "_id_Str": "{'$oid': '5aacaa4593c8c60400248677'}",
+        "created_at": {
+            "$date": "2018-03-17T05:40:21.792Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years  / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-17T05:40:21.793Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab7366a039d710400e6b5cb"
+        },
+        "_id_Str": "{'$oid': '5ab7366a039d710400e6b5cb'}",
+        "created_at": {
+            "$date": "2018-03-25T05:40:58.684Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years /  Brown",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-25T05:40:58.686Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ac465e3c7ad210400faec3b"
+        },
+        "_id_Str": "{'$oid': '5ac465e3c7ad210400faec3b'}",
+        "created_at": {
+            "$date": "2018-04-04T05:42:59.518Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2  year",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-04T05:42:59.519Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ac5107253804b04009abedf"
+        },
+        "_id_Str": "{'$oid': '5ac5107253804b04009abedf'}",
+        "created_at": {
+            "$date": "2018-04-04T17:50:42.307Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "22/24 (1-2  Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-04T17:50:42.308Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ac85e49ac5a19040089a653"
+        },
+        "_id_Str": "{'$oid': '5ac85e49ac5a19040089a653'}",
+        "created_at": {
+            "$date": "2018-04-07T05:59:37.550Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2 Years) /  Blue With Navy Trim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-07T05:59:37.552Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad0e500c6ad2e04006c4486"
+        },
+        "_id_Str": "{'$oid': '5ad0e500c6ad2e04006c4486'}",
+        "created_at": {
+            "$date": "2018-04-13T17:12:32.069Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(22-25) 1 To 2 Years / Silver  Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-13T17:12:32.070Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5added64dd196d0400eec05c"
+        },
+        "_id_Str": "{'$oid': '5added64dd196d0400eec05c'}",
+        "created_at": {
+            "$date": "2018-04-23T14:27:48.119Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 to 2 yrs",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-23T14:27:48.121Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5added667fc36e0400f92171"
+        },
+        "_id_Str": "{'$oid': '5added667fc36e0400f92171'}",
+        "created_at": {
+            "$date": "2018-04-23T14:27:50.684Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 to 2 years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-23T14:27:50.685Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5addee86926b3d0400c00809"
+        },
+        "_id_Str": "{'$oid': '5addee86926b3d0400c00809'}",
+        "created_at": {
+            "$date": "2018-04-23T14:32:38.238Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 to 2 years / 26cm 10.2\"",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-23T14:32:38.239Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5addee87926b3d0400c0081b"
+        },
+        "_id_Str": "{'$oid': '5addee87926b3d0400c0081b'}",
+        "created_at": {
+            "$date": "2018-04-23T14:32:39.964Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 to 2 years / 29cm 11.4\"",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-23T14:32:39.964Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae2c1bd02278e0400f01066"
+        },
+        "_id_Str": "{'$oid': '5ae2c1bd02278e0400f01066'}",
+        "created_at": {
+            "$date": "2018-04-27T06:22:53.774Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(22-25) 1 To 2 Years /  White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-27T06:22:53.774Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae4ba1221bf750400f5f247"
+        },
+        "_id_Str": "{'$oid': '5ae4ba1221bf750400f5f247'}",
+        "created_at": {
+            "$date": "2018-04-28T18:14:42.305Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1-2  years (86/92)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-28T18:14:42.306Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae80e601510ad0400dacc74"
+        },
+        "_id_Str": "{'$oid': '5ae80e601510ad0400dacc74'}",
+        "created_at": {
+            "$date": "2018-05-01T06:51:12.574Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2  Years / Navy Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-01T06:51:12.576Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae8a2760af3da04008ae436"
+        },
+        "_id_Str": "{'$oid': '5ae8a2760af3da04008ae436'}",
+        "created_at": {
+            "$date": "2018-05-01T17:23:02.491Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "48 (1 - 2  Years) / Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-01T17:23:02.492Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae80dcbb8887204009b6a76"
+        },
+        "_id_Str": "{'$oid': '5ae80dcbb8887204009b6a76'}",
+        "created_at": {
+            "$date": "2018-05-01T06:48:43.977Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "50 (1 - 2 Years)  / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-01T06:48:43.985Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aebf9100683d00400722bc2"
+        },
+        "_id_Str": "{'$oid': '5aebf9100683d00400722bc2'}",
+        "created_at": {
+            "$date": "2018-05-04T06:09:20.247Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "(21-23) 1 To 2 Years  / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-04T06:09:20.249Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5affba82ff97760400b6114d"
+        },
+        "_id_Str": "{'$oid': '5affba82ff97760400b6114d'}",
+        "created_at": {
+            "$date": "2018-05-19T05:47:46.726Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2  Years / Brown",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-19T05:47:46.727Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b026846b92fe404001ddee9"
+        },
+        "_id_Str": "{'$oid': '5b026846b92fe404001ddee9'}",
+        "created_at": {
+            "$date": "2018-05-21T06:33:42.682Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2  Years / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-21T06:33:42.684Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b02657d67df29040006414c"
+        },
+        "_id_Str": "{'$oid': '5b02657d67df29040006414c'}",
+        "created_at": {
+            "$date": "2018-05-21T06:21:49.028Z"
+        },
+        "filter_label": "0 - 3 Years",
+        "label": "1 - 2 Years /  Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-21T06:21:49.029Z"
+        }
+    }
+]

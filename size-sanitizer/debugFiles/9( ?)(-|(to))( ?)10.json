@@ -1,1 +1,146 @@
-[]
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "580501122a9ef2030090d0ad"
+        },
+        "_id_Str": "{'$oid': '580501122a9ef2030090d0ad'}",
+        "created_at": {
+            "$date": "2016-10-17T16:49:22.722Z"
+        },
+        "filter_label": "10 - 12 Years",
+        "label": "9-10 years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-17T16:49:22.723Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "587d0fcf1981a30400a7b581"
+        },
+        "_id_Str": "{'$oid': '587d0fcf1981a30400a7b581'}",
+        "created_at": {
+            "$date": "2017-01-16T18:24:15.396Z"
+        },
+        "filter_label": "10 - 12 Years",
+        "label": "9-10 Years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-01-16T18:24:15.396Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "587e365967ba2b0400b7ac4e"
+        },
+        "_id_Str": "{'$oid': '587e365967ba2b0400b7ac4e'}",
+        "created_at": {
+            "$date": "2017-01-17T15:20:57.491Z"
+        },
+        "filter_label": "10 - 12 Years",
+        "label": "140 / 9-10 years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-01-17T15:20:57.492Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "594a5eedff80c604009eb9c5"
+        },
+        "_id_Str": "{'$oid': '594a5eedff80c604009eb9c5'}",
+        "created_at": {
+            "$date": "2017-06-21T11:56:29.317Z"
+        },
+        "filter_label": "10 - 12 Years",
+        "label": "9 - 10 Years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-06-21T11:56:29.317Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "595a6d51014b08040021a84f"
+        },
+        "_id_Str": "{'$oid': '595a6d51014b08040021a84f'}",
+        "created_at": {
+            "$date": "2017-07-03T16:14:09.805Z"
+        },
+        "filter_label": "10 - 12 Years",
+        "label": "9-10 YRS",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-07-03T16:14:09.807Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bee9e233b80400447a07"
+        },
+        "_id_Str": "{'$oid': '5996bee9e233b80400447a07'}",
+        "created_at": {
+            "$date": "2017-08-18T10:18:17.952Z"
+        },
+        "filter_label": "10 - 12 Years",
+        "label": "9 - 10 Years / Cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:18:17.954Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a831c5596d55f04009ca010"
+        },
+        "_id_Str": "{'$oid': '5a831c5596d55f04009ca010'}",
+        "created_at": {
+            "$date": "2018-02-13T17:11:49.332Z"
+        },
+        "filter_label": "10 - 12 Years",
+        "label": "9-10  Years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-13T17:11:49.336Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a978f89bef78a04006630b7"
+        },
+        "_id_Str": "{'$oid': '5a978f89bef78a04006630b7'}",
+        "created_at": {
+            "$date": "2018-03-01T05:28:41.462Z"
+        },
+        "filter_label": "10 - 12 Years",
+        "label": "9-10  years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-01T05:28:41.463Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b1ea8d581052b0400e7b10f"
+        },
+        "_id_Str": "{'$oid': '5b1ea8d581052b0400e7b10f'}",
+        "created_at": {
+            "$date": "2018-06-11T16:52:37.085Z"
+        },
+        "filter_label": "10 - 12 Years",
+        "label": "9-10  YRS",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-11T16:52:37.086Z"
+        }
+    }
+]

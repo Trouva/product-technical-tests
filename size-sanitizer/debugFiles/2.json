@@ -2,81 +2,49 @@
     {
         "__v": 0,
         "_id": {
-            "$oid": "59afd144ae84980400c8dd25"
+            "$oid": "58f1ab99b77ae804006933da"
         },
-        "_id_Str": "{'$oid': '59afd144ae84980400c8dd25'}",
+        "_id_Str": "{'$oid': '58f1ab99b77ae804006933da'}",
         "created_at": {
-            "$date": "2017-09-06T10:43:16.172Z"
+            "$date": "2017-04-15T05:11:53.129Z"
         },
-        "filter_label": "0 - 3 Months",
-        "label": "2 months (56cm)",
+        "filter_label": "0 - 3 Years",
+        "label": "18 months - 2 years",
         "old_label": [],
         "updated_at": {
-            "$date": "2017-09-06T10:43:16.174Z"
+            "$date": "2017-04-15T05:11:53.131Z"
         }
     },
     {
         "__v": 0,
         "_id": {
-            "$oid": "59afd14694fcd10400562dd5"
+            "$oid": "594a5ed622e3910400f34560"
         },
-        "_id_Str": "{'$oid': '59afd14694fcd10400562dd5'}",
+        "_id_Str": "{'$oid': '594a5ed622e3910400f34560'}",
         "created_at": {
-            "$date": "2017-09-06T10:43:18.251Z"
+            "$date": "2017-06-21T11:56:06.196Z"
         },
-        "filter_label": "0 - 3 Months",
-        "label": "2 months",
+        "filter_label": "0 - 3 Years",
+        "label": "18Mths - 2 Years",
         "old_label": [],
         "updated_at": {
-            "$date": "2017-09-06T10:43:18.254Z"
+            "$date": "2017-06-21T11:56:06.197Z"
         }
     },
     {
         "__v": 0,
         "_id": {
-            "$oid": "59afd148e457f9040025e593"
+            "$oid": "59c3fbb3ffb15b04002e5010"
         },
-        "_id_Str": "{'$oid': '59afd148e457f9040025e593'}",
+        "_id_Str": "{'$oid': '59c3fbb3ffb15b04002e5010'}",
         "created_at": {
-            "$date": "2017-09-06T10:43:20.161Z"
+            "$date": "2017-09-21T17:49:39.164Z"
         },
-        "filter_label": "0 - 3 Months",
-        "label": "62cm (2 months)",
+        "filter_label": "0 - 3 Years",
+        "label": "18 Months - 2 Years",
         "old_label": [],
         "updated_at": {
-            "$date": "2017-09-06T10:43:20.161Z"
-        }
-    },
-    {
-        "__v": 0,
-        "_id": {
-            "$oid": "5a37558761ba920400238634"
-        },
-        "_id_Str": "{'$oid': '5a37558761ba920400238634'}",
-        "created_at": {
-            "$date": "2017-12-18T05:43:35.688Z"
-        },
-        "filter_label": "0 - 3 Months",
-        "label": "56cm (2 Months)",
-        "old_label": [],
-        "updated_at": {
-            "$date": "2017-12-18T05:43:35.689Z"
-        }
-    },
-    {
-        "__v": 0,
-        "_id": {
-            "$oid": "5a7b39434348000400d92d81"
-        },
-        "_id_Str": "{'$oid': '5a7b39434348000400d92d81'}",
-        "created_at": {
-            "$date": "2018-02-07T17:37:07.473Z"
-        },
-        "filter_label": "0 - 3 Months",
-        "label": "56cm  (2 Months)",
-        "old_label": [],
-        "updated_at": {
-            "$date": "2018-02-07T17:37:07.475Z"
+            "$date": "2017-09-21T17:49:39.166Z"
         }
     }
 ]

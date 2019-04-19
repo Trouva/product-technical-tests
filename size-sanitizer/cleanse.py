@@ -187,8 +187,61 @@ data_BabyLooseResults = classifyMe(regexString_BabyLoose, regex_Filters_Loose, d
 data_original =  pd.concat([data_original,data_BabyLooseResults]).drop_duplicates('_id_Str',keep='last');
 
 
+################## Babys (0 - 16 Years)
+#Peform remaining search and classification of years
+regexString_Youth = r'(^|[^0-9])(MATCHSTR)($|[ )/])';
+regex_Filters_Youth = [
+			{"matchStr": "0 - 1", "filterStr": "0 - 3 Years"},
+			{"matchStr": "1 - 2", "filterStr": "0 - 3 Years"},
+			{"matchStr": "2 - 3", "filterStr": "0 - 3 Years"},
 
+			{"matchStr": "3 - 4", "filterStr": "4 - 6 Years"},
+			{"matchStr": "4 - 5", "filterStr": "4 - 6 Years"},
+			{"matchStr": "5 - 6", "filterStr": "4 - 6 Years"},
 
+			{"matchStr": "6 - 7", "filterStr": "7 - 9 Years"}, 
+			{"matchStr": "7 - 8", "filterStr": "7 - 9 Years"},
+			{"matchStr": "8 - 9", "filterStr": "7 - 9 Years"},
+
+			{"matchStr": "9 - 10", "filterStr": "10 - 12 Years"},
+			{"matchStr": "10 - 11", "filterStr": "10 - 12 Years"}, 
+			{"matchStr": "11 - 12", "filterStr": "10 - 12 Years"},  
+
+			{"matchStr": "12 - 13", "filterStr": "13 - 16 Years"}, 
+			{"matchStr": "13 - 14", "filterStr": "13 - 16 Years"},
+			{"matchStr": "14 - 15", "filterStr": "13 - 16 Years"},
+			{"matchStr": "15 - 16", "filterStr": "13 - 16 Years"}];
+data_Youth = data_original[data_original['label'].str.contains("(year)|(yr)", flags=re.IGNORECASE, regex=True)];
+data_YouthResults = classifyMe(regexString_Youth, regex_Filters_Youth, data_Youth);
+data_original =  pd.concat([data_original,data_YouthResults]).drop_duplicates('_id_Str',keep='last');
+
+regexString_YouthLoose = r'((^| |\()(MATCHSTR)(\)| )?(y))';
+regex_Filters_YouthLoose = [
+			{"matchStr": "0", "filterStr": "0 - 3 Years"},
+			{"matchStr": "1", "filterStr": "0 - 3 Years"},
+			{"matchStr": "2", "filterStr": "0 - 3 Years"},
+			{"matchStr": "3", "filterStr": "0 - 3 Years"},
+
+			{"matchStr": "4", "filterStr": "4 - 6 Years"},
+			{"matchStr": "5", "filterStr": "4 - 6 Years"},
+			{"matchStr": "6", "filterStr": "4 - 6 Years"},
+
+			{"matchStr": "7", "filterStr": "7 - 9 Years"}, 
+			{"matchStr": "8", "filterStr": "7 - 9 Years"},
+			{"matchStr": "9", "filterStr": "7 - 9 Years"},
+
+			{"matchStr": "10", "filterStr": "10 - 12 Years"},
+			{"matchStr": "11", "filterStr": "10 - 12 Years"}, 
+			{"matchStr": "12", "filterStr": "10 - 12 Years"},  
+
+			{"matchStr": "13", "filterStr": "13 - 16 Years"}, 
+			{"matchStr": "14", "filterStr": "13 - 16 Years"},
+			{"matchStr": "15", "filterStr": "13 - 16 Years"},
+			{"matchStr": "16", "filterStr": "13 - 16 Years"}];
+data_YL = data_original[data_original['label'].str.contains("(year)|(yr)", flags=re.IGNORECASE, regex=True)];
+data_YL = data_BL.query('filter_label!=filter_label')
+data_YouthLooseResults = classifyMe(regexString_YouthLoose, regex_Filters_YouthLoose, data_YL);
+data_original =  pd.concat([data_original,data_YouthLooseResults]).drop_duplicates('_id_Str',keep='last');
 
 
 
