@@ -16,62 +16,29 @@ def readJson(filename):
 		data.append(json.loads(x));
 	return data;
 
+def joinData(currentData, originalData):
+	return pd.concat([originalData,currentData]).drop_duplicates('_id_Str',keep='last');
 
-def classifyMe(regexString, regex_Filters, currentDS):
-	global changeTracker, classified_Total;
+def debugPrint(currentData, fileName):
+	####### DEBUGGING
 
-	print("Start classifying!");
-	print(regexString);
-	print(regex_Filters);
+	# Write all matches to a filter file to analyse
+	print("Write " + fileName + " filter to file");
+	data_debug = json.loads(currentData.to_json(orient='records'));
 
-	for regex in regex_Filters:
+	with open('debugFiles/'+fileName+'.json', 'w') as outfile:
+		json.dump(data_debug, outfile, indent=4, sort_keys=True);
 
-		#only classify nulls
-		data_current = currentDS.query('filter_label!=filter_label')
-
-		#Get current string + filter
-		curr_MatchStr = regex.get("matchStr","");
-		curr_FilterStr = regex.get("filterStr","");
-
-
-		# Replace all spaces with ( ?) (regex meaning 0 to 1 space)
-		curr_MatchStr = curr_MatchStr.replace(" ", "( ?)");
-		# Replace all dashes with (-|(to)) (regex meaning - or to)
-		curr_MatchStr = curr_MatchStr.replace("-", "(-|(to))");
-
-		currentRegex = regexString.replace("MATCHSTR", curr_MatchStr);
-
-		# Filter based off regex
-		data_result = data_current[data_current['label'].str.contains(currentRegex, flags=re.IGNORECASE, regex=True)];
-
-		# Assign all rows that fit the regex to the filter
-		data_result.filter_label = curr_FilterStr;
-
-		# Append data_result (with new filters) to current data, and drop duplicates via ID
-		currentDS = pd.concat([currentDS,data_result]).drop_duplicates('_id_Str',keep='last');
+	# Update counts to the overall results count file
+	noOfClassified = len(currentData)
+	print("Classified: " + str(noOfClassified));
 
 
-		####### DEBUGGING
-
-		# Write all matches to a filter file to analyse
-		print("Write " + curr_MatchStr + " filter to file");
-		data_debug = json.loads(data_result.to_json(orient='records'));
-
-		with open('debugFiles/' + curr_MatchStr+'.json', 'w') as outfile:
-			json.dump(data_debug, outfile, indent=4, sort_keys=True);
-
-		# Update counts to the overall results count file
-		noOfClassified = len(data_result)
-		changeTracker.append({"matchStr": curr_MatchStr, "filterStr": curr_FilterStr, "count":noOfClassified});
-		classified_Total = classified_Total + noOfClassified;
-	return currentDS
-
-
-
-
-
-
-
+def getSubGroup(currentData, currentRegex):
+	returnData = currentData.query('filter_label!=filter_label')
+	returnData = returnData[returnData['label'].str.contains(currentRegex, flags=re.IGNORECASE, regex=True)];
+	returnData['filter_label'] = returnData['label'].str.extract(currentRegex, expand=True, flags=re.IGNORECASE)[0].str.replace(' ', '')
+	return returnData;
 
 data = readJson('../mongo-seed/sizes.json');
 
@@ -81,167 +48,84 @@ data_original = pd.DataFrame.from_records(data);
 data_original['_id_Str'] = data_original['_id'].astype(str);
 
 
-#=====================MATCH TO FILTER
+#=====================MATCH UK/EU to FILTER
+
+######MATCH E.G. 45EU first
+currentRegex = r"(((UK)|(EU))( )*[0-9]{1,2}((\.)[0-9])?)";
+data_EUUK = getSubGroup(data_original, currentRegex)
 
 
+#Add back to main results
+data_original = joinData(data_EUUK, data_original);
+debugPrint(data_EUUK, 'data_EUUK');
 
 
+######MATCH E.G. 45EU 
+currentRegex = r"([0-9]{1,2}((\.)[0-9])?( )*((UK)|(EU)))";
+data_EUUKV2 = getSubGroup(data_original, currentRegex)
 
-################## XS S M L XL XXL 
-#Regex
-regexString = r'(^|-|\/|\\| |\()(MATCHSTR)($|-|\/|\\| |\)|\()';
-regex_Filters = [
-			{"matchStr": "xx - s", "filterStr": "XXS"},
-			{"matchStr": "xx s", "filterStr": "XXS"},
-			{"matchStr": "xx - small", "filterStr": "xs"},
-			{"matchStr": "xx small", "filterStr": "xs"},
-			{"matchStr": "x - s", "filterStr": "XS"},
-			{"matchStr": "x s", "filterStr": "XS"},
-			{"matchStr": "x - small", "filterStr": "XS"},
-			{"matchStr": "x small", "filterStr": "XS"},
-			{"matchStr": "extra - small", "filterStr": "XS"},
-			{"matchStr": "extra small", "filterStr": "XS"},
-			{"matchStr": "s", "filterStr": "S"}, 
-			{"matchStr": "small", "filterStr": "S"},
-			{"matchStr": "medium", "filterStr": "M"},
-			{"matchStr": "m", "filterStr": "M"},
-			{"matchStr": "xxx - l", "filterStr": "XXXL"},
-			{"matchStr": "xxx l", "filterStr": "XXXL"},
-			{"matchStr": "xx - l", "filterStr": "XXL"},
-			{"matchStr": "xx l", "filterStr": "XXL"},
-			{"matchStr": "xx - large", "filterStr": "XXL"},
-			{"matchStr": "xx large", "filterStr": "XXL"},
-			{"matchStr": "x - l", "filterStr": "XL"},
-			{"matchStr": "x l", "filterStr": "XL"},
-			{"matchStr": "x - large", "filterStr": "XL"},
-			{"matchStr": "x large", "filterStr": "XL"},
-			{"matchStr": "extra - large", "filterStr": "XL"},
-			{"matchStr": "extra large", "filterStr": "XL"},
-			{"matchStr": "large", "filterStr": "L"},
-			{"matchStr": "l", "filterStr": "L"}
-			];
+#Formatting step
+data_EUUKV2['filter_label'] = data_EUUKV2['filter_label'].str[-2:] + data_EUUK['filter_label'].str[:-2];
 
-data_original = classifyMe(regexString, regex_Filters, data_original);
+#Add back to main results
+data_original = joinData(data_EUUKV2, data_original);
+debugPrint(data_EUUKV2, 'data_EUUK_2');
+
+#================MATCH BABY THINGS
+
+#######MATCH Youth and baby
+currentRegex = r"([0-9]{1,2}( )?(\-|(to))( )?[0-9]{1,2}( )?((years)|yrs|(year)|(yr)|(mths)|(mth)|(month)|(months)))";
+data_Youth = getSubGroup(data_original, currentRegex)
+
+#Formatting Step
+
+regex_baby = re.compile(r'yrs', flags=re.IGNORECASE)
+data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'Years')
+
+regex_baby = re.compile(r'years', flags=re.IGNORECASE)
+data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'Years')
+
+regex_baby = re.compile(r'yr', flags=re.IGNORECASE)
+data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'Year')
+
+regex_baby = re.compile(r'year', flags=re.IGNORECASE)
+data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'Year')
+
+regex_baby = re.compile(r'to', flags=re.IGNORECASE)
+data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, '-')
 
 
+regex_baby = re.compile(r'month', flags=re.IGNORECASE)
+data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'Month')
+
+regex_baby = re.compile(r'months', flags=re.IGNORECASE)
+data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'Months')
+
+regex_baby = re.compile(r'mths', flags=re.IGNORECASE)
+data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'Months')
+
+regex_baby = re.compile(r'mth', flags=re.IGNORECASE)
+data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'Month')
+
+#Add back to main results
+data_original = joinData(data_Youth, data_original);
+debugPrint(data_Youth, 'data_EUUK');
 
 
+#######MATCH newborn
+currentRegex = r"(new)( )?(born)";
+data_NewBorn = getSubGroup(data_original, currentRegex)
 
-################## Babys (0 - 24 months)
-#Regex
-regexString_Baby = r'(^|[^0-9])(MATCHSTR)($|[ )/])';
-
-regex_Filters_Baby = [
-			{"matchStr": "24 - 36", "filterStr": "2 - 3 Years"},
-			{"matchStr": "24 - 36", "filterStr": "2 - 3 Years"},
-			{"matchStr": "12 - 24", "filterStr": "1 - 2 Years"},
-
-			{"matchStr": "0 - 3", "filterStr": "0 - 3 Months"},
-			{"matchStr": "0 - 6", "filterStr": "0 - 6 Months"},
-			{"matchStr": "0 - 12", "filterStr": "0 - 12 Months"},
-			{"matchStr": "0 - 1", "filterStr": "0 - 3 Months"}, 
-			{"matchStr": "0 - 2", "filterStr": "0 - 3 Months"},
+#Formatting Step
+regex_baby = re.compile(r'newborn', flags=re.IGNORECASE)
+data_NewBorn['filter_label']=data_NewBorn['filter_label'].str.replace(regex_baby, 'Newborn')
 
 
-			{"matchStr": "3 - 6", "filterStr": "3 - 6 Months"},
-			{"matchStr": "4 - 6", "filterStr": "3 - 6 Months"},
-			{"matchStr": "5 - 6", "filterStr": "3 - 6 Months"},
-
-			{"matchStr": "6 - 9", "filterStr": "6 - 9 Months"}, 
-			{"matchStr": "6 - 7", "filterStr": "6 - 9 Months"},
-			{"matchStr": "6 - 8", "filterStr": "6 - 9 Months"},
-
-			{"matchStr": "9 - 12", "filterStr": "9 - 12 Months"},
-			{"matchStr": "9 - 10", "filterStr": "9 - 12 Months"},
-			{"matchStr": "9 - 11", "filterStr": "9 - 12 Months"}];
-
-data_Baby = data_original[data_original['label'].str.contains("(month)|(mth)", flags=re.IGNORECASE, regex=True)];
-data_BabyResults = classifyMe(regexString_Baby, regex_Filters_Baby, data_Baby);
-data_original =  pd.concat([data_original,data_BabyResults]).drop_duplicates('_id_Str',keep='last');
+#Add back to main results
+data_original = joinData(data_NewBorn, data_original);
+debugPrint(data_NewBorn, 'data_NewBorn');
 
 
-#Perform remaining search and classification of months
-						#Match start of sentence, space or bracket followed by the string and then 0-1 bracket or space, followed by m
-regexString_BabyLoose = r'((^| |\()(MATCHSTR)(\)| )?(m))';
-regex_Filters_Loose = [
-			{"matchStr": "0", "filterStr": "0 - 3 Months"},
-			{"matchStr": "1", "filterStr": "0 - 3 Months"},
-			{"matchStr": "2", "filterStr": "0 - 3 Months"},
-			{"matchStr": "3", "filterStr": "3 - 6 Months"},
-			{"matchStr": "4", "filterStr": "3 - 6 Months"},
-			{"matchStr": "5", "filterStr": "3 - 6 Months"},
-			{"matchStr": "6", "filterStr": "3 - 6 Months"},
-			{"matchStr": "6", "filterStr": "6 - 9 Months"},
-			{"matchStr": "7", "filterStr": "6 - 9 Months"},
-			{"matchStr": "8", "filterStr": "6 - 9 Months"},
-			{"matchStr": "9", "filterStr": "9 - 12 Months"},
-			{"matchStr": "10", "filterStr": "9 - 12 Months"},
-			{"matchStr": "11", "filterStr": "9 - 12 Months"},
-			{"matchStr": "12", "filterStr": "1 - 2 Years"},
-			{"matchStr": "24", "filterStr": "2 - 3 Years"},
-			{"matchStr": "36", "filterStr": "2 - 3 Years"}];
-
-data_BL = data_original[data_original['label'].str.contains("(month)|(mth)", flags=re.IGNORECASE, regex=True)];
-data_BL = data_BL.query('filter_label!=filter_label')
-data_BabyLooseResults = classifyMe(regexString_BabyLoose, regex_Filters_Loose, data_BL);
-data_original =  pd.concat([data_original,data_BabyLooseResults]).drop_duplicates('_id_Str',keep='last');
-
-
-################## Babys (0 - 16 Years)
-#Peform remaining search and classification of years
-regexString_Youth = r'(^|[^0-9])(MATCHSTR)($|[ )/])';
-regex_Filters_Youth = [
-			{"matchStr": "0 - 1", "filterStr": "0 - 3 Years"},
-			{"matchStr": "1 - 2", "filterStr": "0 - 3 Years"},
-			{"matchStr": "2 - 3", "filterStr": "0 - 3 Years"},
-
-			{"matchStr": "3 - 4", "filterStr": "4 - 6 Years"},
-			{"matchStr": "4 - 5", "filterStr": "4 - 6 Years"},
-			{"matchStr": "5 - 6", "filterStr": "4 - 6 Years"},
-
-			{"matchStr": "6 - 7", "filterStr": "7 - 9 Years"}, 
-			{"matchStr": "7 - 8", "filterStr": "7 - 9 Years"},
-			{"matchStr": "8 - 9", "filterStr": "7 - 9 Years"},
-
-			{"matchStr": "9 - 10", "filterStr": "10 - 12 Years"},
-			{"matchStr": "10 - 11", "filterStr": "10 - 12 Years"}, 
-			{"matchStr": "11 - 12", "filterStr": "10 - 12 Years"},  
-
-			{"matchStr": "12 - 13", "filterStr": "13 - 16 Years"}, 
-			{"matchStr": "13 - 14", "filterStr": "13 - 16 Years"},
-			{"matchStr": "14 - 15", "filterStr": "13 - 16 Years"},
-			{"matchStr": "15 - 16", "filterStr": "13 - 16 Years"}];
-data_Youth = data_original[data_original['label'].str.contains("(year)|(yr)", flags=re.IGNORECASE, regex=True)];
-data_YouthResults = classifyMe(regexString_Youth, regex_Filters_Youth, data_Youth);
-data_original =  pd.concat([data_original,data_YouthResults]).drop_duplicates('_id_Str',keep='last');
-
-regexString_YouthLoose = r'((^| |\()(MATCHSTR)(\)| )?(y))';
-regex_Filters_YouthLoose = [
-			{"matchStr": "0", "filterStr": "0 - 3 Years"},
-			{"matchStr": "1", "filterStr": "0 - 3 Years"},
-			{"matchStr": "2", "filterStr": "0 - 3 Years"},
-			{"matchStr": "3", "filterStr": "0 - 3 Years"},
-
-			{"matchStr": "4", "filterStr": "4 - 6 Years"},
-			{"matchStr": "5", "filterStr": "4 - 6 Years"},
-			{"matchStr": "6", "filterStr": "4 - 6 Years"},
-
-			{"matchStr": "7", "filterStr": "7 - 9 Years"}, 
-			{"matchStr": "8", "filterStr": "7 - 9 Years"},
-			{"matchStr": "9", "filterStr": "7 - 9 Years"},
-
-			{"matchStr": "10", "filterStr": "10 - 12 Years"},
-			{"matchStr": "11", "filterStr": "10 - 12 Years"}, 
-			{"matchStr": "12", "filterStr": "10 - 12 Years"},  
-
-			{"matchStr": "13", "filterStr": "13 - 16 Years"}, 
-			{"matchStr": "14", "filterStr": "13 - 16 Years"},
-			{"matchStr": "15", "filterStr": "13 - 16 Years"},
-			{"matchStr": "16", "filterStr": "13 - 16 Years"}];
-data_YL = data_original[data_original['label'].str.contains("(year)|(yr)", flags=re.IGNORECASE, regex=True)];
-data_YL = data_BL.query('filter_label!=filter_label')
-data_YouthLooseResults = classifyMe(regexString_YouthLoose, regex_Filters_YouthLoose, data_YL);
-data_original =  pd.concat([data_original,data_YouthLooseResults]).drop_duplicates('_id_Str',keep='last');
 
 
 
@@ -263,7 +147,7 @@ with open('data_cleanse.json', 'w') as outfile:
 # Save unclassified to file
 data_unclassified = data_original.query('filter_label!=filter_label');
 data_JSONunclassified = json.loads(data_unclassified.to_json(orient='records'));
-with open('debugFiles/' + 'data_unclassified.json', 'w') as outfile:
+with open('debugFiles/' + '000 - data_unclassified.json', 'w') as outfile:
     json.dump(data_JSONunclassified, outfile, indent=4, sort_keys=True);
 
 # Append remaining data to results count file
