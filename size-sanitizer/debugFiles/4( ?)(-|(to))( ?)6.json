@@ -1,0 +1,66 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "587d0fcdaaa9ce04001c5153"
+        },
+        "_id_Str": "{'$oid': '587d0fcdaaa9ce04001c5153'}",
+        "created_at": {
+            "$date": "2017-01-16T18:24:13.889Z"
+        },
+        "filter_label": "3 - 6 Months",
+        "label": "4-6 Months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-01-16T18:24:13.892Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59afd14f94fcd10400562e0c"
+        },
+        "_id_Str": "{'$oid': '59afd14f94fcd10400562e0c'}",
+        "created_at": {
+            "$date": "2017-09-06T10:43:27.137Z"
+        },
+        "filter_label": "3 - 6 Months",
+        "label": "68cm (4-6 months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-06T10:43:27.137Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3a9fd742944204004440ea"
+        },
+        "_id_Str": "{'$oid': '5a3a9fd742944204004440ea'}",
+        "created_at": {
+            "$date": "2017-12-20T17:37:27.987Z"
+        },
+        "filter_label": "3 - 6 Months",
+        "label": "4-6  Months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-20T17:37:27.989Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a9e86447de5d7040072e1a1"
+        },
+        "_id_Str": "{'$oid': '5a9e86447de5d7040072e1a1'}",
+        "created_at": {
+            "$date": "2018-03-06T12:15:00.598Z"
+        },
+        "filter_label": "3 - 6 Months",
+        "label": "68-74cm (4-6 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-06T12:15:00.601Z"
+        }
+    }
+]

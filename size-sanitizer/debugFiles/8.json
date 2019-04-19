@@ -1,0 +1,18 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59afd214ebed8c04009ae4f7"
+        },
+        "_id_Str": "{'$oid': '59afd214ebed8c04009ae4f7'}",
+        "created_at": {
+            "$date": "2017-09-06T10:46:44.098Z"
+        },
+        "filter_label": "6 - 9 Months",
+        "label": "8 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-06T10:46:44.100Z"
+        }
+    }
+]

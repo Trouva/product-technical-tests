@@ -1,0 +1,866 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5714f67378bc4a0300bfb4e8"
+        },
+        "_id_Str": "{'$oid': '5714f67378bc4a0300bfb4e8'}",
+        "created_at": {
+            "$date": "2016-04-18T15:00:03.847Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0-3 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-04-18T15:00:03.847Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "573ada6d2325ba0300781180"
+        },
+        "_id_Str": "{'$oid': '573ada6d2325ba0300781180'}",
+        "created_at": {
+            "$date": "2016-05-17T08:46:37.211Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0-3 Month BD",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-05-17T08:46:37.211Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "573ada782325ba0300781181"
+        },
+        "_id_Str": "{'$oid': '573ada782325ba0300781181'}",
+        "created_at": {
+            "$date": "2016-05-17T08:46:48.450Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0-3 Month ND",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-05-17T08:46:48.450Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57959fcd9811d203002bc627"
+        },
+        "_id_Str": "{'$oid': '57959fcd9811d203002bc627'}",
+        "created_at": {
+            "$date": "2016-07-25T05:12:45.260Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0-3  months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-07-25T05:12:45.261Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5811949b3b4b040300699ba4"
+        },
+        "_id_Str": "{'$oid': '5811949b3b4b040300699ba4'}",
+        "created_at": {
+            "$date": "2016-10-27T05:46:03.321Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "56 / 0-3 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-27T05:46:03.328Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5834750abf11fc04003285a0"
+        },
+        "_id_Str": "{'$oid': '5834750abf11fc04003285a0'}",
+        "created_at": {
+            "$date": "2016-11-22T16:40:42.906Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "39 / 0-3 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-22T16:40:42.908Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "585d3ffab505660400712b66"
+        },
+        "_id_Str": "{'$oid': '585d3ffab505660400712b66'}",
+        "created_at": {
+            "$date": "2016-12-23T15:17:14.684Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "56  / 0-3 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-12-23T15:17:14.685Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5889851ca29fa10400233d23"
+        },
+        "_id_Str": "{'$oid': '5889851ca29fa10400233d23'}",
+        "created_at": {
+            "$date": "2017-01-26T05:11:56.666Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0-3 Months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-01-26T05:11:56.667Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59395072298d0f040055e29e"
+        },
+        "_id_Str": "{'$oid': '59395072298d0f040055e29e'}",
+        "created_at": {
+            "$date": "2017-06-08T13:26:10.168Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-06-08T13:26:10.169Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bb8b94295d0400529143"
+        },
+        "_id_Str": "{'$oid': '5996bb8b94295d0400529143'}",
+        "created_at": {
+            "$date": "2017-08-18T10:03:55.272Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "15-16(0 - 3 Months) / Light China Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:03:55.275Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bb98e233b8040044539e"
+        },
+        "_id_Str": "{'$oid': '5996bb98e233b8040044539e'}",
+        "created_at": {
+            "$date": "2017-08-18T10:04:08.739Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "15-16(0 - 3 Months) / Ivory",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:04:08.741Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbc70d58140400f3744b"
+        },
+        "_id_Str": "{'$oid': '5996bbc70d58140400f3744b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:04:55.062Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "15-16(0 - 3 Months) / Pale Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:04:55.064Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc68f8082c0400382185"
+        },
+        "_id_Str": "{'$oid': '5996bc68f8082c0400382185'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:36.397Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "T1 (0 - 3 Months) / Pale Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:36.399Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc691c6aa60400bcb113"
+        },
+        "_id_Str": "{'$oid': '5996bc691c6aa60400bcb113'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:37.876Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "T1 (0 - 3 Months) / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:37.876Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcdff8082c040038266d"
+        },
+        "_id_Str": "{'$oid': '5996bcdff8082c040038266d'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:35.466Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / White/Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:35.469Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bce30d58140400f38083"
+        },
+        "_id_Str": "{'$oid': '5996bce30d58140400f38083'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:39.736Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / White/Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:39.740Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bce20d58140400f38064"
+        },
+        "_id_Str": "{'$oid': '5996bce20d58140400f38064'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:38.985Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / White/Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:38.987Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcf194295d040052a1e5"
+        },
+        "_id_Str": "{'$oid': '5996bcf194295d040052a1e5'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:53.468Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / White/Yellow",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:53.469Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bceef8082c040038271f"
+        },
+        "_id_Str": "{'$oid': '5996bceef8082c040038271f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:50.271Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / White/Silver",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:50.275Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcf21c6aa60400bcb824"
+        },
+        "_id_Str": "{'$oid': '5996bcf21c6aa60400bcb824'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:54.246Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:54.246Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bce1f8082c0400382697"
+        },
+        "_id_Str": "{'$oid': '5996bce1f8082c0400382697'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:37.786Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:37.787Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdb894295d040052a7db"
+        },
+        "_id_Str": "{'$oid': '5996bdb894295d040052a7db'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:12.618Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "T1 (0 - 3 Months) / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:12.619Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be1a94295d040052ad74"
+        },
+        "_id_Str": "{'$oid': '5996be1a94295d040052ad74'}",
+        "created_at": {
+            "$date": "2017-08-18T10:14:50.506Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / White/Lt. Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:14:50.512Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be1f94295d040052ad9e"
+        },
+        "_id_Str": "{'$oid': '5996be1f94295d040052ad9e'}",
+        "created_at": {
+            "$date": "2017-08-18T10:14:55.528Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Light Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:14:55.529Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be3d1c6aa60400bcc515"
+        },
+        "_id_Str": "{'$oid': '5996be3d1c6aa60400bcc515'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:25.526Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Sky Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:25.528Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be3ce233b80400447190"
+        },
+        "_id_Str": "{'$oid': '5996be3ce233b80400447190'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:24.409Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:24.410Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be41f8082c040038350e"
+        },
+        "_id_Str": "{'$oid': '5996be41f8082c040038350e'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:29.014Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Grey Stripe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:29.015Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be3d0d58140400f38ee0"
+        },
+        "_id_Str": "{'$oid': '5996be3d0d58140400f38ee0'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:25.504Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Lady Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:25.505Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be3f0d58140400f38f23"
+        },
+        "_id_Str": "{'$oid': '5996be3f0d58140400f38f23'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:27.747Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Pink Stripe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:27.748Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beac1c6aa60400bccb4a"
+        },
+        "_id_Str": "{'$oid': '5996beac1c6aa60400bccb4a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:16.528Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Multicolour",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:16.532Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beace233b8040044768d"
+        },
+        "_id_Str": "{'$oid': '5996beace233b8040044768d'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:16.271Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:16.272Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beed94295d040052b698"
+        },
+        "_id_Str": "{'$oid': '5996beed94295d040052b698'}",
+        "created_at": {
+            "$date": "2017-08-18T10:18:21.707Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "T1 (0 - 3 Months) / White & Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:18:21.709Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beed94295d040052b697"
+        },
+        "_id_Str": "{'$oid': '5996beed94295d040052b697'}",
+        "created_at": {
+            "$date": "2017-08-18T10:18:21.706Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "T1 (0 - 3 Months) / White & Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:18:21.708Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf28f8082c0400383ef0"
+        },
+        "_id_Str": "{'$oid': '5996bf28f8082c0400383ef0'}",
+        "created_at": {
+            "$date": "2017-08-18T10:19:20.838Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months / Wh./Lt.Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:19:20.840Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5997d38dc5defb04002de676"
+        },
+        "_id_Str": "{'$oid': '5997d38dc5defb04002de676'}",
+        "created_at": {
+            "$date": "2017-08-19T05:58:37.647Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3  Months / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-19T05:58:37.649Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a84c5f2d70690400fcab57"
+        },
+        "_id_Str": "{'$oid': '59a84c5f2d70690400fcab57'}",
+        "created_at": {
+            "$date": "2017-08-31T17:50:23.262Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "T1 (0 - 3 Months) / White &  Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-31T17:50:23.263Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59ae3a8b8d39800400ee562d"
+        },
+        "_id_Str": "{'$oid': '59ae3a8b8d39800400ee562d'}",
+        "created_at": {
+            "$date": "2017-09-05T05:47:55.570Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months /  White/Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-05T05:47:55.572Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59b2c5fd13dcb20400120457"
+        },
+        "_id_Str": "{'$oid': '59b2c5fd13dcb20400120457'}",
+        "created_at": {
+            "$date": "2017-09-08T16:31:57.506Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "15-16(0 - 3 Months) /  Light China Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-08T16:31:57.507Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59c50996ca2a720400b96dc3"
+        },
+        "_id_Str": "{'$oid': '59c50996ca2a720400b96dc3'}",
+        "created_at": {
+            "$date": "2017-09-22T13:01:10.468Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "Size 0 (0-3 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-22T13:01:10.469Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59db0e76d41693030052923e"
+        },
+        "_id_Str": "{'$oid': '59db0e76d41693030052923e'}",
+        "created_at": {
+            "$date": "2017-10-09T05:51:50.102Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "Size  0 (0-3 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-09T05:51:50.103Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59dfa1c64ec1b403007cec97"
+        },
+        "_id_Str": "{'$oid': '59dfa1c64ec1b403007cec97'}",
+        "created_at": {
+            "$date": "2017-10-12T17:09:26.409Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "15-16(0 - 3 Months) / Light  China Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-12T17:09:26.410Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59e98ecb9b5a5d0300e3e641"
+        },
+        "_id_Str": "{'$oid': '59e98ecb9b5a5d0300e3e641'}",
+        "created_at": {
+            "$date": "2017-10-20T05:51:07.567Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "Size 0  (0-3 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-20T05:51:07.569Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0c779149820c04002f18c9"
+        },
+        "_id_Str": "{'$oid': '5a0c779149820c04002f18c9'}",
+        "created_at": {
+            "$date": "2017-11-15T17:21:21.317Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 mth",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-15T17:21:21.318Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a1508c7119b40040058d667"
+        },
+        "_id_Str": "{'$oid': '5a1508c7119b40040058d667'}",
+        "created_at": {
+            "$date": "2017-11-22T05:19:03.153Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3  Months / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-22T05:19:03.155Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a1d9a6fc615a4040053c43e"
+        },
+        "_id_Str": "{'$oid': '5a1d9a6fc615a4040053c43e'}",
+        "created_at": {
+            "$date": "2017-11-28T17:18:39.895Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "T1 (0 - 3 Months) / White  & Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-28T17:18:39.896Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a1cf02f0c1a290400d004cf"
+        },
+        "_id_Str": "{'$oid': '5a1cf02f0c1a290400d004cf'}",
+        "created_at": {
+            "$date": "2017-11-28T05:12:15.053Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months  / White/Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-28T05:12:15.054Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4fb30e3eb0200400400dd9"
+        },
+        "_id_Str": "{'$oid': '5a4fb30e3eb0200400400dd9'}",
+        "created_at": {
+            "$date": "2018-01-05T17:17:02.491Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0-3  Months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T17:17:02.491Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a92455542cbce0400856e96"
+        },
+        "_id_Str": "{'$oid': '5a92455542cbce0400856e96'}",
+        "created_at": {
+            "$date": "2018-02-25T05:10:45.802Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months  / Cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-25T05:10:45.804Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a9e929d420a020400ce395d"
+        },
+        "_id_Str": "{'$oid': '5a9e929d420a020400ce395d'}",
+        "created_at": {
+            "$date": "2018-03-06T13:07:41.159Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0-3 months3-6 moths",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-06T13:07:41.164Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa418b00ee82604005cfe47"
+        },
+        "_id_Str": "{'$oid': '5aa418b00ee82604005cfe47'}",
+        "created_at": {
+            "$date": "2018-03-10T17:41:04.455Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "Size 0 (0-3  Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-10T17:41:04.456Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa411509dfbf80400a6e56b"
+        },
+        "_id_Str": "{'$oid': '5aa411509dfbf80400a6e56b'}",
+        "created_at": {
+            "$date": "2018-03-10T17:09:36.887Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3  Months  / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-10T17:09:36.888Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa75c1e6a7e9604001ea4b1"
+        },
+        "_id_Str": "{'$oid': '5aa75c1e6a7e9604001ea4b1'}",
+        "created_at": {
+            "$date": "2018-03-13T05:05:34.848Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3 Months /  White/Silver",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-13T05:05:34.850Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5acb021885a1f70400ab82af"
+        },
+        "_id_Str": "{'$oid': '5acb021885a1f70400ab82af'}",
+        "created_at": {
+            "$date": "2018-04-09T06:03:04.719Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0-3  months3-6 moths",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-09T06:03:04.724Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad435eceec6460400d16db3"
+        },
+        "_id_Str": "{'$oid': '5ad435eceec6460400d16db3'}",
+        "created_at": {
+            "$date": "2018-04-16T05:34:36.825Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 3  Months / White/Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-16T05:34:36.826Z"
+        }
+    }
+]

@@ -1,0 +1,610 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5829b09c14a3f40400e8a325"
+        },
+        "_id_Str": "{'$oid': '5829b09c14a3f40400e8a325'}",
+        "created_at": {
+            "$date": "2016-11-14T12:39:56.976Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-14T12:39:56.977Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcd394295d0400529ffd"
+        },
+        "_id_Str": "{'$oid': '5996bcd394295d0400529ffd'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:23.024Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:23.026Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd300d58140400f383b5"
+        },
+        "_id_Str": "{'$oid': '5996bd300d58140400f383b5'}",
+        "created_at": {
+            "$date": "2017-08-18T10:10:56.444Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Blue Polka Dot",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:10:56.446Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcd794295d040052a096"
+        },
+        "_id_Str": "{'$oid': '5996bcd794295d040052a096'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:27.146Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:27.147Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcd31c6aa60400bcb67f"
+        },
+        "_id_Str": "{'$oid': '5996bcd31c6aa60400bcb67f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:23.432Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Classic Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:23.434Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd3ae233b80400446701"
+        },
+        "_id_Str": "{'$oid': '5996bd3ae233b80400446701'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:06.302Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Pink Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:06.305Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd49f8082c0400382bf0"
+        },
+        "_id_Str": "{'$oid': '5996bd49f8082c0400382bf0'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:21.970Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Pale Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:21.971Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd4c0d58140400f384af"
+        },
+        "_id_Str": "{'$oid': '5996bd4c0d58140400f384af'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:24.102Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Navy Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:24.104Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beec1c6aa60400bccef0"
+        },
+        "_id_Str": "{'$oid': '5996beec1c6aa60400bccef0'}",
+        "created_at": {
+            "$date": "2017-08-18T10:18:20.962Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:18:20.962Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf501c6aa60400bcd272"
+        },
+        "_id_Str": "{'$oid': '5996bf501c6aa60400bcd272'}",
+        "created_at": {
+            "$date": "2017-08-18T10:20:00.561Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Cappuccino",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:20:00.564Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bfd10d58140400f3a5bd"
+        },
+        "_id_Str": "{'$oid': '5996bfd10d58140400f3a5bd'}",
+        "created_at": {
+            "$date": "2017-08-18T10:22:09.069Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:22:09.070Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a10d5fe85e3904006d3bd3"
+        },
+        "_id_Str": "{'$oid': '59a10d5fe85e3904006d3bd3'}",
+        "created_at": {
+            "$date": "2017-08-26T05:55:43.424Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Pear Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-26T05:55:43.424Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599e6acb257fe40400197afe"
+        },
+        "_id_Str": "{'$oid': '599e6acb257fe40400197afe'}",
+        "created_at": {
+            "$date": "2017-08-24T05:57:31.536Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Teal",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-24T05:57:31.540Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599e6acae6163404007f9d6b"
+        },
+        "_id_Str": "{'$oid': '599e6acae6163404007f9d6b'}",
+        "created_at": {
+            "$date": "2017-08-24T05:57:30.316Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Cloud",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-24T05:57:30.316Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599e6acd257fe40400197b38"
+        },
+        "_id_Str": "{'$oid': '599e6acd257fe40400197b38'}",
+        "created_at": {
+            "$date": "2017-08-24T05:57:33.883Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Thunder",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-24T05:57:33.885Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a10d5ec22ccf04002dc9b7"
+        },
+        "_id_Str": "{'$oid': '59a10d5ec22ccf04002dc9b7'}",
+        "created_at": {
+            "$date": "2017-08-26T05:55:42.883Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Heather Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-26T05:55:42.884Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a64a6a2caf1004003e0f62"
+        },
+        "_id_Str": "{'$oid': '59a64a6a2caf1004003e0f62'}",
+        "created_at": {
+            "$date": "2017-08-30T05:17:30.301Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Petrol Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-30T05:17:30.302Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59e1a679e55e6303006aae04"
+        },
+        "_id_Str": "{'$oid': '59e1a679e55e6303006aae04'}",
+        "created_at": {
+            "$date": "2017-10-14T05:54:01.739Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months  / Heather Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-14T05:54:01.739Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a28cc6c9f710704005172d5"
+        },
+        "_id_Str": "{'$oid': '5a28cc6c9f710704005172d5'}",
+        "created_at": {
+            "$date": "2017-12-07T05:06:52.742Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months  / Pink Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-07T05:06:52.744Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3befeff066c30400e7d6a4"
+        },
+        "_id_Str": "{'$oid': '5a3befeff066c30400e7d6a4'}",
+        "created_at": {
+            "$date": "2017-12-21T17:31:27.101Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Navy  Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-21T17:31:27.103Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be39dfc57e004006a7b3d"
+        },
+        "_id_Str": "{'$oid': '5a7be39dfc57e004006a7b3d'}",
+        "created_at": {
+            "$date": "2018-02-08T05:43:57.569Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Lilac",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:43:57.571Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be38fb5d3c00400b48fa4"
+        },
+        "_id_Str": "{'$oid': '5a7be38fb5d3c00400b48fa4'}",
+        "created_at": {
+            "$date": "2018-02-08T05:43:43.240Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:43:43.241Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be38539b43d0400fb3384"
+        },
+        "_id_Str": "{'$oid': '5a7be38539b43d0400fb3384'}",
+        "created_at": {
+            "$date": "2018-02-08T05:43:33.788Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Ice cream print",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:43:33.789Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be38931053304006a7f09"
+        },
+        "_id_Str": "{'$oid': '5a7be38931053304006a7f09'}",
+        "created_at": {
+            "$date": "2018-02-08T05:43:37.176Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Dark Denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:43:37.178Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3f439b43d0400fb357d"
+        },
+        "_id_Str": "{'$oid': '5a7be3f439b43d0400fb357d'}",
+        "created_at": {
+            "$date": "2018-02-08T05:45:24.083Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Dark denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:45:24.085Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be38b4348000400d9407d"
+        },
+        "_id_Str": "{'$oid': '5a7be38b4348000400d9407d'}",
+        "created_at": {
+            "$date": "2018-02-08T05:43:39.731Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Ivory cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:43:39.732Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3a7fc57e004006a7b74"
+        },
+        "_id_Str": "{'$oid': '5a7be3a7fc57e004006a7b74'}",
+        "created_at": {
+            "$date": "2018-02-08T05:44:07.241Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Tourist print",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:44:07.248Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3bab3993f0400357a76"
+        },
+        "_id_Str": "{'$oid': '5a7be3bab3993f0400357a76'}",
+        "created_at": {
+            "$date": "2018-02-08T05:44:26.936Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Boy ice cream print",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:44:26.938Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3af4348000400d940d0"
+        },
+        "_id_Str": "{'$oid': '5a7be3af4348000400d940d0'}",
+        "created_at": {
+            "$date": "2018-02-08T05:44:15.779Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:44:15.780Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3bd2192260400a321df"
+        },
+        "_id_Str": "{'$oid': '5a7be3bd2192260400a321df'}",
+        "created_at": {
+            "$date": "2018-02-08T05:44:29.251Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:44:29.253Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3f9ddbf9204005d5167"
+        },
+        "_id_Str": "{'$oid': '5a7be3f9ddbf9204005d5167'}",
+        "created_at": {
+            "$date": "2018-02-08T05:45:29.313Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Striped denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:45:29.315Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be355ddbf9204005d5068"
+        },
+        "_id_Str": "{'$oid': '5a7be355ddbf9204005d5068'}",
+        "created_at": {
+            "$date": "2018-02-08T05:42:45.902Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Ivory",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:42:45.902Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa60d789ffc2f0400ca5777"
+        },
+        "_id_Str": "{'$oid': '5aa60d789ffc2f0400ca5777'}",
+        "created_at": {
+            "$date": "2018-03-12T05:17:44.432Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months /  Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-12T05:17:44.434Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa6b893bce98d0400ec18b9"
+        },
+        "_id_Str": "{'$oid': '5aa6b893bce98d0400ec18b9'}",
+        "created_at": {
+            "$date": "2018-03-12T17:27:47.054Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months /  Blue Polka Dot",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-12T17:27:47.055Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae40cbbc2dcfd040042e93d"
+        },
+        "_id_Str": "{'$oid': '5ae40cbbc2dcfd040042e93d'}",
+        "created_at": {
+            "$date": "2018-04-28T05:55:07.261Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months /  Navy Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-28T05:55:07.263Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aebf7ae1cd2d4040012e08e"
+        },
+        "_id_Str": "{'$oid': '5aebf7ae1cd2d4040012e08e'}",
+        "created_at": {
+            "$date": "2018-05-04T06:03:26.427Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months / Pale  Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-04T06:03:26.428Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5afe5fdb97928f0400dcfd48"
+        },
+        "_id_Str": "{'$oid': '5afe5fdb97928f0400dcfd48'}",
+        "created_at": {
+            "$date": "2018-05-18T05:08:43.300Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months /  Dark Denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-18T05:08:43.302Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b25f4bc01348b04002b1336"
+        },
+        "_id_Str": "{'$oid': '5b25f4bc01348b04002b1336'}",
+        "created_at": {
+            "$date": "2018-06-17T05:42:20.308Z"
+        },
+        "filter_label": "2 - 3 Years",
+        "label": "36 Months  / Classic Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-17T05:42:20.309Z"
+        }
+    }
+]

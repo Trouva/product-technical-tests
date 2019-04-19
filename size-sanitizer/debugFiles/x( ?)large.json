@@ -1,0 +1,1026 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5638f5660765c50300bb0be7"
+        },
+        "_id_Str": "{'$oid': '5638f5660765c50300bb0be7'}",
+        "created_at": {
+            "$date": "2015-11-03T17:56:54.871Z"
+        },
+        "filter_label": "XL",
+        "label": "xlarge",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2015-11-03T17:56:54.871Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5723489673e9360300d1a208"
+        },
+        "_id_Str": "{'$oid': '5723489673e9360300d1a208'}",
+        "created_at": {
+            "$date": "2016-04-29T11:42:14.164Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-04-29T11:42:14.165Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57efd290ed4b100400c57cf0"
+        },
+        "_id_Str": "{'$oid': '57efd290ed4b100400c57cf0'}",
+        "created_at": {
+            "$date": "2016-10-01T15:13:20.455Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-01T15:13:20.456Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57f4e58368527b04009b7412"
+        },
+        "_id_Str": "{'$oid': '57f4e58368527b04009b7412'}",
+        "created_at": {
+            "$date": "2016-10-05T11:35:31.705Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Indigo",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-05T11:35:31.706Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57f4e56d6096a004001a6b0c"
+        },
+        "_id_Str": "{'$oid': '57f4e56d6096a004001a6b0c'}",
+        "created_at": {
+            "$date": "2016-10-05T11:35:09.739Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Sage",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-05T11:35:09.747Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57f4e58368527b04009b7414"
+        },
+        "_id_Str": "{'$oid': '57f4e58368527b04009b7414'}",
+        "created_at": {
+            "$date": "2016-10-05T11:35:31.705Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Sky Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-05T11:35:31.707Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57f4e56d6096a004001a6b13"
+        },
+        "_id_Str": "{'$oid': '57f4e56d6096a004001a6b13'}",
+        "created_at": {
+            "$date": "2016-10-05T11:35:09.759Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Yellow",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-05T11:35:09.763Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57f4e56d6096a004001a6b14"
+        },
+        "_id_Str": "{'$oid': '57f4e56d6096a004001a6b14'}",
+        "created_at": {
+            "$date": "2016-10-05T11:35:09.759Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-05T11:35:09.763Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57f4e56d6096a004001a6b0f"
+        },
+        "_id_Str": "{'$oid': '57f4e56d6096a004001a6b0f'}",
+        "created_at": {
+            "$date": "2016-10-05T11:35:09.757Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-05T11:35:09.760Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57f4e56d6096a004001a6b11"
+        },
+        "_id_Str": "{'$oid': '57f4e56d6096a004001a6b11'}",
+        "created_at": {
+            "$date": "2016-10-05T11:35:09.758Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Copper",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-05T11:35:09.761Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5913038ee3caba040084645c"
+        },
+        "_id_Str": "{'$oid': '5913038ee3caba040084645c'}",
+        "created_at": {
+            "$date": "2017-05-10T12:11:58.723Z"
+        },
+        "filter_label": "XL",
+        "label": "Xlarge",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-05-10T12:11:58.723Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59394fdd9fe4100400a5e9f2"
+        },
+        "_id_Str": "{'$oid': '59394fdd9fe4100400a5e9f2'}",
+        "created_at": {
+            "$date": "2017-06-08T13:23:41.446Z"
+        },
+        "filter_label": "XL",
+        "label": "x Large",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-06-08T13:23:41.448Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "593ffb74b362520400623982"
+        },
+        "_id_Str": "{'$oid': '593ffb74b362520400623982'}",
+        "created_at": {
+            "$date": "2017-06-13T14:49:24.552Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large (49cm - 54.5cm x 2.5cm)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-06-13T14:49:24.554Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599fb95067a23d04000b2aef"
+        },
+        "_id_Str": "{'$oid': '599fb95067a23d04000b2aef'}",
+        "created_at": {
+            "$date": "2017-08-25T05:44:48.907Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge(2-3y)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-25T05:44:48.908Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599fee72b3bce40400d441bc"
+        },
+        "_id_Str": "{'$oid': '599fee72b3bce40400d441bc'}",
+        "created_at": {
+            "$date": "2017-08-25T09:31:30.180Z"
+        },
+        "filter_label": "XL",
+        "label": "x large",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-25T09:31:30.182Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599fb94dd85bf7040040ffdd"
+        },
+        "_id_Str": "{'$oid': '599fb94dd85bf7040040ffdd'}",
+        "created_at": {
+            "$date": "2017-08-25T05:44:45.569Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge (2-3y)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-25T05:44:45.570Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599fbb835cddec0400363b23"
+        },
+        "_id_Str": "{'$oid': '599fbb835cddec0400363b23'}",
+        "created_at": {
+            "$date": "2017-08-25T05:54:11.624Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-25T05:54:11.625Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d8437512d0404002c968b"
+        },
+        "_id_Str": "{'$oid': '5a0d8437512d0404002c968b'}",
+        "created_at": {
+            "$date": "2017-11-16T12:27:35.144Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Brown",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:27:35.145Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d8437512d0404002c968c"
+        },
+        "_id_Str": "{'$oid': '5a0d8437512d0404002c968c'}",
+        "created_at": {
+            "$date": "2017-11-16T12:27:35.145Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:27:35.146Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d84346ad0560400432df6"
+        },
+        "_id_Str": "{'$oid': '5a0d84346ad0560400432df6'}",
+        "created_at": {
+            "$date": "2017-11-16T12:27:32.268Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large / Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:27:32.270Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d83f98db1cd04000e8330"
+        },
+        "_id_Str": "{'$oid': '5a0d83f98db1cd04000e8330'}",
+        "created_at": {
+            "$date": "2017-11-16T12:26:33.268Z"
+        },
+        "filter_label": "XL",
+        "label": "Large/X Large",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:26:33.269Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d883a56651f0400291a9c"
+        },
+        "_id_Str": "{'$oid': '5a0d883a56651f0400291a9c'}",
+        "created_at": {
+            "$date": "2017-11-16T12:44:42.485Z"
+        },
+        "filter_label": "XL",
+        "label": "X large",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:44:42.485Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0ef711bd1c140400891f70"
+        },
+        "_id_Str": "{'$oid': '5a0ef711bd1c140400891f70'}",
+        "created_at": {
+            "$date": "2017-11-17T14:49:53.240Z"
+        },
+        "filter_label": "XL",
+        "label": "42 X Large / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-17T14:49:53.240Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a150f696c45d00400839614"
+        },
+        "_id_Str": "{'$oid': '5a150f696c45d00400839614'}",
+        "created_at": {
+            "$date": "2017-11-22T05:47:21.025Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large / Rum",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-22T05:47:21.026Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a18364192d06604004d2bde"
+        },
+        "_id_Str": "{'$oid': '5a18364192d06604004d2bde'}",
+        "created_at": {
+            "$date": "2017-11-24T15:09:53.951Z"
+        },
+        "filter_label": "XL",
+        "label": "XLARGE",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-24T15:09:53.951Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a5061a08c6afa04009f3747"
+        },
+        "_id_Str": "{'$oid': '5a5061a08c6afa04009f3747'}",
+        "created_at": {
+            "$date": "2018-01-06T05:41:52.340Z"
+        },
+        "filter_label": "XL",
+        "label": "Large/XLarge",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-06T05:41:52.341Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4fb0c934dd6804009c227f"
+        },
+        "_id_Str": "{'$oid': '5a4fb0c934dd6804009c227f'}",
+        "created_at": {
+            "$date": "2018-01-05T17:07:21.318Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge  / Brown",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T17:07:21.318Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a62d52d0137c70400bc46c3"
+        },
+        "_id_Str": "{'$oid': '5a62d52d0137c70400bc46c3'}",
+        "created_at": {
+            "$date": "2018-01-20T05:35:41.719Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / amethyst",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-20T05:35:41.721Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6818c986382904000fd1e9"
+        },
+        "_id_Str": "{'$oid': '5a6818c986382904000fd1e9'}",
+        "created_at": {
+            "$date": "2018-01-24T05:25:29.100Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / white",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-24T05:25:29.100Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a62d54649c745040088e3ef"
+        },
+        "_id_Str": "{'$oid': '5a62d54649c745040088e3ef'}",
+        "created_at": {
+            "$date": "2018-01-20T05:36:06.377Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Opal",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-20T05:36:06.379Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6818a66b3632040075a738"
+        },
+        "_id_Str": "{'$oid': '5a6818a66b3632040075a738'}",
+        "created_at": {
+            "$date": "2018-01-24T05:24:54.011Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / black oil",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-24T05:24:54.012Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a62d53ce9db4404008df7ef"
+        },
+        "_id_Str": "{'$oid': '5a62d53ce9db4404008df7ef'}",
+        "created_at": {
+            "$date": "2018-01-20T05:35:56.806Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Topas",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-20T05:35:56.807Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a62d54877e8700400f67de4"
+        },
+        "_id_Str": "{'$oid': '5a62d54877e8700400f67de4'}",
+        "created_at": {
+            "$date": "2018-01-20T05:36:08.453Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / Rubin",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-20T05:36:08.454Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a62d52f6730a0040001950d"
+        },
+        "_id_Str": "{'$oid': '5a62d52f6730a0040001950d'}",
+        "created_at": {
+            "$date": "2018-01-20T05:35:43.239Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-20T05:35:43.242Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a62d52b09a07f0400dbbccd"
+        },
+        "_id_Str": "{'$oid': '5a62d52b09a07f0400dbbccd'}",
+        "created_at": {
+            "$date": "2018-01-20T05:35:39.672Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / topas",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-20T05:35:39.673Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6818ce9f12300400b6cf27"
+        },
+        "_id_Str": "{'$oid': '5a6818ce9f12300400b6cf27'}",
+        "created_at": {
+            "$date": "2018-01-24T05:25:34.600Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / desert",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-24T05:25:34.601Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6818e06045dc0400c4ba55"
+        },
+        "_id_Str": "{'$oid': '5a6818e06045dc0400c4ba55'}",
+        "created_at": {
+            "$date": "2018-01-24T05:25:52.421Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / green",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-24T05:25:52.422Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a87bf1996e5a00400c86d2f"
+        },
+        "_id_Str": "{'$oid': '5a87bf1996e5a00400c86d2f'}",
+        "created_at": {
+            "$date": "2018-02-17T05:35:21.156Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-17T05:35:21.158Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a87bf1996e5a00400c86d2e"
+        },
+        "_id_Str": "{'$oid': '5a87bf1996e5a00400c86d2e'}",
+        "created_at": {
+            "$date": "2018-02-17T05:35:21.156Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-17T05:35:21.157Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a8d090c1229ad0400a790df"
+        },
+        "_id_Str": "{'$oid': '5a8d090c1229ad0400a790df'}",
+        "created_at": {
+            "$date": "2018-02-21T05:52:12.942Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge  / white",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-21T05:52:12.943Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a94eaac5ebea804008ff162"
+        },
+        "_id_Str": "{'$oid': '5a94eaac5ebea804008ff162'}",
+        "created_at": {
+            "$date": "2018-02-27T05:20:44.031Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / opal",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-27T05:20:44.032Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa0179a1fa2550400547817"
+        },
+        "_id_Str": "{'$oid': '5aa0179a1fa2550400547817'}",
+        "created_at": {
+            "$date": "2018-03-07T16:47:22.459Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge /  green",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-07T16:47:22.459Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a9f772a1fa2550400545a5a"
+        },
+        "_id_Str": "{'$oid': '5a9f772a1fa2550400545a5a'}",
+        "created_at": {
+            "$date": "2018-03-07T05:22:50.219Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large / Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-07T05:22:50.220Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a9e813a65c12f040087e9f9"
+        },
+        "_id_Str": "{'$oid': '5a9e813a65c12f040087e9f9'}",
+        "created_at": {
+            "$date": "2018-03-06T11:53:30.488Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge / brown",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-06T11:53:30.489Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a9e80f1c85aa30400ea00cd"
+        },
+        "_id_Str": "{'$oid': '5a9e80f1c85aa30400ea00cd'}",
+        "created_at": {
+            "$date": "2018-03-06T11:52:17.743Z"
+        },
+        "filter_label": "XL",
+        "label": "x Large / black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-06T11:52:17.745Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa017aa05306c0400cf0801"
+        },
+        "_id_Str": "{'$oid': '5aa017aa05306c0400cf0801'}",
+        "created_at": {
+            "$date": "2018-03-07T16:47:38.004Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge  / amethyst",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-07T16:47:38.005Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa75b69b92b7b0400b1d948"
+        },
+        "_id_Str": "{'$oid': '5aa75b69b92b7b0400b1d948'}",
+        "created_at": {
+            "$date": "2018-03-13T05:02:33.743Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge /  Rubin",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-13T05:02:33.744Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aaaaa855056150400dcee6d"
+        },
+        "_id_Str": "{'$oid': '5aaaaa855056150400dcee6d'}",
+        "created_at": {
+            "$date": "2018-03-15T17:16:53.179Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge  / black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-15T17:16:53.180Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5abb3b57a18c7e0400ae08b4"
+        },
+        "_id_Str": "{'$oid': '5abb3b57a18c7e0400ae08b4'}",
+        "created_at": {
+            "$date": "2018-03-28T06:51:03.820Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge  / desert",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-28T06:51:03.822Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad6e7971285c9040002b5b6"
+        },
+        "_id_Str": "{'$oid': '5ad6e7971285c9040002b5b6'}",
+        "created_at": {
+            "$date": "2018-04-18T06:37:11.726Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge /  amethyst",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-18T06:37:11.740Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aeb646c3c1ba504009460c7"
+        },
+        "_id_Str": "{'$oid': '5aeb646c3c1ba504009460c7'}",
+        "created_at": {
+            "$date": "2018-05-03T19:35:08.001Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large with tray",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-03T19:35:08.003Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5af52d953fcb6d0400bd0884"
+        },
+        "_id_Str": "{'$oid': '5af52d953fcb6d0400bd0884'}",
+        "created_at": {
+            "$date": "2018-05-11T05:43:49.895Z"
+        },
+        "filter_label": "XL",
+        "label": "Xlarge / Print 032",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-11T05:43:49.897Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5af53b986a7dab0400205bd4"
+        },
+        "_id_Str": "{'$oid': '5af53b986a7dab0400205bd4'}",
+        "created_at": {
+            "$date": "2018-05-11T06:43:36.376Z"
+        },
+        "filter_label": "XL",
+        "label": "X LARGE",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-11T06:43:36.377Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5afd0e2d64c6ce04002bdbde"
+        },
+        "_id_Str": "{'$oid': '5afd0e2d64c6ce04002bdbde'}",
+        "created_at": {
+            "$date": "2018-05-17T05:07:57.703Z"
+        },
+        "filter_label": "XL",
+        "label": "Xlarge / 032",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-17T05:07:57.705Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5afa81b207f1dc040001934a"
+        },
+        "_id_Str": "{'$oid': '5afa81b207f1dc040001934a'}",
+        "created_at": {
+            "$date": "2018-05-15T06:44:02.677Z"
+        },
+        "filter_label": "XL",
+        "label": "Xlarge  / Print 032",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-15T06:44:02.678Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5afe6f7729e7dc040056e81a"
+        },
+        "_id_Str": "{'$oid': '5afe6f7729e7dc040056e81a'}",
+        "created_at": {
+            "$date": "2018-05-18T06:15:19.965Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large / Green",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-18T06:15:19.966Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5afe6fa2435d1f0400fa477d"
+        },
+        "_id_Str": "{'$oid': '5afe6fa2435d1f0400fa477d'}",
+        "created_at": {
+            "$date": "2018-05-18T06:16:02.207Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large / Mustard",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-18T06:16:02.210Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5afe6f8997928f0400dd150f"
+        },
+        "_id_Str": "{'$oid': '5afe6f8997928f0400dd150f'}",
+        "created_at": {
+            "$date": "2018-05-18T06:15:37.758Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-18T06:15:37.760Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5afe6fa2435d1f0400fa477c"
+        },
+        "_id_Str": "{'$oid': '5afe6fa2435d1f0400fa477c'}",
+        "created_at": {
+            "$date": "2018-05-18T06:16:02.206Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large / Aqua",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-18T06:16:02.209Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b05009cff58cb0400a628d9"
+        },
+        "_id_Str": "{'$oid': '5b05009cff58cb0400a628d9'}",
+        "created_at": {
+            "$date": "2018-05-23T05:48:12.782Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large /  Mustard",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-23T05:48:12.783Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b07ae9c65e46b0400c8ea7b"
+        },
+        "_id_Str": "{'$oid': '5b07ae9c65e46b0400c8ea7b'}",
+        "created_at": {
+            "$date": "2018-05-25T06:35:08.174Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge /  black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-25T06:35:08.174Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b09119bc86a230400419c2b"
+        },
+        "_id_Str": "{'$oid': '5b09119bc86a230400419c2b'}",
+        "created_at": {
+            "$date": "2018-05-26T07:49:47.989Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge  / Rubin",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-26T07:49:47.990Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b122af77f94ef0400711841"
+        },
+        "_id_Str": "{'$oid': '5b122af77f94ef0400711841'}",
+        "created_at": {
+            "$date": "2018-06-02T05:28:23.086Z"
+        },
+        "filter_label": "XL",
+        "label": "X Large  / Green",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-02T05:28:23.087Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b28b08003a48e04004eea57"
+        },
+        "_id_Str": "{'$oid': '5b28b08003a48e04004eea57'}",
+        "created_at": {
+            "$date": "2018-06-19T07:28:00.055Z"
+        },
+        "filter_label": "XL",
+        "label": "XLarge /  topas",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-19T07:28:00.057Z"
+        }
+    }
+]

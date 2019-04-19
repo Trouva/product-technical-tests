@@ -1,0 +1,594 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5714f6781a9c130300a05aa2"
+        },
+        "_id_Str": "{'$oid': '5714f6781a9c130300a05aa2'}",
+        "created_at": {
+            "$date": "2016-04-18T15:00:08.311Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-04-18T15:00:08.311Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "57d0f6eb04af430300f7ad62"
+        },
+        "_id_Str": "{'$oid': '57d0f6eb04af430300f7ad62'}",
+        "created_at": {
+            "$date": "2016-09-08T05:28:11.577Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "62 / 0-6 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-09-08T05:28:11.578Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5816d626863387030031da6c"
+        },
+        "_id_Str": "{'$oid': '5816d626863387030031da6c'}",
+        "created_at": {
+            "$date": "2016-10-31T05:27:02.167Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 Months / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-31T05:27:02.173Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5818296df651da03002143e9"
+        },
+        "_id_Str": "{'$oid': '5818296df651da03002143e9'}",
+        "created_at": {
+            "$date": "2016-11-01T05:34:37.677Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 / 0-6 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-01T05:34:37.680Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5816d6255a527403007481ba"
+        },
+        "_id_Str": "{'$oid': '5816d6255a527403007481ba'}",
+        "created_at": {
+            "$date": "2016-10-31T05:27:01.636Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 Months / Raspberry",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-10-31T05:27:01.637Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5831bee5daabc604003028e6"
+        },
+        "_id_Str": "{'$oid': '5831bee5daabc604003028e6'}",
+        "created_at": {
+            "$date": "2016-11-20T15:19:01.030Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "62 /  0-6 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-20T15:19:01.032Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5834750cdf833404007314a5"
+        },
+        "_id_Str": "{'$oid': '5834750cdf833404007314a5'}",
+        "created_at": {
+            "$date": "2016-11-22T16:40:44.235Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "60 / 0-6 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-22T16:40:44.236Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "588f5ec0dad4b6040092fdeb"
+        },
+        "_id_Str": "{'$oid': '588f5ec0dad4b6040092fdeb'}",
+        "created_at": {
+            "$date": "2017-01-30T15:41:52.239Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6  months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-01-30T15:41:52.243Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58bf960d6b44b904004d3246"
+        },
+        "_id_Str": "{'$oid': '58bf960d6b44b904004d3246'}",
+        "created_at": {
+            "$date": "2017-03-08T05:26:37.141Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 Months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-03-08T05:26:37.143Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "592fa60e6aae5d0400d5a5e2"
+        },
+        "_id_Str": "{'$oid': '592fa60e6aae5d0400d5a5e2'}",
+        "created_at": {
+            "$date": "2017-06-01T05:28:46.929Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "60 / 0-6 mth",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-06-01T05:28:46.930Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc6c1c6aa60400bcb158"
+        },
+        "_id_Str": "{'$oid': '5996bc6c1c6aa60400bcb158'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:40.013Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / Lion",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:40.015Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc6f1c6aa60400bcb187"
+        },
+        "_id_Str": "{'$oid': '5996bc6f1c6aa60400bcb187'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:43.899Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / Caramel Nubuck",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:43.900Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bda8e233b80400446b33"
+        },
+        "_id_Str": "{'$oid': '5996bda8e233b80400446b33'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:56.149Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:56.151Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bda81c6aa60400bcbe34"
+        },
+        "_id_Str": "{'$oid': '5996bda81c6aa60400bcbe34'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:56.044Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / Nubuck Powder",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:56.045Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdaa1c6aa60400bcbe71"
+        },
+        "_id_Str": "{'$oid': '5996bdaa1c6aa60400bcbe71'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:58.604Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / Caramel",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:58.605Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bda71c6aa60400bcbe30"
+        },
+        "_id_Str": "{'$oid': '5996bda71c6aa60400bcbe30'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:55.980Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / Nubuck Cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:55.982Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bda8f8082c0400382e0f"
+        },
+        "_id_Str": "{'$oid': '5996bda8f8082c0400382e0f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:56.511Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / Panda",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:56.512Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beab94295d040052b23b"
+        },
+        "_id_Str": "{'$oid': '5996beab94295d040052b23b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:15.718Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / Denim - Leather Cognac",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:15.718Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beab0d58140400f39631"
+        },
+        "_id_Str": "{'$oid': '5996beab0d58140400f39631'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:15.793Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / Cow Hair Zebra",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:15.795Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beaa94295d040052b21a"
+        },
+        "_id_Str": "{'$oid': '5996beaa94295d040052b21a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:14.378Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months / Nubuck Taupe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:14.379Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59fb4fecdb94950400dcb5c7"
+        },
+        "_id_Str": "{'$oid': '59fb4fecdb94950400dcb5c7'}",
+        "created_at": {
+            "$date": "2017-11-02T17:03:40.418Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "56-62 (0-6 months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-02T17:03:40.419Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a23897800fcf8040009e433"
+        },
+        "_id_Str": "{'$oid': '5a23897800fcf8040009e433'}",
+        "created_at": {
+            "$date": "2017-12-03T05:19:52.312Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "62/68 (0-6 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-03T05:19:52.313Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a223c3f4950600400771bf2"
+        },
+        "_id_Str": "{'$oid': '5a223c3f4950600400771bf2'}",
+        "created_at": {
+            "$date": "2017-12-02T05:38:07.049Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6  Months / Nubuck Taupe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-02T05:38:07.050Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a238975c6c32b0400322c85"
+        },
+        "_id_Str": "{'$oid': '5a238975c6c32b0400322c85'}",
+        "created_at": {
+            "$date": "2017-12-03T05:19:49.255Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "17/18 (0-6 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-03T05:19:49.257Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a24305b64cdb004003773b7"
+        },
+        "_id_Str": "{'$oid': '5a24305b64cdb004003773b7'}",
+        "created_at": {
+            "$date": "2017-12-03T17:11:55.380Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "56-68 (0-6 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-03T17:11:55.381Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a34119ebec6d20400c06a3d"
+        },
+        "_id_Str": "{'$oid': '5a34119ebec6d20400c06a3d'}",
+        "created_at": {
+            "$date": "2017-12-15T18:17:02.830Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 months / 2.5",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:17:02.833Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a34119ebec6d20400c06a3c"
+        },
+        "_id_Str": "{'$oid': '5a34119ebec6d20400c06a3c'}",
+        "created_at": {
+            "$date": "2017-12-15T18:17:02.829Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 months / 1",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:17:02.832Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3a97a78d39c0040056806f"
+        },
+        "_id_Str": "{'$oid': '5a3a97a78d39c0040056806f'}",
+        "created_at": {
+            "$date": "2017-12-20T17:02:31.968Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6  Months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-20T17:02:31.969Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a56627134d5420400280d85"
+        },
+        "_id_Str": "{'$oid': '5a56627134d5420400280d85'}",
+        "created_at": {
+            "$date": "2018-01-10T18:58:57.310Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6  Months / Nubuck Cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-10T18:58:57.312Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a637561d6c036040040a2e5"
+        },
+        "_id_Str": "{'$oid': '5a637561d6c036040040a2e5'}",
+        "created_at": {
+            "$date": "2018-01-20T16:59:13.500Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0 - 6 Months /  Caramel",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-20T16:59:13.501Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6b634a370f9e04001050fb"
+        },
+        "_id_Str": "{'$oid': '5a6b634a370f9e04001050fb'}",
+        "created_at": {
+            "$date": "2018-01-26T17:20:10.945Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 months (62/68_",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-26T17:20:10.949Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6b634d48b140040035bf6c"
+        },
+        "_id_Str": "{'$oid': '5a6b634d48b140040035bf6c'}",
+        "created_at": {
+            "$date": "2018-01-26T17:20:13.274Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 months (62/68)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-26T17:20:13.276Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a85b8ae4fe2bb04008d6394"
+        },
+        "_id_Str": "{'$oid': '5a85b8ae4fe2bb04008d6394'}",
+        "created_at": {
+            "$date": "2018-02-15T16:43:26.828Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 month",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-15T16:43:26.829Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa0ca31e544160400508ad4"
+        },
+        "_id_Str": "{'$oid': '5aa0ca31e544160400508ad4'}",
+        "created_at": {
+            "$date": "2018-03-08T05:29:21.608Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "17/18 (0-6  Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-08T05:29:21.609Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5addeea16ea4020400136611"
+        },
+        "_id_Str": "{'$oid': '5addeea16ea4020400136611'}",
+        "created_at": {
+            "$date": "2018-04-23T14:33:05.999Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 months / dress:40cm 16\" shorts:26cm 10\" hat:n/a",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-23T14:33:06.000Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5addee9f092efc04001f1220"
+        },
+        "_id_Str": "{'$oid': '5addee9f092efc04001f1220'}",
+        "created_at": {
+            "$date": "2018-04-23T14:33:03.495Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6 months / 46cm 18\"",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-23T14:33:03.496Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b2164a612aab50400bfa826"
+        },
+        "_id_Str": "{'$oid': '5b2164a612aab50400bfa826'}",
+        "created_at": {
+            "$date": "2018-06-13T18:38:30.023Z"
+        },
+        "filter_label": "0 - 6 Months",
+        "label": "0-6  months (62/68)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-13T18:38:30.024Z"
+        }
+    }
+]

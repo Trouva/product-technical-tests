@@ -1,0 +1,50 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a34132fdf8f8104000633fd"
+        },
+        "_id_Str": "{'$oid': '5a34132fdf8f8104000633fd'}",
+        "created_at": {
+            "$date": "2017-12-15T18:23:43.900Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0-1 month",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:23:43.902Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a341496495a15040007bb26"
+        },
+        "_id_Str": "{'$oid': '5a341496495a15040007bb26'}",
+        "created_at": {
+            "$date": "2017-12-15T18:29:42.380Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 1 month",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-15T18:29:42.382Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b0648d7a991950400fb4a78"
+        },
+        "_id_Str": "{'$oid': '5b0648d7a991950400fb4a78'}",
+        "created_at": {
+            "$date": "2018-05-24T05:08:39.413Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "0 - 1  month",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-24T05:08:39.414Z"
+        }
+    }
+]

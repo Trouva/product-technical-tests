@@ -1,0 +1,162 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5893208a6a1157040029d050"
+        },
+        "_id_Str": "{'$oid': '5893208a6a1157040029d050'}",
+        "created_at": {
+            "$date": "2017-02-02T12:05:30.160Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-Large",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-02-02T12:05:30.162Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59ca513178a7970400e5f411"
+        },
+        "_id_Str": "{'$oid': '59ca513178a7970400e5f411'}",
+        "created_at": {
+            "$date": "2017-09-26T13:08:01.896Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-LARGE",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-26T13:08:01.898Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aaa01d489580b040007266b"
+        },
+        "_id_Str": "{'$oid': '5aaa01d489580b040007266b'}",
+        "created_at": {
+            "$date": "2018-03-15T05:17:08.364Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-Large / Army",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-15T05:17:08.366Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aaa01d1a774a50400d8d386"
+        },
+        "_id_Str": "{'$oid': '5aaa01d1a774a50400d8d386'}",
+        "created_at": {
+            "$date": "2018-03-15T05:17:05.322Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-Large / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-15T05:17:05.323Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aaa01d489580b040007266e"
+        },
+        "_id_Str": "{'$oid': '5aaa01d489580b040007266e'}",
+        "created_at": {
+            "$date": "2018-03-15T05:17:08.383Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-Large / Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-15T05:17:08.384Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aaa01d489580b040007266d"
+        },
+        "_id_Str": "{'$oid': '5aaa01d489580b040007266d'}",
+        "created_at": {
+            "$date": "2018-03-15T05:17:08.365Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-Large / Light Rust",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-15T05:17:08.367Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aaa01d710fb0d0400af6b03"
+        },
+        "_id_Str": "{'$oid': '5aaa01d710fb0d0400af6b03'}",
+        "created_at": {
+            "$date": "2018-03-15T05:17:11.782Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-Large / Grey Melange",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-15T05:17:11.783Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aaa01db10fb0d0400af6b2d"
+        },
+        "_id_Str": "{'$oid': '5aaa01db10fb0d0400af6b2d'}",
+        "created_at": {
+            "$date": "2018-03-15T05:17:15.482Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-Large / Light Army",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-15T05:17:15.483Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad2f12821693604004a4164"
+        },
+        "_id_Str": "{'$oid': '5ad2f12821693604004a4164'}",
+        "created_at": {
+            "$date": "2018-04-15T06:28:56.076Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-large",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-15T06:28:56.078Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5adedc0db674d80400cfffac"
+        },
+        "_id_Str": "{'$oid': '5adedc0db674d80400cfffac'}",
+        "created_at": {
+            "$date": "2018-04-24T07:26:05.512Z"
+        },
+        "filter_label": "XXL",
+        "label": "XX-Large /  Light Army",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-24T07:26:05.513Z"
+        }
+    }
+]

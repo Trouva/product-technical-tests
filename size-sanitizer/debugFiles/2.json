@@ -1,0 +1,82 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59afd144ae84980400c8dd25"
+        },
+        "_id_Str": "{'$oid': '59afd144ae84980400c8dd25'}",
+        "created_at": {
+            "$date": "2017-09-06T10:43:16.172Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "2 months (56cm)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-06T10:43:16.174Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59afd14694fcd10400562dd5"
+        },
+        "_id_Str": "{'$oid': '59afd14694fcd10400562dd5'}",
+        "created_at": {
+            "$date": "2017-09-06T10:43:18.251Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "2 months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-06T10:43:18.254Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59afd148e457f9040025e593"
+        },
+        "_id_Str": "{'$oid': '59afd148e457f9040025e593'}",
+        "created_at": {
+            "$date": "2017-09-06T10:43:20.161Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "62cm (2 months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-06T10:43:20.161Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a37558761ba920400238634"
+        },
+        "_id_Str": "{'$oid': '5a37558761ba920400238634'}",
+        "created_at": {
+            "$date": "2017-12-18T05:43:35.688Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "56cm (2 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-18T05:43:35.689Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7b39434348000400d92d81"
+        },
+        "_id_Str": "{'$oid': '5a7b39434348000400d92d81'}",
+        "created_at": {
+            "$date": "2018-02-07T17:37:07.473Z"
+        },
+        "filter_label": "0 - 3 Months",
+        "label": "56cm  (2 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-07T17:37:07.475Z"
+        }
+    }
+]

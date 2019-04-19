@@ -1,0 +1,18 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58de5ae894a636040009ac73"
+        },
+        "_id_Str": "{'$oid': '58de5ae894a636040009ac73'}",
+        "created_at": {
+            "$date": "2017-03-31T13:34:32.054Z"
+        },
+        "filter_label": "XL",
+        "label": "X-L",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-03-31T13:34:32.056Z"
+        }
+    }
+]

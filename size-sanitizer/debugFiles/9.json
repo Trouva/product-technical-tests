@@ -1,0 +1,4130 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5829b09c14a3f40400e8a324"
+        },
+        "_id_Str": "{'$oid': '5829b09c14a3f40400e8a324'}",
+        "created_at": {
+            "$date": "2016-11-14T12:39:56.973Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-14T12:39:56.974Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "590abde515aa2804002645dd"
+        },
+        "_id_Str": "{'$oid': '590abde515aa2804002645dd'}",
+        "created_at": {
+            "$date": "2017-05-04T05:36:37.985Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48/50 - 9mths - 3yrs",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-05-04T05:36:37.986Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "590abde315aa2804002645c4"
+        },
+        "_id_Str": "{'$oid': '590abde315aa2804002645c4'}",
+        "created_at": {
+            "$date": "2017-05-04T05:36:35.378Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48/50 - 9mths-3yrs",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-05-04T05:36:35.380Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "590abde3868bd20400b9c280"
+        },
+        "_id_Str": "{'$oid': '590abde3868bd20400b9c280'}",
+        "created_at": {
+            "$date": "2017-05-04T05:36:35.670Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48/50 - 9mths - 3 yrs",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-05-04T05:36:35.670Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "598c971ef293fe0400c46b0b"
+        },
+        "_id_Str": "{'$oid': '598c971ef293fe0400c46b0b'}",
+        "created_at": {
+            "$date": "2017-08-10T17:25:50.630Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "80/86 (9mths-1.5yrs)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-10T17:25:50.634Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "598c971cf293fe0400c46add"
+        },
+        "_id_Str": "{'$oid': '598c971cf293fe0400c46add'}",
+        "created_at": {
+            "$date": "2017-08-10T17:25:48.222Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "80/86 (9mths-18mths)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-10T17:25:48.224Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "598c971dc537f00400849d9c"
+        },
+        "_id_Str": "{'$oid': '598c971dc537f00400849d9c'}",
+        "created_at": {
+            "$date": "2017-08-10T17:25:49.367Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "80/92 (9mths-18mths)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-10T17:25:49.370Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5993d658d53fcd04008367c3"
+        },
+        "_id_Str": "{'$oid': '5993d658d53fcd04008367c3'}",
+        "created_at": {
+            "$date": "2017-08-16T05:21:28.962Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9mths",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-16T05:21:28.964Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5993d654e5bcec04003d2e34"
+        },
+        "_id_Str": "{'$oid': '5993d654e5bcec04003d2e34'}",
+        "created_at": {
+            "$date": "2017-08-16T05:21:24.529Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9mth",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-16T05:21:24.530Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bb7ce233b804004452ac"
+        },
+        "_id_Str": "{'$oid': '5996bb7ce233b804004452ac'}",
+        "created_at": {
+            "$date": "2017-08-18T10:03:40.849Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:03:40.852Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bb7be233b8040044527a"
+        },
+        "_id_Str": "{'$oid': '5996bb7be233b8040044527a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:03:39.660Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Light Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:03:39.661Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bb7794295d04005290ef"
+        },
+        "_id_Str": "{'$oid': '5996bb7794295d04005290ef'}",
+        "created_at": {
+            "$date": "2017-08-18T10:03:35.769Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:03:35.770Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bb7fe233b804004452e3"
+        },
+        "_id_Str": "{'$oid': '5996bb7fe233b804004452e3'}",
+        "created_at": {
+            "$date": "2017-08-18T10:03:43.164Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:03:43.166Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbace233b8040044546a"
+        },
+        "_id_Str": "{'$oid': '5996bbace233b8040044546a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:04:28.032Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pale Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:04:28.034Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbb40d58140400f37299"
+        },
+        "_id_Str": "{'$oid': '5996bbb40d58140400f37299'}",
+        "created_at": {
+            "$date": "2017-08-18T10:04:36.850Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Light Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:04:36.852Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bb960d58140400f370f4"
+        },
+        "_id_Str": "{'$oid': '5996bb960d58140400f370f4'}",
+        "created_at": {
+            "$date": "2017-08-18T10:04:06.987Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Navy Blue & Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:04:06.994Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbbbf8082c0400381bf8"
+        },
+        "_id_Str": "{'$oid': '5996bbbbf8082c0400381bf8'}",
+        "created_at": {
+            "$date": "2017-08-18T10:04:43.592Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / China Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:04:43.613Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbe4e233b80400445773"
+        },
+        "_id_Str": "{'$oid': '5996bbe4e233b80400445773'}",
+        "created_at": {
+            "$date": "2017-08-18T10:05:24.052Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Dusty Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:05:24.053Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbe50d58140400f37486"
+        },
+        "_id_Str": "{'$oid': '5996bbe50d58140400f37486'}",
+        "created_at": {
+            "$date": "2017-08-18T10:05:25.451Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Grey Mel",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:05:25.454Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbe50d58140400f37480"
+        },
+        "_id_Str": "{'$oid': '5996bbe50d58140400f37480'}",
+        "created_at": {
+            "$date": "2017-08-18T10:05:25.337Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Cloud",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:05:25.341Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbef94295d0400529559"
+        },
+        "_id_Str": "{'$oid': '5996bbef94295d0400529559'}",
+        "created_at": {
+            "$date": "2017-08-18T10:05:35.198Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:05:35.200Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc1ce233b80400445a44"
+        },
+        "_id_Str": "{'$oid': '5996bc1ce233b80400445a44'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:20.590Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Heather Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:20.594Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbfff8082c0400381e0b"
+        },
+        "_id_Str": "{'$oid': '5996bbfff8082c0400381e0b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:05:51.807Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Cloud White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:05:51.810Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbf7e233b8040044581f"
+        },
+        "_id_Str": "{'$oid': '5996bbf7e233b8040044581f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:05:43.469Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Fluro Beach",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:05:43.479Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbf01c6aa60400bcab0c"
+        },
+        "_id_Str": "{'$oid': '5996bbf01c6aa60400bcab0c'}",
+        "created_at": {
+            "$date": "2017-08-18T10:05:36.290Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Sun Faded Chambray",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:05:36.290Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc22f8082c0400381f44"
+        },
+        "_id_Str": "{'$oid': '5996bc22f8082c0400381f44'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:26.822Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Marl Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:26.825Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc1be233b80400445a0b"
+        },
+        "_id_Str": "{'$oid': '5996bc1be233b80400445a0b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:19.281Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Multicolour Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:19.419Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc110d58140400f375f1"
+        },
+        "_id_Str": "{'$oid': '5996bc110d58140400f375f1'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:09.340Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Blueberry",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:09.341Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bbf81c6aa60400bcab76"
+        },
+        "_id_Str": "{'$oid': '5996bbf81c6aa60400bcab76'}",
+        "created_at": {
+            "$date": "2017-08-18T10:05:44.994Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Ivory",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:05:44.997Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc130d58140400f37626"
+        },
+        "_id_Str": "{'$oid': '5996bc130d58140400f37626'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:11.129Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Lobster Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:11.130Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc04f8082c0400381e3a"
+        },
+        "_id_Str": "{'$oid': '5996bc04f8082c0400381e3a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:05:56.164Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Salmon pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:05:56.169Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc30e233b80400445b08"
+        },
+        "_id_Str": "{'$oid': '5996bc30e233b80400445b08'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:40.914Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White Floral",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:40.915Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc2ee233b80400445ad4"
+        },
+        "_id_Str": "{'$oid': '5996bc2ee233b80400445ad4'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:38.511Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Chambray Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:38.517Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc2a94295d0400529812"
+        },
+        "_id_Str": "{'$oid': '5996bc2a94295d0400529812'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:34.024Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Indigo",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:34.056Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc430d58140400f37905"
+        },
+        "_id_Str": "{'$oid': '5996bc430d58140400f37905'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:59.263Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:59.264Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc4394295d040052993a"
+        },
+        "_id_Str": "{'$oid': '5996bc4394295d040052993a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:06:59.925Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Light Petrol Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:06:59.931Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc451c6aa60400bcae51"
+        },
+        "_id_Str": "{'$oid': '5996bc451c6aa60400bcae51'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:01.376Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:01.379Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc4b1c6aa60400bcaed7"
+        },
+        "_id_Str": "{'$oid': '5996bc4b1c6aa60400bcaed7'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:07.846Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Sky Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:07.852Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc5ce233b80400445c85"
+        },
+        "_id_Str": "{'$oid': '5996bc5ce233b80400445c85'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:24.828Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Grey & White Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:24.829Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc5d1c6aa60400bcafcf"
+        },
+        "_id_Str": "{'$oid': '5996bc5d1c6aa60400bcafcf'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:25.320Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Petrol Blue & White Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:25.322Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc64f8082c0400382141"
+        },
+        "_id_Str": "{'$oid': '5996bc64f8082c0400382141'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:32.978Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:32.982Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc601c6aa60400bcb03f"
+        },
+        "_id_Str": "{'$oid': '5996bc601c6aa60400bcb03f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:28.178Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Grey & Berenjena",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:28.184Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc5a0d58140400f37ac1"
+        },
+        "_id_Str": "{'$oid': '5996bc5a0d58140400f37ac1'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:22.616Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Anil & Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:22.625Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc6594295d04005299fc"
+        },
+        "_id_Str": "{'$oid': '5996bc6594295d04005299fc'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:33.945Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Petrol Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:33.949Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc790d58140400f37b83"
+        },
+        "_id_Str": "{'$oid': '5996bc790d58140400f37b83'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:53.651Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:53.654Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc7ee233b80400445dfe"
+        },
+        "_id_Str": "{'$oid': '5996bc7ee233b80400445dfe'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:58.811Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:58.815Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc9b94295d0400529cfb"
+        },
+        "_id_Str": "{'$oid': '5996bc9b94295d0400529cfb'}",
+        "created_at": {
+            "$date": "2017-08-18T10:08:27.985Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Baby Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:08:27.987Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bca094295d0400529d77"
+        },
+        "_id_Str": "{'$oid': '5996bca094295d0400529d77'}",
+        "created_at": {
+            "$date": "2017-08-18T10:08:32.783Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Plomo",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:08:32.787Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc57e233b80400445c55"
+        },
+        "_id_Str": "{'$oid': '5996bc57e233b80400445c55'}",
+        "created_at": {
+            "$date": "2017-08-18T10:07:19.894Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Grey Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:07:19.898Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc9a94295d0400529c68"
+        },
+        "_id_Str": "{'$oid': '5996bc9a94295d0400529c68'}",
+        "created_at": {
+            "$date": "2017-08-18T10:08:26.820Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Ivory & Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:08:26.823Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc98f8082c040038236a"
+        },
+        "_id_Str": "{'$oid': '5996bc98f8082c040038236a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:08:24.886Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Ivory & Beige",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:08:24.890Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bc99e233b80400445f7b"
+        },
+        "_id_Str": "{'$oid': '5996bc99e233b80400445f7b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:08:25.966Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Light Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:08:25.969Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcaef8082c0400382484"
+        },
+        "_id_Str": "{'$oid': '5996bcaef8082c0400382484'}",
+        "created_at": {
+            "$date": "2017-08-18T10:08:46.291Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Light Blue & White Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:08:46.305Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcac0d58140400f37de6"
+        },
+        "_id_Str": "{'$oid': '5996bcac0d58140400f37de6'}",
+        "created_at": {
+            "$date": "2017-08-18T10:08:44.063Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pink & White Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:08:44.064Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcc794295d0400529f66"
+        },
+        "_id_Str": "{'$oid': '5996bcc794295d0400529f66'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:11.377Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Stone Stripe/White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:11.381Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcb794295d0400529e68"
+        },
+        "_id_Str": "{'$oid': '5996bcb794295d0400529e68'}",
+        "created_at": {
+            "$date": "2017-08-18T10:08:55.349Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Snow White & Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:08:55.350Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcc5f8082c040038253c"
+        },
+        "_id_Str": "{'$oid': '5996bcc5f8082c040038253c'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:09.765Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Silver Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:09.768Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcc90d58140400f37f9f"
+        },
+        "_id_Str": "{'$oid': '5996bcc90d58140400f37f9f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:13.194Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Classic Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:13.198Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcc70d58140400f37f76"
+        },
+        "_id_Str": "{'$oid': '5996bcc70d58140400f37f76'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:11.395Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Classic Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:11.395Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcb4e233b80400446074"
+        },
+        "_id_Str": "{'$oid': '5996bcb4e233b80400446074'}",
+        "created_at": {
+            "$date": "2017-08-18T10:08:52.551Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Light Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:08:52.553Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcc494295d0400529f37"
+        },
+        "_id_Str": "{'$oid': '5996bcc494295d0400529f37'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:08.907Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Light Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:08.911Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcc894295d0400529f98"
+        },
+        "_id_Str": "{'$oid': '5996bcc894295d0400529f98'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:12.448Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Ivory & Classic Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:12.451Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcdcf8082c040038263d"
+        },
+        "_id_Str": "{'$oid': '5996bcdcf8082c040038263d'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:32.592Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / NavBaby Pinky",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:32.593Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcdc1c6aa60400bcb727"
+        },
+        "_id_Str": "{'$oid': '5996bcdc1c6aa60400bcb727'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:32.613Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Soft Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:32.613Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcf5e233b804004463ef"
+        },
+        "_id_Str": "{'$oid': '5996bcf5e233b804004463ef'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:57.421Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pale pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:57.421Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcca1c6aa60400bcb5de"
+        },
+        "_id_Str": "{'$oid': '5996bcca1c6aa60400bcb5de'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:14.700Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Stone Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:14.701Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcd3f8082c04003825ce"
+        },
+        "_id_Str": "{'$oid': '5996bcd3f8082c04003825ce'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:23.050Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pink Floral",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:23.056Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bce91c6aa60400bcb7f0"
+        },
+        "_id_Str": "{'$oid': '5996bce91c6aa60400bcb7f0'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:45.206Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:45.207Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcdb0d58140400f38003"
+        },
+        "_id_Str": "{'$oid': '5996bcdb0d58140400f38003'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:31.118Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pale Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:31.119Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd0894295d040052a2a8"
+        },
+        "_id_Str": "{'$oid': '5996bd0894295d040052a2a8'}",
+        "created_at": {
+            "$date": "2017-08-18T10:10:16.368Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Orange",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:10:16.373Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bce70d58140400f380c0"
+        },
+        "_id_Str": "{'$oid': '5996bce70d58140400f380c0'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:43.008Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:43.016Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bcdff8082c0400382671"
+        },
+        "_id_Str": "{'$oid': '5996bcdff8082c0400382671'}",
+        "created_at": {
+            "$date": "2017-08-18T10:09:35.478Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:09:35.480Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd13e233b8040044656d"
+        },
+        "_id_Str": "{'$oid': '5996bd13e233b8040044656d'}",
+        "created_at": {
+            "$date": "2017-08-18T10:10:27.195Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Cream Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:10:27.197Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd131c6aa60400bcb971"
+        },
+        "_id_Str": "{'$oid': '5996bd131c6aa60400bcb971'}",
+        "created_at": {
+            "$date": "2017-08-18T10:10:27.170Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:10:27.176Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd210d58140400f382cf"
+        },
+        "_id_Str": "{'$oid': '5996bd210d58140400f382cf'}",
+        "created_at": {
+            "$date": "2017-08-18T10:10:41.654Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Blossom Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:10:41.657Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd13e233b804004465b0"
+        },
+        "_id_Str": "{'$oid': '5996bd13e233b804004465b0'}",
+        "created_at": {
+            "$date": "2017-08-18T10:10:27.684Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Pale Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:10:27.685Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd76f8082c0400382cbf"
+        },
+        "_id_Str": "{'$oid': '5996bd76f8082c0400382cbf'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:06.847Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46 (9 Months) / Pale Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:06.848Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd6be233b804004468b7"
+        },
+        "_id_Str": "{'$oid': '5996bd6be233b804004468b7'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:55.464Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46 (9 Months) / Pink & White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:55.467Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd671c6aa60400bcbb3a"
+        },
+        "_id_Str": "{'$oid': '5996bd671c6aa60400bcbb3a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:51.080Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46 (9 Months) / Ivory Floral",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:51.082Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd6b1c6aa60400bcbbac"
+        },
+        "_id_Str": "{'$oid': '5996bd6b1c6aa60400bcbbac'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:55.522Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46 (9 Months) / Light Blue & White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:55.525Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd691c6aa60400bcbb73"
+        },
+        "_id_Str": "{'$oid': '5996bd691c6aa60400bcbb73'}",
+        "created_at": {
+            "$date": "2017-08-18T10:11:53.692Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46 (9 Months) / Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:11:53.701Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bd760d58140400f385c4"
+        },
+        "_id_Str": "{'$oid': '5996bd760d58140400f385c4'}",
+        "created_at": {
+            "$date": "2017-08-18T10:12:06.831Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46 (9 Months) / Pale Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:12:06.832Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdb70d58140400f38845"
+        },
+        "_id_Str": "{'$oid': '5996bdb70d58140400f38845'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:11.133Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Light Allure",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:11.133Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdbe1c6aa60400bcbfb2"
+        },
+        "_id_Str": "{'$oid': '5996bdbe1c6aa60400bcbfb2'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:18.741Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Cyan",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:18.742Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdbc0d58140400f38892"
+        },
+        "_id_Str": "{'$oid': '5996bdbc0d58140400f38892'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:16.470Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Cyan Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:16.472Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bddbe233b80400446ea5"
+        },
+        "_id_Str": "{'$oid': '5996bddbe233b80400446ea5'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:47.961Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Sand & Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:47.961Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdb494295d040052a7a6"
+        },
+        "_id_Str": "{'$oid': '5996bdb494295d040052a7a6'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:08.670Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pink Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:08.671Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdbd0d58140400f388b5"
+        },
+        "_id_Str": "{'$oid': '5996bdbd0d58140400f388b5'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:17.861Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Ocean Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:17.864Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bde00d58140400f38aaa"
+        },
+        "_id_Str": "{'$oid': '5996bde00d58140400f38aaa'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:52.369Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Blue Denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:52.371Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bddff8082c0400383020"
+        },
+        "_id_Str": "{'$oid': '5996bddff8082c0400383020'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:51.027Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Grey Melange",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:51.029Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdde0d58140400f38a55"
+        },
+        "_id_Str": "{'$oid': '5996bdde0d58140400f38a55'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:50.396Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Navy & White Strawberry",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:50.398Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdaf0d58140400f387ce"
+        },
+        "_id_Str": "{'$oid': '5996bdaf0d58140400f387ce'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:03.862Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Navy Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:03.863Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bddf94295d040052a905"
+        },
+        "_id_Str": "{'$oid': '5996bddf94295d040052a905'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:51.426Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:51.429Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdde0d58140400f38a4f"
+        },
+        "_id_Str": "{'$oid': '5996bdde0d58140400f38a4f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:50.347Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Blue & White Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:50.351Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bddc1c6aa60400bcc1a3"
+        },
+        "_id_Str": "{'$oid': '5996bddc1c6aa60400bcc1a3'}",
+        "created_at": {
+            "$date": "2017-08-18T10:13:48.397Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Splat Print",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:13:48.405Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdfc94295d040052ab1b"
+        },
+        "_id_Str": "{'$oid': '5996bdfc94295d040052ab1b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:14:20.886Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Denim Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:14:20.889Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be24f8082c040038332a"
+        },
+        "_id_Str": "{'$oid': '5996be24f8082c040038332a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:00.916Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Baby Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:00.923Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdf80d58140400f38c23"
+        },
+        "_id_Str": "{'$oid': '5996bdf80d58140400f38c23'}",
+        "created_at": {
+            "$date": "2017-08-18T10:14:16.354Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:14:16.357Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be081c6aa60400bcc33f"
+        },
+        "_id_Str": "{'$oid': '5996be081c6aa60400bcc33f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:14:32.232Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Yellow Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:14:32.234Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bdfff8082c04003830fd"
+        },
+        "_id_Str": "{'$oid': '5996bdfff8082c04003830fd'}",
+        "created_at": {
+            "$date": "2017-08-18T10:14:23.373Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Lt Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:14:23.375Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be1a94295d040052ad72"
+        },
+        "_id_Str": "{'$oid': '5996be1a94295d040052ad72'}",
+        "created_at": {
+            "$date": "2017-08-18T10:14:50.504Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Lt. Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:14:50.506Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be2de233b80400447113"
+        },
+        "_id_Str": "{'$oid': '5996be2de233b80400447113'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:09.135Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pale Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:09.136Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be2794295d040052ae12"
+        },
+        "_id_Str": "{'$oid': '5996be2794295d040052ae12'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:03.358Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Cream & Fuchsia Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:03.363Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be5ee233b804004473be"
+        },
+        "_id_Str": "{'$oid': '5996be5ee233b804004473be'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:58.498Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Soft Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:58.500Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be310d58140400f38e1b"
+        },
+        "_id_Str": "{'$oid': '5996be310d58140400f38e1b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:13.174Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Multicolor",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:13.177Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be571c6aa60400bcc63f"
+        },
+        "_id_Str": "{'$oid': '5996be571c6aa60400bcc63f'}",
+        "created_at": {
+            "$date": "2017-08-18T10:15:51.301Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Cream & Light Purple",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:15:51.302Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be920d58140400f39483"
+        },
+        "_id_Str": "{'$oid': '5996be920d58140400f39483'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:50.850Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Snow White/Puffed Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:50.852Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be93f8082c0400383783"
+        },
+        "_id_Str": "{'$oid': '5996be93f8082c0400383783'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:51.741Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Snow White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:51.744Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be780d58140400f3939b"
+        },
+        "_id_Str": "{'$oid': '5996be780d58140400f3939b'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:24.769Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Navy Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:24.770Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be8ff8082c0400383726"
+        },
+        "_id_Str": "{'$oid': '5996be8ff8082c0400383726'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:47.457Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pale Blue & White Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:47.466Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be9294295d040052b118"
+        },
+        "_id_Str": "{'$oid': '5996be9294295d040052b118'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:50.711Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:50.716Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be8c1c6aa60400bcc97a"
+        },
+        "_id_Str": "{'$oid': '5996be8c1c6aa60400bcc97a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:44.224Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Oat",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:44.227Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996be921c6aa60400bcca0a"
+        },
+        "_id_Str": "{'$oid': '5996be921c6aa60400bcca0a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:16:50.560Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Puffed Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:16:50.562Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996beb994295d040052b30d"
+        },
+        "_id_Str": "{'$oid': '5996beb994295d040052b30d'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:29.973Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Light Blue Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:29.975Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bec094295d040052b383"
+        },
+        "_id_Str": "{'$oid': '5996bec094295d040052b383'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:36.208Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:36.211Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bec00d58140400f397b8"
+        },
+        "_id_Str": "{'$oid': '5996bec00d58140400f397b8'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:36.140Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pink & White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:36.144Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf07f8082c0400383cf6"
+        },
+        "_id_Str": "{'$oid': '5996bf07f8082c0400383cf6'}",
+        "created_at": {
+            "$date": "2017-08-18T10:18:47.748Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Ecru",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:18:47.752Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bebde233b8040044781a"
+        },
+        "_id_Str": "{'$oid': '5996bebde233b8040044781a'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:33.772Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pink &White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:33.773Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bef21c6aa60400bccf2e"
+        },
+        "_id_Str": "{'$oid': '5996bef21c6aa60400bccf2e'}",
+        "created_at": {
+            "$date": "2017-08-18T10:18:26.436Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "3 - 9 Months / Key Lime",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:18:26.440Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bebce233b804004477b5"
+        },
+        "_id_Str": "{'$oid': '5996bebce233b804004477b5'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:32.209Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 MOnths / Cloud White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:32.210Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bef994295d040052b786"
+        },
+        "_id_Str": "{'$oid': '5996bef994295d040052b786'}",
+        "created_at": {
+            "$date": "2017-08-18T10:18:33.954Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Grey Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:18:33.957Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bed094295d040052b4d2"
+        },
+        "_id_Str": "{'$oid': '5996bed094295d040052b4d2'}",
+        "created_at": {
+            "$date": "2017-08-18T10:17:52.244Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Candy Floss Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:17:52.245Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf30f8082c0400383f4e"
+        },
+        "_id_Str": "{'$oid': '5996bf30f8082c0400383f4e'}",
+        "created_at": {
+            "$date": "2017-08-18T10:19:28.765Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Barley Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:19:28.768Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf2c94295d040052bada"
+        },
+        "_id_Str": "{'$oid': '5996bf2c94295d040052bada'}",
+        "created_at": {
+            "$date": "2017-08-18T10:19:24.307Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Beige",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:19:24.313Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf291c6aa60400bcd1ad"
+        },
+        "_id_Str": "{'$oid': '5996bf291c6aa60400bcd1ad'}",
+        "created_at": {
+            "$date": "2017-08-18T10:19:21.925Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Light Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:19:21.933Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf1d1c6aa60400bcd0c0"
+        },
+        "_id_Str": "{'$oid': '5996bf1d1c6aa60400bcd0c0'}",
+        "created_at": {
+            "$date": "2017-08-18T10:19:09.802Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Coral Stripe With Tulle Details",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:19:09.806Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf13f8082c0400383d37"
+        },
+        "_id_Str": "{'$oid': '5996bf13f8082c0400383d37'}",
+        "created_at": {
+            "$date": "2017-08-18T10:18:59.101Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Soft Grey &Light Blue Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:18:59.116Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf1d94295d040052b971"
+        },
+        "_id_Str": "{'$oid': '5996bf1d94295d040052b971'}",
+        "created_at": {
+            "$date": "2017-08-18T10:19:09.117Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Fuchsia Stripe With Floral Details",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:19:09.121Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf561c6aa60400bcd2fe"
+        },
+        "_id_Str": "{'$oid': '5996bf561c6aa60400bcd2fe'}",
+        "created_at": {
+            "$date": "2017-08-18T10:20:06.696Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:20:06.697Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf6494295d040052bde4"
+        },
+        "_id_Str": "{'$oid': '5996bf6494295d040052bde4'}",
+        "created_at": {
+            "$date": "2017-08-18T10:20:20.076Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Navy Tartan",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:20:20.088Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bf95f8082c04003843f8"
+        },
+        "_id_Str": "{'$oid': '5996bf95f8082c04003843f8'}",
+        "created_at": {
+            "$date": "2017-08-18T10:21:09.185Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Pink Spots",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:21:09.204Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bfd00d58140400f3a5bb"
+        },
+        "_id_Str": "{'$oid': '5996bfd00d58140400f3a5bb'}",
+        "created_at": {
+            "$date": "2017-08-18T10:22:08.945Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pink Stripe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:22:08.948Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5997d31f8b5d1b04003fc38c"
+        },
+        "_id_Str": "{'$oid': '5997d31f8b5d1b04003fc38c'}",
+        "created_at": {
+            "$date": "2017-08-19T05:56:47.288Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Light Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-19T05:56:47.289Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5996bffa1c6aa60400bcdb1c"
+        },
+        "_id_Str": "{'$oid': '5996bffa1c6aa60400bcdb1c'}",
+        "created_at": {
+            "$date": "2017-08-18T10:22:50.331Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9months / Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-18T10:22:50.332Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599d1799eed1770400a9a899"
+        },
+        "_id_Str": "{'$oid': '599d1799eed1770400a9a899'}",
+        "created_at": {
+            "$date": "2017-08-23T05:50:17.712Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Light Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-23T05:50:17.713Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599d174d1932540400dc7fea"
+        },
+        "_id_Str": "{'$oid': '599d174d1932540400dc7fea'}",
+        "created_at": {
+            "$date": "2017-08-23T05:49:01.330Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-23T05:49:01.331Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599e6acb257fe40400197aff"
+        },
+        "_id_Str": "{'$oid': '599e6acb257fe40400197aff'}",
+        "created_at": {
+            "$date": "2017-08-24T05:57:31.536Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Teal",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-24T05:57:31.541Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a10d5fe85e3904006d3bd0"
+        },
+        "_id_Str": "{'$oid': '59a10d5fe85e3904006d3bd0'}",
+        "created_at": {
+            "$date": "2017-08-26T05:55:43.414Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pear Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-26T05:55:43.417Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a44a821ce9e70400895b9c"
+        },
+        "_id_Str": "{'$oid': '59a44a821ce9e70400895b9c'}",
+        "created_at": {
+            "$date": "2017-08-28T16:53:22.845Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Baby  Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-28T16:53:22.847Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599e6acd257fe40400197b34"
+        },
+        "_id_Str": "{'$oid': '599e6acd257fe40400197b34'}",
+        "created_at": {
+            "$date": "2017-08-24T05:57:33.860Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Thunder",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-24T05:57:33.864Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "599f107867a23d04000b1ebc"
+        },
+        "_id_Str": "{'$oid': '599f107867a23d04000b1ebc'}",
+        "created_at": {
+            "$date": "2017-08-24T17:44:24.932Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-24T17:44:24.938Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a3a7dcd96a9004001b4066"
+        },
+        "_id_Str": "{'$oid': '59a3a7dcd96a9004001b4066'}",
+        "created_at": {
+            "$date": "2017-08-28T05:19:24.501Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Heather Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-28T05:19:24.503Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a5b144835b4304000993f3"
+        },
+        "_id_Str": "{'$oid': '59a5b144835b4304000993f3'}",
+        "created_at": {
+            "$date": "2017-08-29T18:24:04.888Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "6 -  9 Months / White/Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-29T18:24:04.889Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a7a3e4e0d36404003baa01"
+        },
+        "_id_Str": "{'$oid': '59a7a3e4e0d36404003baa01'}",
+        "created_at": {
+            "$date": "2017-08-31T05:51:32.818Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Blue & Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-31T05:51:32.818Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a84c1b9694aa0400d27026"
+        },
+        "_id_Str": "{'$oid': '59a84c1b9694aa0400d27026'}",
+        "created_at": {
+            "$date": "2017-08-31T17:49:15.030Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-31T17:49:15.031Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a84b8c2d70690400fcaad2"
+        },
+        "_id_Str": "{'$oid': '59a84b8c2d70690400fcaad2'}",
+        "created_at": {
+            "$date": "2017-08-31T17:46:52.702Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Grey & Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-31T17:46:52.702Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59aad7b41c0cc304001efba3"
+        },
+        "_id_Str": "{'$oid': '59aad7b41c0cc304001efba3'}",
+        "created_at": {
+            "$date": "2017-09-02T16:09:24.012Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "6  - 9 Months / White/Lt. Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-02T16:09:24.013Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59ae3ab27886e60400e08a36"
+        },
+        "_id_Str": "{'$oid': '59ae3ab27886e60400e08a36'}",
+        "created_at": {
+            "$date": "2017-09-05T05:48:34.436Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "6  - 9 Months / Light Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-05T05:48:34.436Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59afd144ae84980400c8dd28"
+        },
+        "_id_Str": "{'$oid': '59afd144ae84980400c8dd28'}",
+        "created_at": {
+            "$date": "2017-09-06T10:43:16.202Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 months (74cm)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-06T10:43:16.208Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59afd1ecae84980400c8df75"
+        },
+        "_id_Str": "{'$oid': '59afd1ecae84980400c8df75'}",
+        "created_at": {
+            "$date": "2017-09-06T10:46:04.748Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "74cm (9 months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-06T10:46:04.749Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59b232092b63ba040062d226"
+        },
+        "_id_Str": "{'$oid': '59b232092b63ba040062d226'}",
+        "created_at": {
+            "$date": "2017-09-08T06:00:41.867Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "80/86 (9mth-1.5yrs)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-08T06:00:41.868Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59b23207cd5b1804008e3ada"
+        },
+        "_id_Str": "{'$oid': '59b23207cd5b1804008e3ada'}",
+        "created_at": {
+            "$date": "2017-09-08T06:00:39.382Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48/50 (9mths-3yrs)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-08T06:00:39.383Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59b22ffee77fe10400d6945a"
+        },
+        "_id_Str": "{'$oid': '59b22ffee77fe10400d6945a'}",
+        "created_at": {
+            "$date": "2017-09-08T05:51:58.586Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Baby  Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-08T05:51:58.587Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59b37fc8b87dea0400275316"
+        },
+        "_id_Str": "{'$oid': '59b37fc8b87dea0400275316'}",
+        "created_at": {
+            "$date": "2017-09-09T05:44:40.573Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "80-86 (9mths-1.5yrs)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-09T05:44:40.575Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59b37fca13dcb204001215fd"
+        },
+        "_id_Str": "{'$oid': '59b37fca13dcb204001215fd'}",
+        "created_at": {
+            "$date": "2017-09-09T05:44:42.384Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48-50 (9mths-3yrs)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-09T05:44:42.386Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59c3fb4cffb15b04002e4d16"
+        },
+        "_id_Str": "{'$oid': '59c3fb4cffb15b04002e4d16'}",
+        "created_at": {
+            "$date": "2017-09-21T17:47:56.392Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48/50 (9 Months - 3 Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-21T17:47:56.393Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59c3fe2ddc72a304006ab0be"
+        },
+        "_id_Str": "{'$oid': '59c3fe2ddc72a304006ab0be'}",
+        "created_at": {
+            "$date": "2017-09-21T18:00:13.870Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "80 (9 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-21T18:00:13.870Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59cdde12fa1e650400d758e8"
+        },
+        "_id_Str": "{'$oid': '59cdde12fa1e650400d758e8'}",
+        "created_at": {
+            "$date": "2017-09-29T05:45:54.358Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Light Blue & White Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-29T05:45:54.359Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59cf2eca8d848a04009f2a63"
+        },
+        "_id_Str": "{'$oid': '59cf2eca8d848a04009f2a63'}",
+        "created_at": {
+            "$date": "2017-09-30T05:42:34.115Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / LIght Blue Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-30T05:42:34.121Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59cfc8e788890c0400f1f327"
+        },
+        "_id_Str": "{'$oid': '59cfc8e788890c0400f1f327'}",
+        "created_at": {
+            "$date": "2017-09-30T16:40:07.105Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-30T16:40:07.105Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59dc6018a96d0003001717db"
+        },
+        "_id_Str": "{'$oid': '59dc6018a96d0003001717db'}",
+        "created_at": {
+            "$date": "2017-10-10T05:52:24.291Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Anil &  Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-10T05:52:24.314Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59df05ca90e66c0300dfd2c4"
+        },
+        "_id_Str": "{'$oid': '59df05ca90e66c0300dfd2c4'}",
+        "created_at": {
+            "$date": "2017-10-12T06:03:54.281Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Grey Melange",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-12T06:03:54.281Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59e0ee3ee55e6303006a9231"
+        },
+        "_id_Str": "{'$oid': '59e0ee3ee55e6303006a9231'}",
+        "created_at": {
+            "$date": "2017-10-13T16:47:58.339Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "6 -  9 Months / White/Yellow",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-13T16:47:58.339Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59e597a472a27d03006ddaeb"
+        },
+        "_id_Str": "{'$oid': '59e597a472a27d03006ddaeb'}",
+        "created_at": {
+            "$date": "2017-10-17T05:39:48.932Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  White/Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-17T05:39:48.932Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59e98fd43bdbb70300f1abad"
+        },
+        "_id_Str": "{'$oid': '59e98fd43bdbb70300f1abad'}",
+        "created_at": {
+            "$date": "2017-10-20T05:55:32.624Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-20T05:55:32.625Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59f4a1584e6fbb0400027d58"
+        },
+        "_id_Str": "{'$oid': '59f4a1584e6fbb0400027d58'}",
+        "created_at": {
+            "$date": "2017-10-28T15:25:12.190Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Pink Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-28T15:25:12.193Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59f56ac5b2b1ba0400bc35b5"
+        },
+        "_id_Str": "{'$oid': '59f56ac5b2b1ba0400bc35b5'}",
+        "created_at": {
+            "$date": "2017-10-29T05:44:37.657Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months - 3 Years",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-29T05:44:37.659Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59f773badab07c0400f61a79"
+        },
+        "_id_Str": "{'$oid': '59f773badab07c0400f61a79'}",
+        "created_at": {
+            "$date": "2017-10-30T18:47:22.342Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pale  Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-30T18:47:22.343Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a03e678b569510400eae555"
+        },
+        "_id_Str": "{'$oid': '5a03e678b569510400eae555'}",
+        "created_at": {
+            "$date": "2017-11-09T05:24:08.581Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pale  Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-09T05:24:08.583Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a03ebfeed809c040084f517"
+        },
+        "_id_Str": "{'$oid': '5a03ebfeed809c040084f517'}",
+        "created_at": {
+            "$date": "2017-11-09T05:47:42.435Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48/50  (9 Months - 3 Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-09T05:47:42.437Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a05dce4c51cd60400c5aec4"
+        },
+        "_id_Str": "{'$oid': '5a05dce4c51cd60400c5aec4'}",
+        "created_at": {
+            "$date": "2017-11-10T17:07:48.820Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Navy & White  Strawberry",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-10T17:07:48.821Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a07dc881fe11e0400cf693a"
+        },
+        "_id_Str": "{'$oid': '5a07dc881fe11e0400cf693a'}",
+        "created_at": {
+            "$date": "2017-11-12T05:30:48.469Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Pink &White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-12T05:30:48.475Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a09d6b81a342c04006e180a"
+        },
+        "_id_Str": "{'$oid': '5a09d6b81a342c04006e180a'}",
+        "created_at": {
+            "$date": "2017-11-13T17:30:32.460Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46  (9 Months) / Pale Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-13T17:30:32.461Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0b1e39516f3f0400c89fe8"
+        },
+        "_id_Str": "{'$oid': '5a0b1e39516f3f0400c89fe8'}",
+        "created_at": {
+            "$date": "2017-11-14T16:47:53.862Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Soft Grey &Light Blue Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-14T16:47:53.864Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a1318bdd22e16040040cbf6"
+        },
+        "_id_Str": "{'$oid': '5a1318bdd22e16040040cbf6'}",
+        "created_at": {
+            "$date": "2017-11-20T18:02:37.147Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Navy  Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-20T18:02:37.151Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a15086e9363fb04001e9388"
+        },
+        "_id_Str": "{'$oid': '5a15086e9363fb04001e9388'}",
+        "created_at": {
+            "$date": "2017-11-22T05:17:34.118Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Light  Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-22T05:17:34.121Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a185834015e3f0400ef0861"
+        },
+        "_id_Str": "{'$oid': '5a185834015e3f0400ef0861'}",
+        "created_at": {
+            "$date": "2017-11-24T17:34:44.492Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Baby Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-24T17:34:44.494Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a20e9b81be91004001521ca"
+        },
+        "_id_Str": "{'$oid': '5a20e9b81be91004001521ca'}",
+        "created_at": {
+            "$date": "2017-12-01T05:33:44.999Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Ivory &  Beige",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-01T05:33:45.001Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a25868683e8e7040050a749"
+        },
+        "_id_Str": "{'$oid': '5a25868683e8e7040050a749'}",
+        "created_at": {
+            "$date": "2017-12-04T17:31:50.214Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Blue  & Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-04T17:31:50.216Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a2a26c8223ff804000f64cd"
+        },
+        "_id_Str": "{'$oid': '5a2a26c8223ff804000f64cd'}",
+        "created_at": {
+            "$date": "2017-12-08T05:44:40.198Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48/50 (9 Months  - 3 Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-08T05:44:40.201Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a2eba8617eb040400905c0a"
+        },
+        "_id_Str": "{'$oid': '5a2eba8617eb040400905c0a'}",
+        "created_at": {
+            "$date": "2017-12-11T17:04:06.230Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "80/86  (9mths-18mths)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-11T17:04:06.234Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3755a2ffdcf40400a8cc50"
+        },
+        "_id_Str": "{'$oid': '5a3755a2ffdcf40400a8cc50'}",
+        "created_at": {
+            "$date": "2017-12-18T05:44:02.921Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "74cm (9 Months)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-18T05:44:02.926Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3beff50f70fd0400c15df6"
+        },
+        "_id_Str": "{'$oid': '5a3beff50f70fd0400c15df6'}",
+        "created_at": {
+            "$date": "2017-12-21T17:31:33.921Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "6  - 9 Months / White/Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-21T17:31:33.923Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3bf00df066c30400e7d6d5"
+        },
+        "_id_Str": "{'$oid': '5a3bf00df066c30400e7d6d5'}",
+        "created_at": {
+            "$date": "2017-12-21T17:31:57.628Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Classic Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-21T17:31:57.629Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a432fbe5b06af04000785a4"
+        },
+        "_id_Str": "{'$oid': '5a432fbe5b06af04000785a4'}",
+        "created_at": {
+            "$date": "2017-12-27T05:29:34.566Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46 (9 Months) /  Pale Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-27T05:29:34.568Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4f0e66b868c60400f4283d"
+        },
+        "_id_Str": "{'$oid': '5a4f0e66b868c60400f4283d'}",
+        "created_at": {
+            "$date": "2018-01-05T05:34:30.107Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & baby pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T05:34:30.108Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4f0e6fd83e9104008b6a92"
+        },
+        "_id_Str": "{'$oid': '5a4f0e6fd83e9104008b6a92'}",
+        "created_at": {
+            "$date": "2018-01-05T05:34:39.541Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pastel pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T05:34:39.545Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4f0e5bd6b73e040014eb46"
+        },
+        "_id_Str": "{'$oid': '5a4f0e5bd6b73e040014eb46'}",
+        "created_at": {
+            "$date": "2018-01-05T05:34:19.376Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Baby pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T05:34:19.377Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4f0e9dca890c0400da0e66"
+        },
+        "_id_Str": "{'$oid': '5a4f0e9dca890c0400da0e66'}",
+        "created_at": {
+            "$date": "2018-01-05T05:35:25.265Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Blue chambray",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T05:35:25.268Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4f0e61d0022f0400fd9931"
+        },
+        "_id_Str": "{'$oid': '5a4f0e61d0022f0400fd9931'}",
+        "created_at": {
+            "$date": "2018-01-05T05:34:25.921Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & pale blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T05:34:25.923Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4f0e7dba547e04007ac109"
+        },
+        "_id_Str": "{'$oid': '5a4f0e7dba547e04007ac109'}",
+        "created_at": {
+            "$date": "2018-01-05T05:34:53.697Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Powder blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T05:34:53.699Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4f0e821194560400e93c6a"
+        },
+        "_id_Str": "{'$oid': '5a4f0e821194560400e93c6a'}",
+        "created_at": {
+            "$date": "2018-01-05T05:34:58.848Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pale blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T05:34:58.852Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a55a357d58ba304005d8773"
+        },
+        "_id_Str": "{'$oid': '5a55a357d58ba304005d8773'}",
+        "created_at": {
+            "$date": "2018-01-10T05:23:35.124Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-10T05:23:35.126Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a55a2a14886ec040048d491"
+        },
+        "_id_Str": "{'$oid': '5a55a2a14886ec040048d491'}",
+        "created_at": {
+            "$date": "2018-01-10T05:20:33.587Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Multicolour striped",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-10T05:20:33.593Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a5849cbe6f9d804007cc38f"
+        },
+        "_id_Str": "{'$oid': '5a5849cbe6f9d804007cc38f'}",
+        "created_at": {
+            "$date": "2018-01-12T05:38:19.452Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White & Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-12T05:38:19.454Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a5849a629c09304004244f8"
+        },
+        "_id_Str": "{'$oid': '5a5849a629c09304004244f8'}",
+        "created_at": {
+            "$date": "2018-01-12T05:37:42.448Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Navy blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-12T05:37:42.452Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a60dac81adddc040062634b"
+        },
+        "_id_Str": "{'$oid': '5a60dac81adddc040062634b'}",
+        "created_at": {
+            "$date": "2018-01-18T17:35:04.365Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Salmon  pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-18T17:35:04.367Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a5a4186c6a6c504006a5298"
+        },
+        "_id_Str": "{'$oid': '5a5a4186c6a6c504006a5298'}",
+        "created_at": {
+            "$date": "2018-01-13T17:27:34.926Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White  Floral",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-13T17:27:34.932Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a58498be2b59f040027b445"
+        },
+        "_id_Str": "{'$oid': '5a58498be2b59f040027b445'}",
+        "created_at": {
+            "$date": "2018-01-12T05:37:15.107Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Olympic blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-12T05:37:15.111Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a5849d2affac60400e340d6"
+        },
+        "_id_Str": "{'$oid': '5a5849d2affac60400e340d6'}",
+        "created_at": {
+            "$date": "2018-01-12T05:38:26.326Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Maize yellow",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-12T05:38:26.328Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6225046730a00400018027"
+        },
+        "_id_Str": "{'$oid': '5a6225046730a00400018027'}",
+        "created_at": {
+            "$date": "2018-01-19T17:04:04.438Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Oat",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-19T17:04:04.439Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a61849514ce96040037b197"
+        },
+        "_id_Str": "{'$oid': '5a61849514ce96040037b197'}",
+        "created_at": {
+            "$date": "2018-01-19T05:39:33.707Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-19T05:39:33.708Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a6c0ae291e5ab04008d0d82"
+        },
+        "_id_Str": "{'$oid': '5a6c0ae291e5ab04008d0d82'}",
+        "created_at": {
+            "$date": "2018-01-27T05:15:14.503Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  White/Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-27T05:15:14.504Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a75e9ef58277004001cefba"
+        },
+        "_id_Str": "{'$oid': '5a75e9ef58277004001cefba'}",
+        "created_at": {
+            "$date": "2018-02-03T16:57:19.477Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Light Grey & White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-03T16:57:19.483Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a77ed8034a5480400551c4d"
+        },
+        "_id_Str": "{'$oid': '5a77ed8034a5480400551c4d'}",
+        "created_at": {
+            "$date": "2018-02-05T05:37:04.605Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Pink &White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-05T05:37:04.606Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a75ea1aff5b8204004cce6a"
+        },
+        "_id_Str": "{'$oid': '5a75ea1aff5b8204004cce6a'}",
+        "created_at": {
+            "$date": "2018-02-03T16:58:02.272Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / China grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-03T16:58:02.284Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be38539b43d0400fb3380"
+        },
+        "_id_Str": "{'$oid': '5a7be38539b43d0400fb3380'}",
+        "created_at": {
+            "$date": "2018-02-08T05:43:33.771Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Ice cream print",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:43:33.773Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3bd2192260400a321db"
+        },
+        "_id_Str": "{'$oid': '5a7be3bd2192260400a321db'}",
+        "created_at": {
+            "$date": "2018-02-08T05:44:29.216Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:44:29.222Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be39dfc57e004006a7b39"
+        },
+        "_id_Str": "{'$oid': '5a7be39dfc57e004006a7b39'}",
+        "created_at": {
+            "$date": "2018-02-08T05:43:57.541Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Lilac",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:43:57.548Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3a7fc57e004006a7b70"
+        },
+        "_id_Str": "{'$oid': '5a7be3a7fc57e004006a7b70'}",
+        "created_at": {
+            "$date": "2018-02-08T05:44:07.179Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Tourist print",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:44:07.186Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be38931053304006a7f06"
+        },
+        "_id_Str": "{'$oid': '5a7be38931053304006a7f06'}",
+        "created_at": {
+            "$date": "2018-02-08T05:43:37.155Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Dark Denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:43:37.158Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3bab3993f0400357a73"
+        },
+        "_id_Str": "{'$oid': '5a7be3bab3993f0400357a73'}",
+        "created_at": {
+            "$date": "2018-02-08T05:44:26.904Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Boy ice cream print",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:44:26.907Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3f9ddbf9204005d5163"
+        },
+        "_id_Str": "{'$oid': '5a7be3f9ddbf9204005d5163'}",
+        "created_at": {
+            "$date": "2018-02-08T05:45:29.290Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Striped denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:45:29.294Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a8079c475a8b3040023f6c6"
+        },
+        "_id_Str": "{'$oid': '5a8079c475a8b3040023f6c6'}",
+        "created_at": {
+            "$date": "2018-02-11T17:13:40.469Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46 (9 Months) / Pink &  White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-11T17:13:40.471Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be38b4348000400d94079"
+        },
+        "_id_Str": "{'$oid': '5a7be38b4348000400d94079'}",
+        "created_at": {
+            "$date": "2018-02-08T05:43:39.702Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Ivory cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:43:39.706Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a7be3f439b43d0400fb3579"
+        },
+        "_id_Str": "{'$oid': '5a7be3f439b43d0400fb3579'}",
+        "created_at": {
+            "$date": "2018-02-08T05:45:24.046Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Dark denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-08T05:45:24.053Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a807a36caa5fe0400cce7f1"
+        },
+        "_id_Str": "{'$oid': '5a807a36caa5fe0400cce7f1'}",
+        "created_at": {
+            "$date": "2018-02-11T17:15:34.191Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Ecru",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-11T17:15:34.193Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a8317e70d6e66040057fd9c"
+        },
+        "_id_Str": "{'$oid': '5a8317e70d6e66040057fd9c'}",
+        "created_at": {
+            "$date": "2018-02-13T16:52:55.119Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48/50 (9 Months - 3  Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-13T16:52:55.122Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a870e02407bad04006fa215"
+        },
+        "_id_Str": "{'$oid': '5a870e02407bad04006fa215'}",
+        "created_at": {
+            "$date": "2018-02-16T16:59:46.587Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Powder  blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-16T16:59:46.588Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a8da857e5fbdb0400633539"
+        },
+        "_id_Str": "{'$oid': '5a8da857e5fbdb0400633539'}",
+        "created_at": {
+            "$date": "2018-02-21T17:11:51.724Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Indigo",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-21T17:11:51.726Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a8c57ae02eb4b0400262552"
+        },
+        "_id_Str": "{'$oid': '5a8c57ae02eb4b0400262552'}",
+        "created_at": {
+            "$date": "2018-02-20T17:15:26.136Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Baby Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-20T17:15:26.140Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a8d09d84a1b7a040010d729"
+        },
+        "_id_Str": "{'$oid': '5a8d09d84a1b7a040010d729'}",
+        "created_at": {
+            "$date": "2018-02-21T05:55:36.661Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Multi striped",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-21T05:55:36.662Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a90f80554d9d10400c28f0a"
+        },
+        "_id_Str": "{'$oid': '5a90f80554d9d10400c28f0a'}",
+        "created_at": {
+            "$date": "2018-02-24T05:28:37.864Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Ivory",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-24T05:28:37.866Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a9197133ace4a0400b35d35"
+        },
+        "_id_Str": "{'$oid': '5a9197133ace4a0400b35d35'}",
+        "created_at": {
+            "$date": "2018-02-24T16:47:15.261Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Pink  & White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-24T16:47:15.262Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a963fa854cacd0400db9151"
+        },
+        "_id_Str": "{'$oid': '5a963fa854cacd0400db9151'}",
+        "created_at": {
+            "$date": "2018-02-28T05:35:36.665Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Petrol Blue & White Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-28T05:35:36.667Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a963f9c20acb40400d98602"
+        },
+        "_id_Str": "{'$oid': '5a963f9c20acb40400d98602'}",
+        "created_at": {
+            "$date": "2018-02-28T05:35:24.692Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  White & Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-28T05:35:24.693Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a98dc2abef78a0400666d5a"
+        },
+        "_id_Str": "{'$oid': '5a98dc2abef78a0400666d5a'}",
+        "created_at": {
+            "$date": "2018-03-02T05:07:54.702Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Beige",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-02T05:07:54.702Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a98dc26ca60d604008f3e38"
+        },
+        "_id_Str": "{'$oid': '5a98dc26ca60d604008f3e38'}",
+        "created_at": {
+            "$date": "2018-03-02T05:07:50.303Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Sky blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-02T05:07:50.304Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa2bae446d9ae04009a4ffa"
+        },
+        "_id_Str": "{'$oid': '5aa2bae446d9ae04009a4ffa'}",
+        "created_at": {
+            "$date": "2018-03-09T16:48:36.529Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Sky blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-09T16:48:36.531Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa4178b1b787904002ed84e"
+        },
+        "_id_Str": "{'$oid': '5aa4178b1b787904002ed84e'}",
+        "created_at": {
+            "$date": "2018-03-10T17:36:11.179Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White &  Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-10T17:36:11.180Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa4bc1cbf9f080400614300"
+        },
+        "_id_Str": "{'$oid': '5aa4bc1cbf9f080400614300'}",
+        "created_at": {
+            "$date": "2018-03-11T05:18:20.225Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Soft Grey &Light Blue  Check",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-11T05:18:20.227Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aae984d1d1ea5040055c610"
+        },
+        "_id_Str": "{'$oid': '5aae984d1d1ea5040055c610'}",
+        "created_at": {
+            "$date": "2018-03-18T16:48:13.137Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Denim",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-18T16:48:13.139Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab14325213da50400c9f525"
+        },
+        "_id_Str": "{'$oid': '5ab14325213da50400c9f525'}",
+        "created_at": {
+            "$date": "2018-03-20T17:21:41.514Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "48/50 (9 Months -  3 Years)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-20T17:21:41.519Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab293f76c8ee004005aacda"
+        },
+        "_id_Str": "{'$oid': '5ab293f76c8ee004005aacda'}",
+        "created_at": {
+            "$date": "2018-03-21T17:18:47.266Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "46  (9 Months) / Light Blue & White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-21T17:18:47.268Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab1f4cba988ca04007b4758"
+        },
+        "_id_Str": "{'$oid': '5ab1f4cba988ca04007b4758'}",
+        "created_at": {
+            "$date": "2018-03-21T05:59:39.143Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  White/Light Allure",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-21T05:59:39.145Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab293a36c8ee004005aac07"
+        },
+        "_id_Str": "{'$oid': '5ab293a36c8ee004005aac07'}",
+        "created_at": {
+            "$date": "2018-03-21T17:17:23.243Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-21T17:17:23.244Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab3e8c7e039f70400018718"
+        },
+        "_id_Str": "{'$oid': '5ab3e8c7e039f70400018718'}",
+        "created_at": {
+            "$date": "2018-03-22T17:32:55.659Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "6  - 9 Months / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-22T17:32:55.660Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab53874121d8f04007fd866"
+        },
+        "_id_Str": "{'$oid': '5ab53874121d8f04007fd866'}",
+        "created_at": {
+            "$date": "2018-03-23T17:25:08.665Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Light Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-23T17:25:08.666Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aca50d022f26d0400adf682"
+        },
+        "_id_Str": "{'$oid': '5aca50d022f26d0400adf682'}",
+        "created_at": {
+            "$date": "2018-04-08T17:26:40.765Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Powder blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-08T17:26:40.768Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ac8fe5395490d0400b4af37"
+        },
+        "_id_Str": "{'$oid': '5ac8fe5395490d0400b4af37'}",
+        "created_at": {
+            "$date": "2018-04-07T17:22:27.426Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Petrol Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-07T17:22:27.427Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad03d50279811040039bb64"
+        },
+        "_id_Str": "{'$oid': '5ad03d50279811040039bb64'}",
+        "created_at": {
+            "$date": "2018-04-13T05:17:04.887Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White  & Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-13T05:17:04.888Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad2f6a63ea8d4040096a2ee"
+        },
+        "_id_Str": "{'$oid': '5ad2f6a63ea8d4040096a2ee'}",
+        "created_at": {
+            "$date": "2018-04-15T06:52:22.957Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Multicolour  striped",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-15T06:52:22.970Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad23a1dede46504003215e7"
+        },
+        "_id_Str": "{'$oid': '5ad23a1dede46504003215e7'}",
+        "created_at": {
+            "$date": "2018-04-14T17:27:57.300Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Blueberry",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-14T17:27:57.302Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad23899ede4650400321316"
+        },
+        "_id_Str": "{'$oid': '5ad23899ede4650400321316'}",
+        "created_at": {
+            "$date": "2018-04-14T17:21:29.895Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Ice cream print",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-14T17:21:29.898Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad4d5bb5c274f0400db7e28"
+        },
+        "_id_Str": "{'$oid': '5ad4d5bb5c274f0400db7e28'}",
+        "created_at": {
+            "$date": "2018-04-16T16:56:27.334Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Light Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-16T16:56:27.337Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad82bf30182f90400d43faa"
+        },
+        "_id_Str": "{'$oid': '5ad82bf30182f90400d43faa'}",
+        "created_at": {
+            "$date": "2018-04-19T05:41:07.168Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Sun Faded Chambray",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-19T05:41:07.170Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5adf739a9491a00400c374dd"
+        },
+        "_id_Str": "{'$oid': '5adf739a9491a00400c374dd'}",
+        "created_at": {
+            "$date": "2018-04-24T18:12:42.682Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Coral Stripe With Tulle  Details",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-24T18:12:42.684Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae35d857a3de104009fa157"
+        },
+        "_id_Str": "{'$oid': '5ae35d857a3de104009fa157'}",
+        "created_at": {
+            "$date": "2018-04-27T17:27:33.810Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Blue Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-27T17:27:33.811Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae4c075a22ff2040023aef1"
+        },
+        "_id_Str": "{'$oid': '5ae4c075a22ff2040023aef1'}",
+        "created_at": {
+            "$date": "2018-04-28T18:41:57.509Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-28T18:41:57.510Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5afdc163f63a7b0400053109"
+        },
+        "_id_Str": "{'$oid': '5afdc163f63a7b0400053109'}",
+        "created_at": {
+            "$date": "2018-05-17T17:52:35.530Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Navy Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-17T17:52:35.532Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b01af238b0e36040016b94c"
+        },
+        "_id_Str": "{'$oid': '5b01af238b0e36040016b94c'}",
+        "created_at": {
+            "$date": "2018-05-20T17:23:47.372Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Pale Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-20T17:23:47.374Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b0105c02b07d80400c9fa18"
+        },
+        "_id_Str": "{'$oid': '5b0105c02b07d80400c9fa18'}",
+        "created_at": {
+            "$date": "2018-05-20T05:21:04.166Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "3  - 9 Months / Key Lime",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-20T05:21:04.168Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b0d9a4cdcaac404000b5567"
+        },
+        "_id_Str": "{'$oid': '5b0d9a4cdcaac404000b5567'}",
+        "created_at": {
+            "$date": "2018-05-29T18:22:04.602Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / White/Light  Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-29T18:22:04.604Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b0e41ffddbec104006962c8"
+        },
+        "_id_Str": "{'$oid': '5b0e41ffddbec104006962c8'}",
+        "created_at": {
+            "$date": "2018-05-30T06:17:35.837Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / White/Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-30T06:17:35.837Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b18c0576004fe04005e4098"
+        },
+        "_id_Str": "{'$oid': '5b18c0576004fe04005e4098'}",
+        "created_at": {
+            "$date": "2018-06-07T05:19:19.961Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months / Grey  Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-07T05:19:19.962Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b20ac31152aa30400be8ba0"
+        },
+        "_id_Str": "{'$oid': '5b20ac31152aa30400be8ba0'}",
+        "created_at": {
+            "$date": "2018-06-13T05:31:29.147Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Cloud",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-13T05:31:29.149Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b23566d244d630400e3ab6a"
+        },
+        "_id_Str": "{'$oid': '5b23566d244d630400e3ab6a'}",
+        "created_at": {
+            "$date": "2018-06-15T06:02:21.163Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months /  Pale pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-15T06:02:21.171Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b28967a5510cd0400b0be01"
+        },
+        "_id_Str": "{'$oid': '5b28967a5510cd0400b0be01'}",
+        "created_at": {
+            "$date": "2018-06-19T05:36:58.647Z"
+        },
+        "filter_label": "9 - 12 Months",
+        "label": "9 Months  / Multicolour Stripes",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-19T05:36:58.648Z"
+        }
+    }
+]

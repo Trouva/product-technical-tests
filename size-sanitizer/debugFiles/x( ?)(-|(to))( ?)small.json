@@ -1,0 +1,146 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5655560a9a944a030017fd4d"
+        },
+        "_id_Str": "{'$oid': '5655560a9a944a030017fd4d'}",
+        "created_at": {
+            "$date": "2015-11-25T06:32:42.190Z"
+        },
+        "filter_label": "XS",
+        "label": "X-Small",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2015-11-25T06:32:42.190Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58186982a229180300d1e505"
+        },
+        "_id_Str": "{'$oid': '58186982a229180300d1e505'}",
+        "created_at": {
+            "$date": "2016-11-01T10:08:02.070Z"
+        },
+        "filter_label": "XS",
+        "label": "T0 x-small",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-01T10:08:02.071Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58186982ab939b03000e357c"
+        },
+        "_id_Str": "{'$oid': '58186982ab939b03000e357c'}",
+        "created_at": {
+            "$date": "2016-11-01T10:08:02.114Z"
+        },
+        "filter_label": "XS",
+        "label": "T0 (x-small)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-01T10:08:02.115Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "582552c8b8afdf04000ce2f1"
+        },
+        "_id_Str": "{'$oid': '582552c8b8afdf04000ce2f1'}",
+        "created_at": {
+            "$date": "2016-11-11T05:10:32.344Z"
+        },
+        "filter_label": "XS",
+        "label": "x-small",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2016-11-11T05:10:32.344Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a56dc32caf1004003df922"
+        },
+        "_id_Str": "{'$oid': '59a56dc32caf1004003df922'}",
+        "created_at": {
+            "$date": "2017-08-29T13:36:03.223Z"
+        },
+        "filter_label": "XS",
+        "label": "X-Small / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-29T13:36:03.225Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a56dc32caf1004003df921"
+        },
+        "_id_Str": "{'$oid': '59a56dc32caf1004003df921'}",
+        "created_at": {
+            "$date": "2017-08-29T13:36:03.222Z"
+        },
+        "filter_label": "XS",
+        "label": "X-Small / Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-29T13:36:03.224Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59a8028d4fdd9e0400c694d5"
+        },
+        "_id_Str": "{'$oid': '59a8028d4fdd9e0400c694d5'}",
+        "created_at": {
+            "$date": "2017-08-31T12:35:25.169Z"
+        },
+        "filter_label": "XS",
+        "label": "X-small",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-08-31T12:35:25.170Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59ca51311fa7340400511f01"
+        },
+        "_id_Str": "{'$oid': '59ca51311fa7340400511f01'}",
+        "created_at": {
+            "$date": "2017-09-26T13:08:01.929Z"
+        },
+        "filter_label": "XS",
+        "label": "X-SMALL",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-09-26T13:08:01.947Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab73771039d710400e6b747"
+        },
+        "_id_Str": "{'$oid': '5ab73771039d710400e6b747'}",
+        "created_at": {
+            "$date": "2018-03-25T05:45:21.694Z"
+        },
+        "filter_label": "XS",
+        "label": "X-Small /  White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-25T05:45:21.696Z"
+        }
+    }
+]

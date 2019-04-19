@@ -1,0 +1,1090 @@
+[
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5638f52ca5b717030049b833"
+        },
+        "_id_Str": "{'$oid': '5638f52ca5b717030049b833'}",
+        "created_at": {
+            "$date": "2015-11-03T17:55:56.988Z"
+        },
+        "filter_label": "XS",
+        "label": "xsmall",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2015-11-03T17:55:56.988Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ac716463d6a90400bfc7c5"
+        },
+        "_id_Str": "{'$oid': '58ac716463d6a90400bfc7c5'}",
+        "created_at": {
+            "$date": "2017-02-21T16:57:08.044Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-02-21T16:57:08.047Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58ac720275b17404008a2924"
+        },
+        "_id_Str": "{'$oid': '58ac720275b17404008a2924'}",
+        "created_at": {
+            "$date": "2017-02-21T16:59:46.407Z"
+        },
+        "filter_label": "XS",
+        "label": "Xsmall",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-02-21T16:59:46.407Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "58fa329568c2d10400735db5"
+        },
+        "_id_Str": "{'$oid': '58fa329568c2d10400735db5'}",
+        "created_at": {
+            "$date": "2017-04-21T16:25:57.469Z"
+        },
+        "filter_label": "XS",
+        "label": "XSMALL",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-04-21T16:25:57.472Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5975ed877b66eb04003bf875"
+        },
+        "_id_Str": "{'$oid': '5975ed877b66eb04003bf875'}",
+        "created_at": {
+            "$date": "2017-07-24T12:52:23.631Z"
+        },
+        "filter_label": "XS",
+        "label": "XSmall",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-07-24T12:52:23.634Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5976d707f77d0f040014ac18"
+        },
+        "_id_Str": "{'$oid': '5976d707f77d0f040014ac18'}",
+        "created_at": {
+            "$date": "2017-07-25T05:28:39.220Z"
+        },
+        "filter_label": "XS",
+        "label": "XSMALL (UK8)",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-07-25T05:28:39.222Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "59e62d2a692dda030017c0de"
+        },
+        "_id_Str": "{'$oid': '59e62d2a692dda030017c0de'}",
+        "created_at": {
+            "$date": "2017-10-17T16:17:46.496Z"
+        },
+        "filter_label": "XS",
+        "label": "X SMALL",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-10-17T16:17:46.496Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d82b105cb4b040031bad2"
+        },
+        "_id_Str": "{'$oid': '5a0d82b105cb4b040031bad2'}",
+        "created_at": {
+            "$date": "2017-11-16T12:21:05.871Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:21:05.873Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d829c49820c04002f2a99"
+        },
+        "_id_Str": "{'$oid': '5a0d829c49820c04002f2a99'}",
+        "created_at": {
+            "$date": "2017-11-16T12:20:44.454Z"
+        },
+        "filter_label": "XS",
+        "label": "XSmall / Brownish Green",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:20:44.454Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d82a82dc587040037661a"
+        },
+        "_id_Str": "{'$oid': '5a0d82a82dc587040037661a'}",
+        "created_at": {
+            "$date": "2017-11-16T12:20:56.217Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Grey Melange",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:20:56.219Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d847ba860ce040000e27a"
+        },
+        "_id_Str": "{'$oid': '5a0d847ba860ce040000e27a'}",
+        "created_at": {
+            "$date": "2017-11-16T12:28:43.972Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:28:43.980Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d84422dc58704003767b3"
+        },
+        "_id_Str": "{'$oid': '5a0d84422dc58704003767b3'}",
+        "created_at": {
+            "$date": "2017-11-16T12:27:46.586Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Grey Fur",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:27:46.589Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d849674637204007c4f47"
+        },
+        "_id_Str": "{'$oid': '5a0d849674637204007c4f47'}",
+        "created_at": {
+            "$date": "2017-11-16T12:29:10.589Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Dark Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:29:10.592Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d847ba860ce040000e279"
+        },
+        "_id_Str": "{'$oid': '5a0d847ba860ce040000e279'}",
+        "created_at": {
+            "$date": "2017-11-16T12:28:43.972Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:28:43.979Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d869c56651f040029195b"
+        },
+        "_id_Str": "{'$oid': '5a0d869c56651f040029195b'}",
+        "created_at": {
+            "$date": "2017-11-16T12:37:48.680Z"
+        },
+        "filter_label": "XS",
+        "label": "XSmall / Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:37:48.684Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d864a512d0404002c9859"
+        },
+        "_id_Str": "{'$oid': '5a0d864a512d0404002c9859'}",
+        "created_at": {
+            "$date": "2017-11-16T12:36:26.542Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Elipse",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:36:26.552Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d84446168380400ce307c"
+        },
+        "_id_Str": "{'$oid': '5a0d84446168380400ce307c'}",
+        "created_at": {
+            "$date": "2017-11-16T12:27:48.660Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Black Fur",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:27:48.665Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d864a512d0404002c9858"
+        },
+        "_id_Str": "{'$oid': '5a0d864a512d0404002c9858'}",
+        "created_at": {
+            "$date": "2017-11-16T12:36:26.541Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Ash Rose",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:36:26.551Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d847ba860ce040000e27b"
+        },
+        "_id_Str": "{'$oid': '5a0d847ba860ce040000e27b'}",
+        "created_at": {
+            "$date": "2017-11-16T12:28:43.973Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:28:43.981Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d869c56651f040029195a"
+        },
+        "_id_Str": "{'$oid': '5a0d869c56651f040029195a'}",
+        "created_at": {
+            "$date": "2017-11-16T12:37:48.679Z"
+        },
+        "filter_label": "XS",
+        "label": "XSmall / Champagne",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:37:48.682Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d8494c6c5b80400650fcd"
+        },
+        "_id_Str": "{'$oid': '5a0d8494c6c5b80400650fcd'}",
+        "created_at": {
+            "$date": "2017-11-16T12:29:08.912Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Beige",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:29:08.915Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d847ba860ce040000e27e"
+        },
+        "_id_Str": "{'$oid': '5a0d847ba860ce040000e27e'}",
+        "created_at": {
+            "$date": "2017-11-16T12:28:43.975Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Pink Floral",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:28:43.983Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d864a512d0404002c9853"
+        },
+        "_id_Str": "{'$oid': '5a0d864a512d0404002c9853'}",
+        "created_at": {
+            "$date": "2017-11-16T12:36:26.537Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:36:26.544Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d847ba860ce040000e27c"
+        },
+        "_id_Str": "{'$oid': '5a0d847ba860ce040000e27c'}",
+        "created_at": {
+            "$date": "2017-11-16T12:28:43.974Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Dark Blue Floral",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:28:43.982Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d87cf8db1cd04000e860f"
+        },
+        "_id_Str": "{'$oid': '5a0d87cf8db1cd04000e860f'}",
+        "created_at": {
+            "$date": "2017-11-16T12:42:55.384Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Green",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:42:55.394Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d8861a860ce040000e595"
+        },
+        "_id_Str": "{'$oid': '5a0d8861a860ce040000e595'}",
+        "created_at": {
+            "$date": "2017-11-16T12:45:21.492Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Khaki",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:45:21.493Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d889405cb4b040031bf23"
+        },
+        "_id_Str": "{'$oid': '5a0d889405cb4b040031bf23'}",
+        "created_at": {
+            "$date": "2017-11-16T12:46:12.574Z"
+        },
+        "filter_label": "XS",
+        "label": "Navy / XSmall",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:46:12.576Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d86c06ad0560400432ec9"
+        },
+        "_id_Str": "{'$oid': '5a0d86c06ad0560400432ec9'}",
+        "created_at": {
+            "$date": "2017-11-16T12:38:24.856Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Burgundy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:38:24.858Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d87cf8db1cd04000e8610"
+        },
+        "_id_Str": "{'$oid': '5a0d87cf8db1cd04000e8610'}",
+        "created_at": {
+            "$date": "2017-11-16T12:42:55.385Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Stripe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:42:55.396Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d87cf8db1cd04000e8611"
+        },
+        "_id_Str": "{'$oid': '5a0d87cf8db1cd04000e8611'}",
+        "created_at": {
+            "$date": "2017-11-16T12:42:55.386Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Cream",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:42:55.397Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a0d889405cb4b040031bf1f"
+        },
+        "_id_Str": "{'$oid': '5a0d889405cb4b040031bf1f'}",
+        "created_at": {
+            "$date": "2017-11-16T12:46:12.571Z"
+        },
+        "filter_label": "XS",
+        "label": "Blanc / XSmall",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-16T12:46:12.574Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a126cdba1e7fb04006b3aa9"
+        },
+        "_id_Str": "{'$oid': '5a126cdba1e7fb04006b3aa9'}",
+        "created_at": {
+            "$date": "2017-11-20T05:49:15.096Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Gold",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-20T05:49:15.098Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a150f696c45d00400839610"
+        },
+        "_id_Str": "{'$oid': '5a150f696c45d00400839610'}",
+        "created_at": {
+            "$date": "2017-11-22T05:47:21.003Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Rum",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-22T05:47:21.005Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a150f9446d36b0400438830"
+        },
+        "_id_Str": "{'$oid': '5a150f9446d36b0400438830'}",
+        "created_at": {
+            "$date": "2017-11-22T05:48:04.504Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Brown",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-11-22T05:48:04.505Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a22e4000940590400f089d3"
+        },
+        "_id_Str": "{'$oid': '5a22e4000940590400f089d3'}",
+        "created_at": {
+            "$date": "2017-12-02T17:33:52.248Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small  / Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-02T17:33:52.248Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a2a7e8f64f9800400863ad9"
+        },
+        "_id_Str": "{'$oid': '5a2a7e8f64f9800400863ad9'}",
+        "created_at": {
+            "$date": "2017-12-08T11:59:11.327Z"
+        },
+        "filter_label": "XS",
+        "label": "Youth X Small",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-08T11:59:11.331Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3943c5e8720d0400f48d78"
+        },
+        "_id_Str": "{'$oid': '5a3943c5e8720d0400f48d78'}",
+        "created_at": {
+            "$date": "2017-12-19T16:52:21.635Z"
+        },
+        "filter_label": "XS",
+        "label": "Navy /  XSmall",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-19T16:52:21.641Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3dec0d94c5ee040079be7d"
+        },
+        "_id_Str": "{'$oid': '5a3dec0d94c5ee040079be7d'}",
+        "created_at": {
+            "$date": "2017-12-23T05:39:25.187Z"
+        },
+        "filter_label": "XS",
+        "label": "XSmall / Indigo",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-23T05:39:25.188Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a3b4a7825c8f80400aac63b"
+        },
+        "_id_Str": "{'$oid': '5a3b4a7825c8f80400aac63b'}",
+        "created_at": {
+            "$date": "2017-12-21T05:45:28.788Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Light Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2017-12-21T05:45:28.789Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a4f1016fa594004000a6ae6"
+        },
+        "_id_Str": "{'$oid': '5a4f1016fa594004000a6ae6'}",
+        "created_at": {
+            "$date": "2018-01-05T05:41:42.995Z"
+        },
+        "filter_label": "XS",
+        "label": "XSmall / Stripe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-05T05:41:42.996Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a55a5b14886ec040048d5f5"
+        },
+        "_id_Str": "{'$oid': '5a55a5b14886ec040048d5f5'}",
+        "created_at": {
+            "$date": "2018-01-10T05:33:37.574Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-10T05:33:37.575Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a622382f19763040047a527"
+        },
+        "_id_Str": "{'$oid': '5a622382f19763040047a527'}",
+        "created_at": {
+            "$date": "2018-01-19T16:57:38.744Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-19T16:57:38.746Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a68152d24931c040086ffd8"
+        },
+        "_id_Str": "{'$oid': '5a68152d24931c040086ffd8'}",
+        "created_at": {
+            "$date": "2018-01-24T05:10:05.135Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Yellow",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-01-24T05:10:05.137Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a749b0e278dfc04003b0b45"
+        },
+        "_id_Str": "{'$oid': '5a749b0e278dfc04003b0b45'}",
+        "created_at": {
+            "$date": "2018-02-02T17:08:30.904Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Lava Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-02T17:08:30.906Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a749b0c29ce0f04002ad68e"
+        },
+        "_id_Str": "{'$oid': '5a749b0c29ce0f04002ad68e'}",
+        "created_at": {
+            "$date": "2018-02-02T17:08:28.275Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Multi",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-02T17:08:28.277Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a85198af1fb9d0400c5caa1"
+        },
+        "_id_Str": "{'$oid': '5a85198af1fb9d0400c5caa1'}",
+        "created_at": {
+            "$date": "2018-02-15T05:24:26.724Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Dark Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-15T05:24:26.728Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a85198af1fb9d0400c5ca9f"
+        },
+        "_id_Str": "{'$oid': '5a85198af1fb9d0400c5ca9f'}",
+        "created_at": {
+            "$date": "2018-02-15T05:24:26.722Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / White Print",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-15T05:24:26.727Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a85198af1fb9d0400c5caa0"
+        },
+        "_id_Str": "{'$oid': '5a85198af1fb9d0400c5caa0'}",
+        "created_at": {
+            "$date": "2018-02-15T05:24:26.723Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Light Pink",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-15T05:24:26.728Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a85198af1fb9d0400c5caa2"
+        },
+        "_id_Str": "{'$oid': '5a85198af1fb9d0400c5caa2'}",
+        "created_at": {
+            "$date": "2018-02-15T05:24:26.724Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Bright White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-15T05:24:26.730Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a9247895253fb0400e99bf0"
+        },
+        "_id_Str": "{'$oid': '5a9247895253fb0400e99bf0'}",
+        "created_at": {
+            "$date": "2018-02-25T05:20:09.428Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small /  Bright White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-25T05:20:09.433Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a963cf05aa234040027771b"
+        },
+        "_id_Str": "{'$oid': '5a963cf05aa234040027771b'}",
+        "created_at": {
+            "$date": "2018-02-28T05:24:00.614Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small /  Navy",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-02-28T05:24:00.621Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5a9e8f91420a020400ce351d"
+        },
+        "_id_Str": "{'$oid': '5a9e8f91420a020400ce351d'}",
+        "created_at": {
+            "$date": "2018-03-06T12:54:41.881Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Morel",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-06T12:54:41.882Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5aa0ca584a7cd104002935ea"
+        },
+        "_id_Str": "{'$oid': '5aa0ca584a7cd104002935ea'}",
+        "created_at": {
+            "$date": "2018-03-08T05:30:00.968Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Antique White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-08T05:30:00.969Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab147724e8a0f04008a4d8e"
+        },
+        "_id_Str": "{'$oid': '5ab147724e8a0f04008a4d8e'}",
+        "created_at": {
+            "$date": "2018-03-20T17:40:02.601Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Orange",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-20T17:40:02.604Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab4938b59cf050400379019"
+        },
+        "_id_Str": "{'$oid': '5ab4938b59cf050400379019'}",
+        "created_at": {
+            "$date": "2018-03-23T05:41:31.914Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Nude",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-23T05:41:31.917Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ab5e7970c1623040056fc6f"
+        },
+        "_id_Str": "{'$oid': '5ab5e7970c1623040056fc6f'}",
+        "created_at": {
+            "$date": "2018-03-24T05:52:23.117Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small /  Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-24T05:52:23.119Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5abf244ca3670b04001d8190"
+        },
+        "_id_Str": "{'$oid': '5abf244ca3670b04001d8190'}",
+        "created_at": {
+            "$date": "2018-03-31T06:01:48.143Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / White Stripe",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-03-31T06:01:48.145Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5accfd9083e5c4040052d088"
+        },
+        "_id_Str": "{'$oid': '5accfd9083e5c4040052d088'}",
+        "created_at": {
+            "$date": "2018-04-10T18:08:16.127Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small  / White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-10T18:08:16.128Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad2f2c7ede4650400329581"
+        },
+        "_id_Str": "{'$oid': '5ad2f2c7ede4650400329581'}",
+        "created_at": {
+            "$date": "2018-04-15T06:35:51.091Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small  / Light Grey",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-15T06:35:51.092Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ad63e3073ec3a0400e50ad6"
+        },
+        "_id_Str": "{'$oid': '5ad63e3073ec3a0400e50ad6'}",
+        "created_at": {
+            "$date": "2018-04-17T18:34:24.083Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / Off Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-17T18:34:24.084Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae0abf175036d0400b76a4a"
+        },
+        "_id_Str": "{'$oid': '5ae0abf175036d0400b76a4a'}",
+        "created_at": {
+            "$date": "2018-04-25T16:25:21.175Z"
+        },
+        "filter_label": "XS",
+        "label": "30\"/XSmall",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-25T16:25:21.176Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae0a92175036d0400b7671e"
+        },
+        "_id_Str": "{'$oid': '5ae0a92175036d0400b7671e'}",
+        "created_at": {
+            "$date": "2018-04-25T16:13:21.265Z"
+        },
+        "filter_label": "XS",
+        "label": "30\"/Xsmall",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-25T16:13:21.268Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5ae35d8d0e52fe0400da0c0a"
+        },
+        "_id_Str": "{'$oid': '5ae35d8d0e52fe0400da0c0a'}",
+        "created_at": {
+            "$date": "2018-04-27T17:27:41.080Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small /  Multi",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-04-27T17:27:41.082Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5af143876e225f040069d724"
+        },
+        "_id_Str": "{'$oid': '5af143876e225f040069d724'}",
+        "created_at": {
+            "$date": "2018-05-08T06:28:23.997Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small / White/Blue",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-08T06:28:23.998Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b045e1aff58cb0400a5b1de"
+        },
+        "_id_Str": "{'$oid': '5b045e1aff58cb0400a5b1de'}",
+        "created_at": {
+            "$date": "2018-05-22T18:14:50.026Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small /  White",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-05-22T18:14:50.027Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b13788742329804002516e6"
+        },
+        "_id_Str": "{'$oid': '5b13788742329804002516e6'}",
+        "created_at": {
+            "$date": "2018-06-03T05:11:35.113Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small  / Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-03T05:11:35.114Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b22123ce211dc04006b6cb6"
+        },
+        "_id_Str": "{'$oid': '5b22123ce211dc04006b6cb6'}",
+        "created_at": {
+            "$date": "2018-06-14T06:59:08.036Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small  / Black",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-14T06:59:08.037Z"
+        }
+    },
+    {
+        "__v": 0,
+        "_id": {
+            "$oid": "5b27f869ef090a0400ce1f2c"
+        },
+        "_id_Str": "{'$oid': '5b27f869ef090a0400ce1f2c'}",
+        "created_at": {
+            "$date": "2018-06-18T18:22:33.598Z"
+        },
+        "filter_label": "XS",
+        "label": "X Small /  Red",
+        "old_label": [],
+        "updated_at": {
+            "$date": "2018-06-18T18:22:33.599Z"
+        }
+    }
+]

@@ -89,21 +89,33 @@ data_original['_id_Str'] = data_original['_id'].astype(str);
 
 ################## XS S M L XL XXL 
 #Regex
-regexString = r'(^(MATCHSTR)$)|(^(MATCHSTR)[-\/\\ ])|([-\/\\ ](MATCHSTR)[-\/\\ ])|([-\/\\ ](MATCHSTR)$)|([-\/\\ ](MATCHSTR)[-\/\\ ])';
+regexString = r'(^|-|\/|\\| |\()(MATCHSTR)($|-|\/|\\| |\)|\()';
 regex_Filters = [
+			{"matchStr": "xx - s", "filterStr": "XXS"},
 			{"matchStr": "xx s", "filterStr": "XXS"},
+			{"matchStr": "xx - small", "filterStr": "xs"},
 			{"matchStr": "xx small", "filterStr": "xs"},
+			{"matchStr": "x - s", "filterStr": "XS"},
 			{"matchStr": "x s", "filterStr": "XS"},
+			{"matchStr": "x - small", "filterStr": "XS"},
 			{"matchStr": "x small", "filterStr": "XS"},
+			{"matchStr": "extra - small", "filterStr": "XS"},
 			{"matchStr": "extra small", "filterStr": "XS"},
 			{"matchStr": "s", "filterStr": "S"}, 
 			{"matchStr": "small", "filterStr": "S"},
 			{"matchStr": "medium", "filterStr": "M"},
 			{"matchStr": "m", "filterStr": "M"},
-			{"matchStr": "xxl", "filterStr": "XXL"},
-			{"matchStr": "xxlarge", "filterStr": "XXL"},
-			{"matchStr": "xl", "filterStr": "XL"},
-			{"matchStr": "xlarge", "filterStr": "XL"},
+			{"matchStr": "xxx - l", "filterStr": "XXXL"},
+			{"matchStr": "xxx l", "filterStr": "XXXL"},
+			{"matchStr": "xx - l", "filterStr": "XXL"},
+			{"matchStr": "xx l", "filterStr": "XXL"},
+			{"matchStr": "xx - large", "filterStr": "XXL"},
+			{"matchStr": "xx large", "filterStr": "XXL"},
+			{"matchStr": "x - l", "filterStr": "XL"},
+			{"matchStr": "x l", "filterStr": "XL"},
+			{"matchStr": "x - large", "filterStr": "XL"},
+			{"matchStr": "x large", "filterStr": "XL"},
+			{"matchStr": "extra - large", "filterStr": "XL"},
 			{"matchStr": "extra large", "filterStr": "XL"},
 			{"matchStr": "large", "filterStr": "L"},
 			{"matchStr": "l", "filterStr": "L"}
@@ -179,6 +191,7 @@ data_original =  pd.concat([data_original,data_BabyLooseResults]).drop_duplicate
 
 
 
+
 ######### OUTPUT TO FILE
 
 
@@ -197,7 +210,7 @@ with open('data_cleanse.json', 'w') as outfile:
 # Save unclassified to file
 data_unclassified = data_original.query('filter_label!=filter_label');
 data_JSONunclassified = json.loads(data_unclassified.to_json(orient='records'));
-with open('debugFilesBaby/' + 'data_unclassified.json', 'w') as outfile:
+with open('debugFiles/' + 'data_unclassified.json', 'w') as outfile:
     json.dump(data_JSONunclassified, outfile, indent=4, sort_keys=True);
 
 # Append remaining data to results count file
@@ -206,7 +219,7 @@ changeTracker.append({"matchStr": 'total classified', "filterStr": 'na', "count"
 
 # print results to file
 print(changeTracker);
-with open('debugFilesBaby/' + 'ResultCounts.json', 'w') as outfile:
+with open('debugFiles/' + 'ResultCounts.json', 'w') as outfile:
     json.dump(changeTracker, outfile, indent=4, sort_keys=True);
 
 
