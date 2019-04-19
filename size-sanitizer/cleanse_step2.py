@@ -17,7 +17,7 @@ def readJson(filename):
 	return data;
 
 
-def classifyMe(regexString, regex_Filters, currentDS):
+def classifyMe(regexString, regex_Filters, currentDS, excludeRowsWithExistingFilter=True):
 	global changeTracker, classified_Total;
 
 	print("Start classifying!");
@@ -27,7 +27,8 @@ def classifyMe(regexString, regex_Filters, currentDS):
 	for regex in regex_Filters:
 
 		#only classify nulls
-		data_current = currentDS.query('filter_label!=filter_label')
+		if(excludeRowsWithExistingFilter):
+			data_current = currentDS.query('filter_label!=filter_label')
 
 		#Get current string + filter
 		curr_MatchStr = regex.get("matchStr","");
@@ -42,14 +43,12 @@ def classifyMe(regexString, regex_Filters, currentDS):
 		currentRegex = regexString.replace("MATCHSTR", curr_MatchStr);
 
 
-		print("PRINT: " + currentRegex)
 		# Filter based off regex
 		data_result = data_current[data_current['label'].str.contains(currentRegex, flags=re.IGNORECASE, regex=True)];
 
 		# Assign all rows that fit the regex to the filter
 		data_result.filter_label = curr_FilterStr;
 
-		print(data_result)
 
 		# Append data_result (with new filters) to current data, and drop duplicates via ID
 		currentDS = pd.concat([currentDS,data_result]).drop_duplicates('_id_Str',keep='last');
@@ -76,8 +75,11 @@ def classifyMe(regexString, regex_Filters, currentDS):
 
 
 
+#############INGEST FILE
 
-data = readJson('../mongo-seed/sizes.json');
+#data = readJson('../mongo-seed/sizes.json');
+with open('data_cleanse.json', encoding = 'utf-8-sig') as json_file:
+    data = json.load(json_file);
 
 # Convert to DataFrame
 data_original = pd.DataFrame.from_records(data);
@@ -85,11 +87,11 @@ data_original = pd.DataFrame.from_records(data);
 data_original['_id_Str'] = data_original['_id'].astype(str);
 
 
-#=====================MATCH TO FILTER
-
-
-
-
+#############################################################################################################
+#
+#							BUCKET FILTERS BY LABEL
+#
+############################################################################################################
 
 ################## XS S M L XL XXL 
 #Regex
@@ -126,11 +128,6 @@ regex_Filters = [
 			];
 
 data_original = classifyMe(regexString, regex_Filters, data_original);
-
-
-
-
-
 
 
 

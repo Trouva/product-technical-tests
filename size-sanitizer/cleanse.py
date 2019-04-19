@@ -7,6 +7,7 @@ import re
 changeTracker = [];
 classified_Total = 0;
 
+
 def readJson(filename):
 	# Get json
 	data = [];
@@ -35,11 +36,15 @@ def debugPrint(currentData, fileName):
 
 
 def getSubGroup(currentData, currentRegex):
+
 	returnData = currentData.query('filter_label!=filter_label')
 	returnData = returnData[returnData['label'].str.contains(currentRegex, flags=re.IGNORECASE, regex=True)];
 	returnData['filter_label'] = returnData['label'].str.extract(currentRegex, expand=True, flags=re.IGNORECASE)[0].str.replace(' ', '')
 	return returnData;
 
+
+
+####Initial readin of file
 data = readJson('../mongo-seed/sizes.json');
 
 # Convert to DataFrame
@@ -48,19 +53,36 @@ data_original = pd.DataFrame.from_records(data);
 data_original['_id_Str'] = data_original['_id'].astype(str);
 
 
+
+
+#############################################################################################################
+#
+#							ASSIGNING FILTERS AUTOMATICALLY
+#
+############################################################################################################
+
+
 #=====================MATCH UK/EU to FILTER
 
-######MATCH E.G. 45EU first
+######MATCH ANYTHING OF THESE PATTERNS:
+######			EU40
+######			EU 40
+######			UK40
+######			UK 40
 currentRegex = r"(((UK)|(EU))( )*[0-9]{1,2}((\.)[0-9])?)";
 data_EUUK = getSubGroup(data_original, currentRegex)
 
 
-#Add back to main results
+
 data_original = joinData(data_EUUK, data_original);
 debugPrint(data_EUUK, 'data_EUUK');
 
 
-######MATCH E.G. 45EU 
+######MATCH ANYTHING OF THESE PATTERNS:
+######			45EU
+######			45 EU
+######			45UK
+######			45 UK
 currentRegex = r"([0-9]{1,2}((\.)[0-9])?( )*((UK)|(EU)))";
 data_EUUKV2 = getSubGroup(data_original, currentRegex)
 
@@ -71,10 +93,12 @@ data_EUUKV2['filter_label'] = data_EUUKV2['filter_label'].str[-2:] + data_EUUK['
 data_original = joinData(data_EUUKV2, data_original);
 debugPrint(data_EUUKV2, 'data_EUUK_2');
 
+
+
 #================MATCH BABY THINGS
 
 #######MATCH Youth and baby
-currentRegex = r"([0-9]{1,2}( )?(\-|(to))( )?[0-9]{1,2}( )?((years)|yrs|(year)|(yr)|(mths)|(mth)|(month)|(months)))";
+currentRegex = r'([0-9]{1,2}(\s)*(\-|(to))(\s)*[0-9]{1,2}(\s)*((years)|yrs|(year)|(yr)|(months)|(mths)|(mth)|(month)))';
 data_Youth = getSubGroup(data_original, currentRegex)
 
 #Formatting Step
@@ -109,7 +133,7 @@ data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'M
 
 #Add back to main results
 data_original = joinData(data_Youth, data_original);
-debugPrint(data_Youth, 'data_EUUK');
+debugPrint(data_Youth, 'data_Youth');
 
 
 #######MATCH newborn
