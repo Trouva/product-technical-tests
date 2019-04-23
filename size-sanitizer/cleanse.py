@@ -20,7 +20,8 @@ def readJson(filename):
 def joinData(currentData, originalData):
 	return pd.concat([originalData,currentData]).drop_duplicates('_id_Str',keep='last');
 
-def debugPrint(currentData, fileName):
+def debugPrint(currentData, fileName, matchStr, filterStr):
+	global changeTracker, classified_Total;
 	####### DEBUGGING
 
 	# Write all matches to a filter file to analyse
@@ -31,7 +32,11 @@ def debugPrint(currentData, fileName):
 		json.dump(data_debug, outfile, indent=4, sort_keys=True);
 
 	# Update counts to the overall results count file
+
+
 	noOfClassified = len(currentData)
+	changeTracker.append({"matchStr": matchStr, "filterStr": filterStr, "count":noOfClassified});
+	classified_Total = classified_Total + noOfClassified;
 	print("Classified: " + str(noOfClassified));
 
 
@@ -75,7 +80,7 @@ data_EUUK = getSubGroup(data_original, currentRegex)
 
 
 data_original = joinData(data_EUUK, data_original);
-debugPrint(data_EUUK, 'data_EUUK');
+debugPrint(data_EUUK, 'data_EUUK', "EU_UK_1", "EUUK");
 
 
 ######MATCH ANYTHING OF THESE PATTERNS:
@@ -91,8 +96,10 @@ data_EUUKV2['filter_label'] = data_EUUKV2['filter_label'].str[-2:] + data_EUUK['
 
 #Add back to main results
 data_original = joinData(data_EUUKV2, data_original);
-debugPrint(data_EUUKV2, 'data_EUUK_2');
 
+
+######DEBUG
+debugPrint(data_EUUKV2, 'data_EUUK_2', "EU_UK_2", "EUUK");
 
 
 #================MATCH BABY THINGS
@@ -133,7 +140,7 @@ data_Youth['filter_label']=data_Youth['filter_label'].str.replace(regex_baby, 'M
 
 #Add back to main results
 data_original = joinData(data_Youth, data_original);
-debugPrint(data_Youth, 'data_Youth');
+debugPrint(data_Youth, 'data_Youth', "youth", "months/years");
 
 
 #######MATCH newborn
@@ -147,7 +154,7 @@ data_NewBorn['filter_label']=data_NewBorn['filter_label'].str.replace(regex_baby
 
 #Add back to main results
 data_original = joinData(data_NewBorn, data_original);
-debugPrint(data_NewBorn, 'data_NewBorn');
+debugPrint(data_NewBorn, 'data_NewBorn', "baby", "newborn");
 
 
 
