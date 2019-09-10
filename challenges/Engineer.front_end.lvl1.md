@@ -41,7 +41,7 @@ More information on the Docker Compose setup can be found in the Readme at the r
 
 Please clone/fork this repo to your personal computer and create a branch to hold your work, committing to Git as you go. You should put your application into the `web-app` folder.
 
-Once you are ready to submit, we would like you to create a zip file of your branch and email it over to us.
+Once you are ready to submit, we would like you to create a zip file of your branch and send it over to us.
 
 1. To create a Zip archive of your branch use: `git archive -o ./trouva-test.zip <your_branch_name>`
-2. Then please email it to george@trouva.com
+2. Then please make it available in a shared Dropbox/Google Drive (or email it to paulo.ferreira@trouva.com)
