@@ -41,6 +41,7 @@ You've determined with the squad that you have the following deliverables:
 1. Populate all existing boutiques in the database with their Google Places ID 
 2. Whenever a new boutique is create or updated, you need to retrieve and store the Google Places ID
 3. Return the Google Places ID as part of the API response
+4. Please include a Readme which outlines what you did and why, considerations, how to run it, etc.
 
 ## Submitting the challenge
 
@@ -49,4 +50,4 @@ Please clone/fork this repo to your personal computer and create a branch to hol
 Once you are ready to submit, we would like you to create a zip file of your branch and email it over to us.
 
 1. To create a Zip archive of your branch use: `git archive -o ./trouva-test.zip <your_branch_name>`
-2. Then please email it to alex@trouva.com
+2. Then please email it to tech-test@trouva.com.  (Note: you may have to alternatively email us a link to a zip stored in Google Drive/Dropbox)
