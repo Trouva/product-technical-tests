@@ -28,14 +28,21 @@ You should develop a web app that works in at least the latest version of Chrome
 
 You can use any technologies or frameworks that you want to develop the experience.
 
+Please include a Readme which outlines what you did and why, considerations, how to run it, etc.
+
 ## Accessing the data
 
-This repository comes with a docker-compose setup that will spin up an API with boutique data. You can then access the data from the following endpoint:
+You have two choices:
 
-- `http://localhost:3050/v1/boutiques`
+### Use local endpoint
+
+This repository comes with a docker-compose setup that will spin up an API with boutique data. You can then access the data from the following endpoint: `http://localhost:3050/v1/boutiques`
 
 More information on the Docker Compose setup can be found in the Readme at the root of this repository.
 
+### Use public endpoint
+
+The data can also be accessed via the following public endpoint: `https://4149o8lffa.execute-api.eu-west-1.amazonaws.com/challenge/boutiques`
 
 ## Submitting the challenge
 
@@ -44,4 +51,4 @@ Please clone/fork this repo to your personal computer and create a branch to hol
 Once you are ready to submit, we would like you to create a zip file of your branch and send it over to us.
 
 1. To create a Zip archive of your branch use: `git archive -o ./trouva-test.zip <your_branch_name>`
-2. Then please make it available in a shared Dropbox/Google Drive (or email it to paulo.ferreira@trouva.com)
+2. Then please make it available in a shared Dropbox/Google Drive, emailing it to `tech-test@trouva.com`
