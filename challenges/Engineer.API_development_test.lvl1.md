@@ -26,19 +26,26 @@ Then next week we are going to hand the tool over to our sales team who are out 
 
 We have agreed on an API request structure:
 
-`/v1/boutiques/near?latitude=51.5282302&longitude=-0.1045952&limit=5`
-
-And to start with we are going to have the API return the boutique_id and distance in meters:
+And to start with we are going to have the API return the boutique name and the location in lat,lng:
 
 ```
 HTTP/1.1 200 OK
 [{
-  "boutique_id": "5234d2b244e937489c00011c",
-  "distance": 370
-}]
+  _id: "58f8993879b34604006c2f1b",
+  name: "Store Thirty3",
+  slug: "store-thirty3-in-ss91sw",
+  location: {
+    lon: 0.6539279000000001,
+    lat: 51.5423065
+  },
+  description: "Store Thirty3 prides itself on being an ever-changing, inspirational boutique full of beautiful homeware and lifestyle products with a distinctly Scandinavian feel. Their range includes designer homeware from brands like House Doctor and Bloomingville, luxury clothing from brands including Saint Tropez, Soaked In Luxury and Coster Copenhagen, stunning jewellery and a collection of bags and accessories.",
+  founder_quote: ""
+},
+...]
 ```
 
-The basic route has been setup already in [routes.js](./boutique-service/src/httpApi/v1/routes.js) and a stub handler for the api request in [boutiquesNear.js](./boutique-service/src/httpApi/v1/handlers/boutiquesNear.js).
+Use public endpoint
+The data can also be accessed via the following public endpoint: https://4149o8lffa.execute-api.eu-west-1.amazonaws.com/challenge/boutiques
 
 ## Submitting the challenge
 
@@ -47,4 +54,4 @@ Please clone/fork this repo to your personal computer and create a branch to hol
 Once you are ready to submit, we would like you to create a zip file of your branch and email it over to us.
 
 1. To create a Zip archive of your branch use: `git archive -o ./trouva-test.zip <your_branch_name>`
-2. Then please email it to alex@trouva.com
+2. Then please email it to technical-test@streethub.com
