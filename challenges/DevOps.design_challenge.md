@@ -41,4 +41,4 @@ We want to see:
 
 ## Submitting the challenge
 
-Once you have something ready email it over to alex@trouva.com. If you have any questions or want some extra insight then also drop George an email and he will be happy to help.
+Once you have something ready email it over to tech-test@trouva.com. 
