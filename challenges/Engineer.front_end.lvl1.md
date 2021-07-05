@@ -34,12 +34,6 @@ Please include a Readme which outlines what you did and why, considerations, how
 
 You have two choices:
 
-### Use local endpoint
-
-This repository comes with a docker-compose setup that will spin up an API with boutique data. You can then access the data from the following endpoint: `http://localhost:3050/v1/boutiques`
-
-More information on the Docker Compose setup can be found in the Readme at the root of this repository.
-
 ### Use public endpoint
 
 The data can also be accessed via the following public endpoint: `https://4149o8lffa.execute-api.eu-west-1.amazonaws.com/challenge/boutiques`
