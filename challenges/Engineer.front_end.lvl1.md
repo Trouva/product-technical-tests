@@ -40,9 +40,9 @@ The data can also be accessed via the following public endpoint: `https://4149o8
 
 ## Submitting the challenge
 
-Please clone/fork this repo to your personal computer and create a branch to hold your work, committing to Git as you go. You should put your application into the `web-app` folder.
+Please clone/fork this repo to your personal computer and create a branch to hold your work, committing to Git as you go.
 
-Once you are ready to submit, we would like you to create a zip file of your branch and send it over to us.
+Once you are ready to submit, we would like you to create a zip file of your branch and email it over to us.
 
 1. To create a Zip archive of your branch use: git archive -o ./trouva-test.zip <your_branch_name>
 2. Then please email it to technical-test@trouva.com
