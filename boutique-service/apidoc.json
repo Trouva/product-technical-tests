@@ -1,8 +1,0 @@
-{
-  "name": "boutique-service",
-  "description": "HTTP API to the boutique-service",
-  "apidoc": {
-    "title": "boutique-service",
-    "url" : "https://www.trouva.com/api/boutique-service/"
-  }
-}

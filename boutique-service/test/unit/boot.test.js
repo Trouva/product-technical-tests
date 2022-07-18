@@ -6,7 +6,7 @@ import * as boot from '../../src/boot';
 
 const chance = new Chance();
 
-function buildMockMongoose(){
+function buildMockMongoose() {
     return {
         connect: new Sinon.stub(),
         connection: new EventEmitter()

@@ -1,6 +1,6 @@
-import routes from './routes';
-import * as handlers from './handlers';
-import errorHandler from './error';
+import routes from './routes.js';
+import * as handlers from './handlers/index.js';
+import errorHandler from './error.js';
 
 export default {
     namespace: 'v1',

@@ -1,4 +1,4 @@
-import boot from './boot';
+import boot from './boot.js';
 
 boot({
     environment: process.env.NODE_ENV || 'development',

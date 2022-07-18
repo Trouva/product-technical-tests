@@ -1,7 +1,7 @@
 import compression from 'compression';
 import _ from 'lodash';
 import cors from 'cors';
-import * as models from '../models';
+import * as models from '../models/index.js';
 
 export default function buildAPI(express, routes) {
     // Build express app
@@ -22,8 +22,6 @@ export default function buildAPI(express, routes) {
     app.get('/ping', (req, res) => {
         res.send('pong');
     });
-
-    app.use('/docs/', express.static('../../docs'));
 
     _.each(routes, config => {
         const router = express();

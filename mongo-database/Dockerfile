@@ -1,4 +1,4 @@
-FROM mongo:3.6.4
+FROM mongo:4.4
 
 EXPOSE 27017
 CMD ["mongod"]

@@ -1,1 +1,1 @@
-export {default as boutique} from './boutique';
+export {default as boutique} from './boutique.js';

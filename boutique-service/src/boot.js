@@ -1,11 +1,11 @@
 import express from 'express';
 import Bluebird from 'bluebird';
 import mongoose from 'mongoose';
-import apiConstructor from './httpApi/constructor';
-import v1api from './httpApi/v1';
+import apiConstructor from './httpApi/constructor.js';
+import v1api from './httpApi/v1/index.js';
 
-export function connectToMongo(mongoose, dbConnectionString){
-    mongoose.connect(dbConnectionString);
+export function connectToMongo(mongoose, dbConnectionString) {
+    mongoose.connect(dbConnectionString, { useNewUrlParser: true, useUnifiedTopology: true });
 
     return new Bluebird((resolve, reject) => {
         const db = mongoose.connection;

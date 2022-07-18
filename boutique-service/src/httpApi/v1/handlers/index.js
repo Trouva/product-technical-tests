@@ -1,2 +1,2 @@
-export {default as boutiques} from './boutiques';
-export {default as boutiquesNear} from './boutiquesNear';
+export {default as boutiques} from './boutiques.js';
+export {default as boutiquesNear} from './boutiquesNear.js';

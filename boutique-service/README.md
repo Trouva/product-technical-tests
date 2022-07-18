@@ -17,7 +17,7 @@ If you want to run outside of Docker then you will need to configure your own in
 
 There is a simple HTTP API that returns a list of Trouva boutiques. This is currently a very simple API that will return all of the boutiques within the database without anything like pagination or filtering.
 
-Full API docs can be found in [./docs/index.html](./docs/index.html).
+The OpenAPI for the boutique can be found here: https://github.com/Trouva/product-technical-tests/blob/master/boutique-service/src/httpApi/v1/routes.js#L28
 
 ## Architecture
 
@@ -27,4 +27,6 @@ The structure of the application is automatically generated from a service templ
 
 ## Testing
 
-There are some basic tests implemented using (https://mochajs.org)[Mocha] as the test runner and (http://www.chaijs.com/)[Chai] for assertions. In a real life project we would likely have used (https://github.com/avajs/ava)[Ava] for the testing, and that is built into the project template, however the test have been implemented with Mocha/Chai as people are more likely to be immediately familiar with that ecosystem of tools.
+Currently the project contains only unit tests. To run the tests:
+
+> npm run test
