@@ -44,6 +44,10 @@ HTTP/1.1 200 OK
 ...]
 ```
 
+## Notes
+
+Instructions on how to run the `boutique-service` can be found [here](https://github.com/Trouva/product-technical-tests/tree/master/boutique-service).
+
 ## Submitting the challenge
 
 Please clone/fork this repo to your personal computer and create a branch to hold your work, committing to Git as you go.
