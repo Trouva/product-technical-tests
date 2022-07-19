@@ -1,8 +1,8 @@
 # Engineering Technical Test: API Development
 
-As an engineer at Trouva one of your responsibilities will be the maintenance and evolution of our APIs.
+As an Engineer at Trouva one of your responsibilities will be the maintenance and evolution of our APIs.
 
-We have an ever growing number of services mostly written in Javascript (though a few in Python) and a large chunk of core functionality powered by our original "monolith". Many of these services follow a similar design pattern to what you will see in the `boutique-service`, though they fork off to support their individual characteristics. This common structure allows us to quickly deploy into our hosted Docker clusters from the first commit in a project. However it isn't meant to be restrictive, for example there are also a number built with the [Serverless framework](https://serverless.com/) on top of [AWS Lambda](https://aws.amazon.com/lambda/) - the best solution is up to the engineering team working on the problem.
+We have an ever growing number of services mostly written in Javascript and a large chunk of core functionality powered by our original "monolith". Many of these services follow a similar design pattern to what you will see in the `boutique-service`, though they fork off to support their individual characteristics. This common structure allows us to quickly deploy into our hosted Docker clusters from the first commit in a project. However it isn't meant to be restrictive, for example there are also a number built with the [Serverless framework](https://serverless.com/) on top of [AWS Lambda](https://aws.amazon.com/lambda/) - the best solution is up to the Engineering team working on the problem.
 
 For the purposes of this challenge we have setup a simple service to return a list of boutiques across the UK and the rest of Europe that you can find on Trouva. It is very basic, but should demonstrate some of the tools for accessing and returning data within the `boutique-service`.
 
@@ -35,6 +35,10 @@ We know that we need to account for:
 2. We need this information to be stored both for existing and new boutiques, as well as refreshed when a boutique is updated
 
 Reminder: During the setup of this project, your local db is seeded with a list of existing boutiques
+
+## Important
+
+You do not need to configure a Google API account to fetch the data - you can either Mock the request or Simply fake the call to Google and return a random string.
 
 ## Deliverables
 You've determined with the squad that you have the following deliverables:
