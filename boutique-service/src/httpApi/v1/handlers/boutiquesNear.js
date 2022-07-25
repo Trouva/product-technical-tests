@@ -1,3 +1,3 @@
-export default function boutiques({}, req, res, next) {
+export default function boutiquesNear({}, req, res, next) {
     res.status(500).send();
 }
