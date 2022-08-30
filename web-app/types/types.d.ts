@@ -12,3 +12,10 @@ interface APIBoutique {
   }
   founder_quote: string
 }
+
+interface Boutique extends APIBoutique{
+  distance: number
+  logo: {
+    url: string
+  }
+}
