@@ -2,6 +2,7 @@ import { useState } from "react";
 import type { NextPage } from "next";
 import dynamic from "next/dynamic";
 
+import FooterButton from "../components/FooterButton";
 import TopBar from "../components/Head";
 import BoutiqueList from "../components/BoutiqueList";
 
@@ -22,9 +23,9 @@ const Home: NextPage = () => {
       ) : (
         <BoutiqueList loading={loading} data={boutiques} />
       )}
-      <div onClick={() => setShowMap((e) => !e)}>
+      <FooterButton onClick={() => setShowMap((e) => !e)}>
         <b>Show as {!showMap ? "Map 📍" : "List"}</b>
-      </div>
+      </FooterButton>
     </>
   );
 };
