@@ -4,6 +4,8 @@ import GlobalStyle from "../layout/GlobalStyle";
 import { AppProvider } from "../contexts/AppProvider";
 import { BoutiquesProvider } from "../contexts/BoutiquesProvider";
 import 'react-loading-skeleton/dist/skeleton.css'
+import 'leaflet/dist/leaflet.css';
+
 
 const MyApp = ({ Component, pageProps }: AppProps) => (
   <>
