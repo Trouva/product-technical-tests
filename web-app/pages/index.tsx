@@ -1,16 +1,30 @@
+import { useState } from "react";
 import type { NextPage } from "next";
+import dynamic from "next/dynamic";
 
 import TopBar from "../components/Head";
-
-import { useBoutiques } from "../hooks/useBoutiques";
 import BoutiqueList from "../components/BoutiqueList";
 
+import { useBoutiques } from "../hooks/useBoutiques";
+import { useApp } from "../hooks/useApp";
+
+const Map = dynamic(() => import("../components/Map"), { ssr: false });
+
 const Home: NextPage = () => {
-  const { boutiques, loading } = useBoutiques();
+  const { showMap, setShowMap } = useApp();
+  const { currentLocation, boutiques, loading } = useBoutiques();
+
   return (
     <>
       <TopBar />
-      <BoutiqueList loading={loading} data={boutiques} />
+      {showMap ? (
+        <Map center={currentLocation} data={boutiques} />
+      ) : (
+        <BoutiqueList loading={loading} data={boutiques} />
+      )}
+      <div onClick={() => setShowMap((e) => !e)}>
+        <b>Show as {!showMap ? "Map 📍" : "List"}</b>
+      </div>
     </>
   );
 };
